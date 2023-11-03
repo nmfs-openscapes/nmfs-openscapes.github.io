@@ -4,9 +4,6 @@ title: "Current Activities"
 
 ## October-December 2023: NMFS Mentors Cohort!
 
-**Please join us: nominate yourself in [this Google Form](https://forms.gle/LJF9gTZCX7ThTzSm9) by Sept 23!**   
-**["Is this for me?" 5-min slides](https://docs.google.com/presentation/d/1cSLanri2GM_zKYgI4MzzSdwN1U6WIm01atInGeohTJw/edit?usp=sharing)**
-
 Through facilitation and practical training for mentoring, teaching, and coaching, Openscapes will help NMFS mentors strengthen skills and strategies to support colleagues with diverse comfort levels with software, coding, and data, while also strengthening relationships across centers/offices. Through this, mentors will identify and co-create on common resources and activities – such as code or databases for identical tasks or community developed standard practices – so there is less reinventing at each center. 
 
 The FY24 mentor cohort will start with a mentors-only Openscapes Champions cohort (facilated bi-weekly group meetings) during which Openscapes will guide the mentor cohort in discussing the needs and challenges for adoption of Open Science in NMFS and to develop actions to take. The facilitated meeting are vitual and twice monthly. Mentors will also collaborate asynchronously (e.g. Google Chat, GitHub). During the fall session, mentors will learn and practice coaching and mentoring skills in preparation for the winter Champions cohorts. We will also start identifying cross-center roadblocks that mentors can collaborate on throughout the next years. 
