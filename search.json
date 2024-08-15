@@ -377,29 +377,39 @@
   {
     "objectID": "champions.html",
     "href": "champions.html",
-    "title": "Champions",
+    "title": "Openscapes Champions Cohorts",
     "section": "",
-    "text": "Together with the NMFS Mentor Community, Openscapes will be leading 3 Champions Cohorts in Fall 2024. Work-in-progress draft slides for engaging potential participants.\nWhat is the Champions Program? The Openscapes curriculum teaches psychological safety skills, team bonding and empathy skills, framed in the context of data-intensive science. It teaches practical ways to do this in one’s day to day interactions with the team and with others. Why? The goal is to help teams improve their workflows or tackle another big hard task. This requires that people be able to talk openly about issues and be vulnerable by discussing things that they or the team struggles with. Also the whole team needs to be able to do this. Psychological safety is needed for less ‘powerful’ or privileged members to feel empowered and safe. It is also needed for team leaders to be able to discuss their own limitations and lack of knowledge. How? In addition to the curriculum, teams tackle a specific project that they decide is important for their work, and have opportunities to cowork with others around particular data science themes.",
+    "text": "The NMFS Openscapes Mentor Community will be leading 3 Champions Cohorts in Fall 2024! Read on to learn what this is and how to sign up.",
     "crumbs": [
       "Champions Program"
     ]
   },
   {
-    "objectID": "champions.html#not-your-traditional-trainingworkshop",
-    "href": "champions.html#not-your-traditional-trainingworkshop",
-    "title": "Champions",
-    "section": "",
-    "text": "Together with the NMFS Mentor Community, Openscapes will be leading 3 Champions Cohorts in Fall 2024. Work-in-progress draft slides for engaging potential participants.\nWhat is the Champions Program? The Openscapes curriculum teaches psychological safety skills, team bonding and empathy skills, framed in the context of data-intensive science. It teaches practical ways to do this in one’s day to day interactions with the team and with others. Why? The goal is to help teams improve their workflows or tackle another big hard task. This requires that people be able to talk openly about issues and be vulnerable by discussing things that they or the team struggles with. Also the whole team needs to be able to do this. Psychological safety is needed for less ‘powerful’ or privileged members to feel empowered and safe. It is also needed for team leaders to be able to discuss their own limitations and lack of knowledge. How? In addition to the curriculum, teams tackle a specific project that they decide is important for their work, and have opportunities to cowork with others around particular data science themes.",
+    "objectID": "champions.html#what-is-the-champions-program",
+    "href": "champions.html#what-is-the-champions-program",
+    "title": "Openscapes Champions Cohorts",
+    "section": "What is the Champions Program?",
+    "text": "What is the Champions Program?\nOpenscapes Champions is a remote-by-design, cohort-based mentorship program that helps teams reimagine workflows, develop modern skills that are of immediate value to them, and cultivate inclusive collaborations with their colleagues. It is focused on open science and data modernization via biweekly curriculum that Openscapes has improved over 24 Cohorts 2019-2024 (including 10 with NMFS!) The goal is strengthening a teaching and learning culture within teams and organizations. This program is not only for scientists: admin, IT staff, and beyond are welcomed.\nThrough Openscapes cohorts, you focus on your own work with your team. As the program introduces modern concepts, tooling, and examples from your peers for collaborative open data science, your team focuses on where you are and where you want to go together. Openscapes Champions is “not your traditional training/workshop” because teams:\n\nHave real-world experiential learning: developing psychological safety and habits for implementing change\nLearn together and get unstuck: Teams identify and make progress on barriers as Openscapes introduces modern concepts, tooling, and examples from peers\nWork on what is important to them, often something hard to do. Something they want to change.",
     "crumbs": [
       "Champions Program"
     ]
   },
   {
-    "objectID": "champions.html#sign-up-with-a-colleague-or-team-for-fall-2024",
-    "href": "champions.html#sign-up-with-a-colleague-or-team-for-fall-2024",
-    "title": "Champions",
-    "section": "Sign up with a colleague or team for Fall 2024",
-    "text": "Sign up with a colleague or team for Fall 2024\nDetails coming soon!",
+    "objectID": "champions.html#champions-program-details",
+    "href": "champions.html#champions-program-details",
+    "title": "Openscapes Champions Cohorts",
+    "section": "Champions Program Details",
+    "text": "Champions Program Details\nFall NMFS Openscapes Champions Cohorts will run from October-December 2024! We will meet as a cohort five times over two months, on alternating weeks, with additional optional coworking times.\n\nDate-Times:\n\nCohort-A: Oct 8, 22, Nov 5, 19, Dec 3. Alternating Tuesdays from 11:00am - 12:30pm PT.\nCohort-B: Oct 9, 23, Nov 6, 20, Dec 4. Alternating Wednesdays from 10:00 - 11:30am PT.\nCohort-C: Oct 9, 23, Nov 6, 20, Dec 4. Alternating Wednesdays from 1:00 - 2:30pm PT.\n\nWhere: remotely, via Google Meet\nWhat we learn: Champions program core lessons, with NOAA Fisheries examples\nCost: Free; this opportunity is supported by NOAA funding to Openscapes\nExpected time commitment: 8hrs/month for 2 months is a minimum expected time commitment. This accounts for 3 hours/month of synchronous Cohort Calls, optional Coworking hours, and team Seaside Chats where you plan with your research group to strengthen shared workflows.\nWho: Teams of NMFS staff interested in improving their workflows and/or open science — goals do not need to be well-defined (we’ll develop goals throughout the 10 weeks). Team members do not all need to have technical or data interests, but share a curiosity and interest in improving something about how they work. It is not necessary for the whole team to participate in the Cohort; often a subset of a team will participate and then they will bring the information and energy back to the full team during in-between weeks. It is important that those who participate can do so in all or most sessions, and are energized to be interacting with like-minded individuals across NOAA Fisheries. Teams can also be collaborating in other ways and do not need to be a formal research group. If you are interested but think “I don’t have a team” - you are welcome to sign up as an individual, or invite someone you know to sign up with you, even if you do not work on a shared deliverable! Your team can include feds, contractors, and others, so long as they can commit to the time.",
+    "crumbs": [
+      "Champions Program"
+    ]
+  },
+  {
+    "objectID": "champions.html#sign-up-for-fall-2024",
+    "href": "champions.html#sign-up-for-fall-2024",
+    "title": "Openscapes Champions Cohorts",
+    "section": "Sign up for Fall 2024",
+    "text": "Sign up for Fall 2024\nSign up with a colleague or team by Sept 23, 2024 by adding to this Google Spreadsheet. Please indicate the Cohort date-times you are available; we will confirm participation via email by Sept 25.",
     "crumbs": [
       "Champions Program"
     ]
@@ -407,9 +417,9 @@
   {
     "objectID": "champions.html#mentor-roles",
     "href": "champions.html#mentor-roles",
-    "title": "Champions",
+    "title": "Openscapes Champions Cohorts",
     "section": "Mentor roles",
-    "text": "Mentor roles\nMentors participate in the Champions Program (in fact, Champions cohorts are scheduled as “takeovers” of regular Mentors calls to be mindful of Mentors’ time commitments). Here are several roles where Mentors can contribute:\n\nParticipant (bring your team as Champions)\nMentor (Content expert, model live notetaking, contribute to debriefing)\nGuest teacher - running a themed Seaside Chat, or (learn to) lead GitHub clinics\nHelpers - Coworking / Seaside Chat (fix merge conflict, add documentation)",
+    "text": "Mentor roles\nThe growing NMFS Openscapes Mentor community — staff from across NOAA Fisheries interested in supporting others with teamwork and open science — will be increasingly involved with Champions Cohorts, and point-people for questions about what is involved and how to sign up.\n\nPre-cohort engagement\nTo share about the opportunity, our goal in September is to give a talk at each Center/Regional Office. Here are work-in-progress slides introducing the Fall 2024 Champions Program with background information we can all use to present.\n\n\nDuring cohort\nMentors participate in the Champions Program (in fact, Champions cohorts are scheduled as “takeovers” of regular Mentors calls to be mindful of Mentors’ time commitments). Here are several roles where Mentors can contribute:\n\nParticipant (bring your team as Champions)\nMentor (Content expert, model live notetaking, contribute to debriefing)\nGuest teacher - running a themed Seaside Chat, or (learn to) lead GitHub clinics\nHelpers - Coworking / Seaside Chat (fix merge conflict, add documentation)",
     "crumbs": [
       "Champions Program"
     ]
