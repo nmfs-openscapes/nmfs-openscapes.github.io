@@ -68,9 +68,19 @@ More examples to come.
 
 ## Mentor roles
 
-The growing NMFS Openscapes Mentor community — staff from across NOAA Fisheries interested in supporting others with teamwork and open science — will be increasingly involved with Champions Cohorts, and point-people for questions about what is involved and how to sign up.
+The growing [NMFS Openscapes Mentor community](https://nmfs-openscapes.github.io/mentors/) — staff from across NOAA Fisheries interested in supporting others with teamwork and open science — will be increasingly involved with Champions Cohorts, and point-people for questions about what is involved and how to sign up. Mentors play different roles during different phases of Champions Cohorts.
 
-### Pre-cohort engagement
+**Pre-cohort engagement:** Mentors are empowered to encourage their colleagues to sign up for Openscapes Champions Cohorts. The Openscapes team will support you in preparing to present to an all-hands or brown bag session, or you can invite us to present (see [Pre-cohort engagement](champions.qmd#pre-cohort-engagement) below).
+
+**During cohort:** Mentors participate in the Champions Program (in fact, Champions cohorts are scheduled as "takeovers" of regular Mentors calls to be mindful of Mentors' time commitments). Here are several roles where Mentors can contribute:
+
+-   Participant (bring your team as Champions)
+-   Recruiter (engage others in your Center / Office to encourage them to participate)
+-   Mentor (Content expert, model live notetaking, contribute to debriefing)
+-   Guest teacher - running a themed Seaside Chat, or (learn to) lead GitHub clinics
+-   Helpers - Coworking / Seaside Chat (fix merge conflict, add documentation)
+
+## Pre-cohort engagement
 
 To share about the opportunity, our goal in September is to give a talk at each Center/Regional Office. Here are work-in-progress [slides introducing the Fall 2024 Champions Program](https://docs.google.com/presentation/d/1a_nDKAxpvaWURITBm_HiDvzCd7GLDmb8ooi-d0dRI5I/edit?usp=sharing) with background information we can all use to present.
 
@@ -83,18 +93,9 @@ Please add sessions to [Sign up sheet, 'Talks, AMA Schedule'](https://docs.googl
 Table. Center / Office presentations
 
 |            |            |                   |                                       |                                    |                           |                                      |
-|------------|------------|-------------------|---------------------------------------|------------------------------------|---------------------------|--------------------------------------|
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 | **Date**   | **Time**   | **Center/Office** | **Event info name / length**          | **Mentor/Point person**            | **Speaker**               | **Google Meet link**                 |
 | 2024-08-29 | 2:30 pm PT | SWFSC             | Info session / 20 min                 | Lynn DeWitt, Heather Nicholas      | Eli Holmes, Julie Lowndes | https://meet.google.com/nuh-xaap-yph |
 | 2024-09-02 | 3:00 pm ET | SEFSC             | Tentative info session                | Ana Vaz, Molly Stevens, Adyan Rios | Eli Holmes, Julie Lowndes |                                      |
 | 2024-09-04 | 9:00 am HT | PIFSC             | PIFSC Openscapes Q&A / 50-min session | Amanda Bradford                    | Eli Holmes, Julie Lowndes | https://meet.google.com/gbo-ankc-sme |
 |            |            |                   |                                       |                                    |                           |                                      |
-
-### During cohort
-
-Mentors participate in the Champions Program (in fact, Champions cohorts are scheduled as "takeovers" of regular Mentors calls to be mindful of Mentors' time commitments). Here are several roles where Mentors can contribute:
-
--   Participant (bring your team as Champions)
--   Mentor (Content expert, model live notetaking, contribute to debriefing)
--   Guest teacher - running a themed Seaside Chat, or (learn to) lead GitHub clinics
--   Helpers - Coworking / Seaside Chat (fix merge conflict, add documentation)
