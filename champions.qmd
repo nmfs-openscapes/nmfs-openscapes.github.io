@@ -66,13 +66,13 @@ See [Frequently Asked Questions](https://openscapes.org/faq) for more guidance o
 
 ## Stories from past participants
 
-### Kourtney Burger, Biological Science Technician, SWFSC Acoustic Ecology Lab. 
+### Kourtney Burger, Biological Science Technician, SWFSC Acoustic Ecology Lab.
 
 Kourtney participated in a PIFSC-SWFSC Cohort in Fall 2022. She shared her experience in a post for the NOAA Fisheries blog: [Sound Bytes: Championing Open Science](https://www.fisheries.noaa.gov/science-blog/sound-bytes-championing-open-science). In it, Kourtney describes how she transferred a field methods manual from a set of disparate files on Google Drive to a [Quarto web book on GitHub](https://sael-swfsc.github.io/adrift-field-methods/).
 
 > “Seaside Chats with our SAEL team allowed those of us attending the Openscapes workshop to share our newfound knowledge and experience so we could make our science more open. During these sessions, we streamlined our science pathways, documented our methods through GitHub, and had general team strategy discussions.” - **Kourtney Burger, SWFSC**
 
-### Marine Mammal Laboratory (MML) Stock Assessment Report team from AFSC. 
+### Marine Mammal Laboratory (MML) Stock Assessment Report team from AFSC.
 
 Rod Towell, Nancy Young, Tony Orr, Erin Richmond, and Brian Fadely participated in an Openscapes Champions Cohort in Winter 2022 and shared the story of the impact on their reporting and team culture (13-min [recording](https://youtu.be/whC4FyHuVg8) \| [slides](https://docs.google.com/presentation/d/16oScbiL9cXvcUZCpsquc39csq0SbP6vSX3CJ6L4wc7w/) with detailed notes).
 
@@ -127,10 +127,11 @@ Please add sessions to [Sign up sheet, 'Talks, AMA Schedule'](https://docs.googl
 
 Table. Center / Office presentations
 
-|            |            |                   |                                       |                                    |                           |                                      |
+|            |             |                   |                                                          |                                             |                           |                                      |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| **Date**   | **Time**   | **Center/Office** | **Event info name / length**          | **Mentor/Point person**            | **Speaker**               | **Google Meet link**                 |
-| 2024-08-29 | 2:30 pm PT | SWFSC             | Info session / 20 min                 | Lynn DeWitt, Heather Nicholas      | Eli Holmes, Julie Lowndes | https://meet.google.com/nuh-xaap-yph |
-| 2024-09-02 | 3:00 pm ET | SEFSC             | Tentative info session                | Ana Vaz, Molly Stevens, Adyan Rios | Eli Holmes, Julie Lowndes |                                      |
-| 2024-09-04 | 9:00 am HT | PIFSC             | PIFSC Openscapes Q&A / 50-min session | Amanda Bradford                    | Eli Holmes, Julie Lowndes | https://meet.google.com/gbo-ankc-sme |
-|            |            |                   |                                       |                                    |                           |                                      |
+| **Date**   | **Time**    | **Center/Office** | **Event info name / length**                             | **Mentor/Point person**                     | **Speaker**               | **Google Meet link**                 |
+| 2024-08-29 | 2:30 pm PT  | SWFSC             | Info session / 20 min                                    | Lynn DeWitt, Heather Nicholas               | Eli Holmes, Julie Lowndes | https://meet.google.com/nuh-xaap-yph |
+| 2024-09-02 | 3:00 pm ET  | SEFSC             | Tentative info session                                   | Ana Vaz, Molly Stevens, Adyan Rios          | Eli Holmes, Julie Lowndes |                                      |
+| 2024-09-04 | 9:00 am HT  | PIFSC             | PIFSC Openscapes Q&A / 50-min session                    | Amanda Bradford                             | Eli Holmes, Julie Lowndes | https://meet.google.com/gbo-ankc-sme |
+| 2024-09-05 | 11:00 am PT | All               | All NMFS Openscapes Champions cohorts info session / 1hr | Eli Holmes, Julie Lowndes, Stefanie Butland | Eli Holmes, Julie Lowndes | https://meet.google.com/wqw-jnbj-vbq |
+| 2024-09-11 | 12:00 pm PT | All               | All NMFS Openscapes Champions cohorts info session / 1hr | Eli Holmes, Julie Lowndes, Stefanie Butland | Eli Holmes, Julie Lowndes | https://meet.google.com/wqw-jnbj-vbq |
