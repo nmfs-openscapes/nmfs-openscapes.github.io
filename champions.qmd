@@ -50,20 +50,20 @@ To share about the opportunity, our goal in September is to give a talk at each 
 
 Table. Center / Office presentations
 
-|            |             |                   |                                                          |                                             |                           |                                      |
-|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| **Date**   | **Time**    | **Center/Office** | **Event info name / length**                             | **Mentor/Point person**                     | **Speaker**               | **Google Meet link**                 |
-| 2024-08-29 | 2:30 pm PT  | SWFSC             | SWFSC Openscapes info session / 20 min                                    | Lynn DeWitt, Heather Nicholas               | Eli Holmes, Julie Lowndes | https://meet.google.com/nuh-xaap-yph |
-| 2024-09-04 | 9:00 am HT  | PIFSC             | PIFSC Openscapes Q&A / 50-min session                    | Amanda Bradford                             | Eli Holmes, Julie Lowndes | https://meet.google.com/gbo-ankc-sme |
-| 2024-09-04 | 2:30 pm PT  | NWFSC             | NWFSC Openscapes Q&A / 30-min session                    | Eli Holmes                                  | Eli Holmes, Julie Lowndes | https://meet.google.com/men-hfcv-yzd |
-| 2024-09-05 | 11:00 am PT | All               | NMFS Openscapes Q&A / 50-min session | Eli Holmes | Eli Holmes, Julie Lowndes | https://meet.google.com/wqw-jnbj-vbq |
-| 2024-09-11 | 12:00 pm PT | All               | NMFS Openscapes Q&A / 50-min session | Eli Holmes | Eli Holmes, Julie Lowndes | https://meet.google.com/wqw-jnbj-vbq |
-| 2024-09-13 | 11:00 am AT | AKRO              | AKRO Openscapes Q&A / 50-min session | Eli Holmes | Eli Holmes, Julie Lowndes | http://meet.google.com/htn-jbcw-txr |
+|            |             |                   |                                        |                               |                           |                                      |
+|------------|-------------|-------------------|----------------------------------------|-------------------------------|---------------------------|--------------------------------------|
+| **Date**   | **Time**    | **Center/Office** | **Event info name / length**           | **Mentor/Point person**       | **Speaker**               | **Google Meet link**                 |
+| 2024-08-29 | 2:30 pm PT  | SWFSC             | SWFSC Openscapes info session / 20 min | Lynn DeWitt, Heather Nicholas | Eli Holmes, Julie Lowndes | https://meet.google.com/nuh-xaap-yph |
+| 2024-09-04 | 9:00 am HT  | PIFSC             | PIFSC Openscapes Q&A / 50-min session  | Amanda Bradford               | Eli Holmes, Julie Lowndes | https://meet.google.com/gbo-ankc-sme |
+| 2024-09-04 | 2:30 pm PT  | NWFSC             | NWFSC Openscapes Q&A / 30-min session  | Eli Holmes                    | Eli Holmes, Julie Lowndes | https://meet.google.com/men-hfcv-yzd |
+| 2024-09-05 | 11:00 am PT | All               | NMFS Openscapes Q&A / 50-min session   | Eli Holmes                    | Eli Holmes, Julie Lowndes | https://meet.google.com/wqw-jnbj-vbq |
+| 2024-09-11 | 12:00 pm PT | All               | NMFS Openscapes Q&A / 50-min session   | Eli Holmes                    | Eli Holmes, Julie Lowndes | https://meet.google.com/wqw-jnbj-vbq |
+| 2024-09-13 | 11:00 am AT | AKRO              | AKRO Openscapes Q&A / 50-min session   | Eli Holmes                    | Eli Holmes, Julie Lowndes | http://meet.google.com/htn-jbcw-txr  |
 
 ### How to request a “Why Openscapes” talk & AMA
 
-Want help encouraging your colleagues to sign up? To request a presentation & AMA, select a time from Eli’s calendar and add Julie (julia at openscapes.org) and Stefanie (stefanie at openscapes.org). Eli has cleared Sept 2-14 for giving these presentations.\
-\
+Want help encouraging your colleagues to sign up? To request a presentation & AMA, select a time from Eli’s calendar and add Julie (julia at openscapes.org) and Stefanie (stefanie at openscapes.org). Eli has cleared Sept 2-14 for giving these presentations.
+
 Please add sessions to [Sign up sheet, 'Talks, AMA Schedule'](https://docs.google.com/spreadsheets/d/10zTz6i-ZuwnQhCTG63jRku0BtVwgc9e1tqnfGuiyM2c/edit?gid=1423956583#gid=1423956583) tab and to the NMFS Open Science Google Calendar so others can find it. Stef will add them to the following table.
 
 ## What is a team?
