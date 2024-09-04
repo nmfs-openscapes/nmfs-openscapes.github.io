@@ -51,14 +51,15 @@ To share about the opportunity, our goal in September is to give a talk at each 
 Table. Center / Office presentations
 
 |            |             |                   |                                        |                               |                           |                                      |
-|------------|-------------|-------------------|----------------------------------------|-------------------------------|---------------------------|--------------------------------------|
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 | **Date**   | **Time**    | **Center/Office** | **Event info name / length**           | **Mentor/Point person**       | **Speaker**               | **Google Meet link**                 |
 | 2024-08-29 | 2:30 pm PT  | SWFSC             | SWFSC Openscapes info session / 20 min | Lynn DeWitt, Heather Nicholas | Eli Holmes, Julie Lowndes | https://meet.google.com/nuh-xaap-yph |
-| 2024-09-04 | 9:00 am HT  | PIFSC             | PIFSC Openscapes Q&A / 50-min session  | Amanda Bradford               | Eli Holmes, Julie Lowndes | https://meet.google.com/gbo-ankc-sme |
-| 2024-09-04 | 2:30 pm PT  | NWFSC             | NWFSC Openscapes Q&A / 30-min session  | Eli Holmes                    | Eli Holmes, Julie Lowndes | https://meet.google.com/men-hfcv-yzd |
-| 2024-09-05 | 11:00 am PT | All               | NMFS Openscapes Q&A / 50-min session   | Eli Holmes                    | Eli Holmes, Julie Lowndes | https://meet.google.com/wqw-jnbj-vbq |
-| 2024-09-11 | 12:00 pm PT | All               | NMFS Openscapes Q&A / 50-min session   | Eli Holmes                    | Eli Holmes, Julie Lowndes | https://meet.google.com/wqw-jnbj-vbq |
-| 2024-09-13 | 11:00 am AT | AKRO              | AKRO Openscapes Q&A / 50-min session   | Eli Holmes                    | Eli Holmes, Julie Lowndes | http://meet.google.com/htn-jbcw-txr  |
+| 2024-09-04 | 9:00 am HT  | PIFSC             | PIFSC Openscapes Q&A / 50 min   | Amanda Bradford               | Eli Holmes, Julie Lowndes | https://meet.google.com/gbo-ankc-sme |
+| 2024-09-04 | 2:30 pm PT  | NWFSC             | NWFSC Openscapes Q&A / 30 min   | Eli Holmes                    | Eli Holmes, Julie Lowndes | https://meet.google.com/men-hfcv-yzd |
+| 2024-09-05 | 11:00 am PT | All               | NMFS Openscapes Q&A / 50 min    | Eli Holmes                    | Eli Holmes, Julie Lowndes | https://meet.google.com/wqw-jnbj-vbq |
+| 2024-09-05 | 3:00 pm ET | SEFSC              | SEFSC Openscapes info session / 50 min   | Ana Vaz, Molly Stevens, Adyan Rios | Eli Holmes, Julie Lowndes | https://meet.google.com/eik-qnnw-rdh |
+| 2024-09-11 | 12:00 pm PT | All               | NMFS Openscapes Q&A / 50 min    | Eli Holmes                    | Eli Holmes, Julie Lowndes | https://meet.google.com/wqw-jnbj-vbq |
+| 2024-09-13 | 11:00 am AT | AKRO              | AKRO Openscapes Q&A / 50 min    | Eli Holmes                    | Eli Holmes, Julie Lowndes | http://meet.google.com/htn-jbcw-txr  |
 
 ### How to request a “Why Openscapes” talk & AMA
 
