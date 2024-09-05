@@ -128,6 +128,10 @@ Reflections
 -   Change is incremental - it doesn't have to happen all at once!
 -   Time, energy, commitment -\> Reward!
 
+### **A Year of Open Science Community Building at NOAA Fisheries** 
+
+Lightning talks for the Year of Open Science Culminating Conference, March 21, 2024 ([recording](https://youtu.be/n1VaV8f6qQE) \| [slides](https://docs.google.com/presentation/d/1xR0UyplIJbTJQmog8tx2OKNi6jeK7LvegJq5vai5Y2k/)). Eli Holmes (NOAA Fisheries Open Science), Evan Howell (Director of the Office of Science and Technology), Megsie Siple (Alaska Fisheries Science Center), Amanda Bradford (Pacific Islands Fisheries Science Center), Brian Fadely (Alaska Fisheries Science Center Marine Mammal Stock Assessments), Vivian Matter (Branch Chief of Southeast Fisheries Science Center), Kathryn Doering (Office of Science and Technology), Christine Stawitz (Office of Science and Technology), Carissa Geravsi (Gulf of Mexico Integrated Ecosystem Assessment), Lynn Dewitt (California Current Ecosystem Assessment Team).
+
 ## Mentor roles
 
 The growing [NMFS Openscapes Mentor community](https://nmfs-openscapes.github.io/mentors/) — staff from across NOAA Fisheries interested in supporting others with teamwork and open science — will be increasingly involved with Champions Cohorts, and point-people for questions about what is involved and how to sign up. Mentors play different roles during different phases of Champions Cohorts.
