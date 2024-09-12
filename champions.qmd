@@ -4,7 +4,7 @@ title: "Openscapes Champions Cohorts"
 
 The NMFS Openscapes Mentor Community will be leading 3 Champions Cohorts in Fall 2024! Read on to learn what this is and how to sign up.
 
-[SIGN UP FOR FALL](https://nmfs-openscapes.github.io/champions.html#sign-up-for-fall-2024) by Sept 23, 2024. [Sample email to share announcement](https://docs.google.com/document/d/1XlFsIJkjnk88QyOblYgt19qXHYtH_was3HZgJg2yrFM/edit?usp=sharing).
+[SIGN UP FOR FALL](https://nmfs-openscapes.github.io/champions.html#sign-up-for-fall-2024) by Sept 23, 2024 at 10am PT. [Sample email to share announcement](https://docs.google.com/document/d/1XlFsIJkjnk88QyOblYgt19qXHYtH_was3HZgJg2yrFM/edit?usp=sharing).
 
 ## What is the Champions Program?
 
@@ -42,7 +42,7 @@ This image gives a visual sense of time span, cadence, and time commitments for 
 
 ## Sign up for Fall 2024
 
-**Sign up with a colleague or team by Sept 23, 2024 via [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/10zTz6i-ZuwnQhCTG63jRku0BtVwgc9e1tqnfGuiyM2c/edit?gid=1241468325#gid=1241468325)**. Please indicate the Cohort date-times you are available; we will confirm participation via email by Sept 25.
+**Sign up with a colleague or team by Sept 23, 2024** **by 10am PT** **via [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/10zTz6i-ZuwnQhCTG63jRku0BtVwgc9e1tqnfGuiyM2c/edit?gid=1241468325#gid=1241468325)**. Please indicate the Cohort date-times you are available; we will confirm participation via email by Sept 27.
 
 ## Attend a "Why Openscapes" info session
 
@@ -128,7 +128,7 @@ Reflections
 -   Change is incremental - it doesn't have to happen all at once!
 -   Time, energy, commitment -\> Reward!
 
-### **A Year of Open Science Community Building at NOAA Fisheries** 
+### **A Year of Open Science Community Building at NOAA Fisheries**
 
 Lightning talks for the Year of Open Science Culminating Conference, March 21, 2024 ([recording](https://youtu.be/n1VaV8f6qQE) \| [slides](https://docs.google.com/presentation/d/1xR0UyplIJbTJQmog8tx2OKNi6jeK7LvegJq5vai5Y2k/)). Eli Holmes (NOAA Fisheries Open Science), Evan Howell (Director of the Office of Science and Technology), Megsie Siple (Alaska Fisheries Science Center), Amanda Bradford (Pacific Islands Fisheries Science Center), Brian Fadely (Alaska Fisheries Science Center Marine Mammal Stock Assessments), Vivian Matter (Branch Chief of Southeast Fisheries Science Center), Kathryn Doering (Office of Science and Technology), Christine Stawitz (Office of Science and Technology), Carissa Geravsi (Gulf of Mexico Integrated Ecosystem Assessment), Lynn Dewitt (California Current Ecosystem Assessment Team).
 
