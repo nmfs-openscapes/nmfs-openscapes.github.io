@@ -66,7 +66,7 @@ We are feeling rejuvenated momentum and hope going into Fall 2024, and we hope t
 
 Recordings and slides are linked from the posts below.
 
--   May 14: How the NASA Openscapes community supports Earthdata users migrating workflows to the Cloud, at [NOAA Enterprise Data Management (EDMW) Workshop ](https://openscapes.org/events/2024-05-14-noaa-edmw/)
+-   May 14: How the NASA Openscapes community supports Earthdata users migrating workflows to the Cloud, at [NOAA Enterprise Data Management (EDMW) Workshop](https://openscapes.org/events/2024-05-14-noaa-edmw/)
 
 -   June 3: [Community Call: Sharing Climate Data](https://openscapes.org/events/2024-06-03-webinar-sharing-climate-data/). A Conversation with Creative Commons and Openscapes, with recording & collaborative notes doc
 
@@ -76,10 +76,10 @@ Recordings and slides are linked from the posts below.
 
 -   August 13: [posit::conf](https://reg.conf.posit.co/flow/posit/positconf24/publiccatalog/page/publiccatalog?tab.day=20240812) talks and strengthening community connections. Stefanie Butland talked about [how we use the Kyber R package](https://docs.google.com/presentation/d/1p_EXdYEVGY07VVMGdcvvwjjbwFihHsC_5oXRPW_8tVU/) to connect Google Sheets, RMarkdown, GitHub, and Agenda docs for open education and Luis Lopez talked about [earthaccess: Simplifying Earth Science in The Cloud](https://docs.google.com/presentation/d/1Ot879tfrjhok3BzSwSUr2Xpd26dX-hyVGHQzATLVRTo/). The conference was a wonderful opportunity to lay down more in-person connections among Mentors from NMFS Openscapes and NASA Openscapes and this wonderful Posit community. 
 
--   August 22: Openscapes at California Department of Water Resources Environmental Coordination Committee Open Forum, [Openscapes: Kinder science for future us](https://docs.google.com/presentation/d/1yOTdJcvWdVWSLIE72L4cCN2b22y-6ZDlOouqP1i_bSI/edit#slide=id.g2c1dee5ed55_3_272), by  Julie Lowndes, Devan Burke, Anna Holder.
+-   August 22: Openscapes at California Department of Water Resources Environmental Coordination Committee Open Forum, [Openscapes: Kinder science for future us](https://docs.google.com/presentation/d/1yOTdJcvWdVWSLIE72L4cCN2b22y-6ZDlOouqP1i_bSI/edit#slide=id.g2c1dee5ed55_3_272), by Julie Lowndes, Devan Burke, Anna Holder.
 
 -   September 10: [Forking as a Worldview: A big idea that frames Openscapes thinking](https://openscapes.org/events/2024-09-10-nasa-pi-plenary/). Julie Lowndes gave a plenary talk at NASA’s internal PI Planning meeting and talked about forking as reusing what works in new places, with examples of earthaccess package development forking the open source software dev approach into government, and NASA Openscapes and then NOAA Fisheries Openscapes forking open source frameworks to tackle big challenges (cloud migration, data modernization). And it turns out, forking is the first step of the Openscapes Flywheel :)
 
-Thank you for reading, and for all that you do. Read more about what this amazing community has been up to via [blog posts](../../blog.qmd), talks on our [media page](../../media.qmd) and [events page](../../events).
+Thank you for reading, and for all that you do. Read more about what this amazing community has been up to via [blog posts](https://openscapes.org/blog), talks on our [media page](https://openscapes.org/media) and [events page](https://openscapes.org/events).
 
 ![Photo by Elliot Lowndes](mr-lowndesDSCF1746-square.jpg){fig-alt="photo with fluffy clouds dominating a blue sky, blue-grey mountains in background, purple clusters of flowers in foreground, green-yellow groundcover and a river barely visible in midground running across the photo" width="50%"}
