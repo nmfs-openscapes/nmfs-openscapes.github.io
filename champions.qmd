@@ -145,3 +145,16 @@ The growing [NMFS Openscapes Mentor community](https://nmfs-openscapes.github.io
 -   Mentor (Content expert, model live notetaking, contribute to debriefing)
 -   Guest teacher - running a themed Seaside Chat, or (learn to) lead GitHub clinics
 -   Helpers - Coworking / Seaside Chat (fix merge conflict, add documentation)
+
+## Selection and how to participate
+
+**We selected participants for the 3 Cohorts with transparent decision criteria co-designed with the NMFS Mentors** (see below), knowing that with 194 total signups for 120 seats (which is fantastic!), there is no one perfect way to select. Openscapes is about workflows shifts and movement building, and the Champions Program is designed with intentional structure to balance specific roles/boundaries while also being lightweight/reduced process so you all can focus on your science.
+
+Openscapes will remain strict to the 40 participants per Cohort for the 5 synchronous Cohort Calls with no “drop ins” – this is by design for active engagement (Champions Calls are not webinars where you sit back) and to build psychological safety within the group (being safe to be vulnerable is part of learning). We balance openness with trust building; we share all lessons and slide decks via the [Champions Lesson Series](https://openscapes.github.io/series), but we do not share the call agendas with live notes outside of the Cohort.
+
+**Seaside Chats are the way for people outside the Cohort to participate.** Part of the Champions program design is that participants have “Seaside Chats” in the off-weeks during the 2 months, where they focus on applying what they learned into their own work and include other colleagues or team members. In many cases, not all team members who signed up will be selected to participate in the 5 Cohort Calls. These will be organized and led by the Champions using guidance from Openscapes, and there is no “prework” to attend.
+
+
+### Decision criteria
+
+*Upcoming following Mentors call*
