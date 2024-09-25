@@ -2,9 +2,10 @@
 title: "Openscapes Champions Cohorts"
 ---
 
-The NMFS Openscapes Mentor Community will be leading 3 Champions Cohorts in Fall 2024! Read on to learn what this is and how to sign up.
+The NMFS Openscapes Mentor Community will be leading 3 Champions Cohorts in Fall 2024! Read on to learn what this is. <!---and how to sign up.--->
 
-[SIGN UP FOR FALL](https://nmfs-openscapes.github.io/champions.html#sign-up-for-fall-2024) by Sept 23, 2024 at 10am PT. \<\br\> [Info session slides](https://docs.google.com/presentation/d/1vf01dZDdp60-GeshJ6GNCvX0iRtYmpgEBM4wW98Ufrk/edit#slide=id.g2f66fdc8be7_1_146) ⬢ [Sample email to share announcement](https://docs.google.com/document/d/1XlFsIJkjnk88QyOblYgt19qXHYtH_was3HZgJg2yrFM/edit?usp=sharing).
+Signups for Fall 2024 Cohorts are now closed. We will lead 3 more Champions Cohorts in Fall 2025.
+<!--- [SIGN UP FOR FALL](https://nmfs-openscapes.github.io/champions.html#sign-up-for-fall-2024) by Sept 23, 2024 at 10am PT. [Info session slides](https://docs.google.com/presentation/d/1vf01dZDdp60-GeshJ6GNCvX0iRtYmpgEBM4wW98Ufrk/edit#slide=id.g2f66fdc8be7_1_146) ⬢ [Sample email to share announcement](https://docs.google.com/document/d/1XlFsIJkjnk88QyOblYgt19qXHYtH_was3HZgJg2yrFM/edit?usp=sharing). --->
 
 ## What is the Champions Program?
 
@@ -40,10 +41,11 @@ This image gives a visual sense of time span, cadence, and time commitments for 
 
 ![](images/openscapes_cohort-timeline.png)
 
-## Sign up for Fall 2024
+<!--- ## Sign up for Fall 2024
 
 **Sign up with a colleague or team by Sept 23, 2024** **by 10am PT** **via [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/10zTz6i-ZuwnQhCTG63jRku0BtVwgc9e1tqnfGuiyM2c/edit?gid=1241468325#gid=1241468325)**. Please indicate the Cohort date-times you are available; we will confirm participation via email by Sept 27.
-
+ --->
+ 
 ## Attend a "Why Openscapes" info session
 
 To share about the opportunity, our goal in September is to give a talk at each Center/Regional Office. Here are [slides introducing the Fall 2024 Champions Program](https://docs.google.com/presentation/d/1a_nDKAxpvaWURITBm_HiDvzCd7GLDmb8ooi-d0dRI5I/edit?usp=sharing) with background information we can all use to present.
@@ -128,7 +130,7 @@ Reflections
 -   Change is incremental - it doesn't have to happen all at once!
 -   Time, energy, commitment -\> Reward!
 
-### **A Year of Open Science Community Building at NOAA Fisheries**
+### A Year of Open Science Community Building at NOAA Fisheries
 
 Lightning talks for the Year of Open Science Culminating Conference, March 21, 2024 ([recording](https://youtu.be/n1VaV8f6qQE) \| [slides](https://docs.google.com/presentation/d/1xR0UyplIJbTJQmog8tx2OKNi6jeK7LvegJq5vai5Y2k/)). Eli Holmes (NOAA Fisheries Open Science), Evan Howell (Director of the Office of Science and Technology), Megsie Siple (Alaska Fisheries Science Center), Amanda Bradford (Pacific Islands Fisheries Science Center), Brian Fadely (Alaska Fisheries Science Center Marine Mammal Stock Assessments), Vivian Matter (Branch Chief of Southeast Fisheries Science Center), Kathryn Doering (Office of Science and Technology), Christine Stawitz (Office of Science and Technology), Carissa Geravsi (Gulf of Mexico Integrated Ecosystem Assessment), Lynn Dewitt (California Current Ecosystem Assessment Team).
 
@@ -156,7 +158,7 @@ Openscapes will remain strict to the 40 participants per Cohort for the 5 synchr
 
 ### Decision criteria
 
-There were 194 total signups for 120 seats (fantastic!). There is no one perfect way to select people for those spots. We selected the Cohorts with transparent decision criteria that were developed with the Mentors, Eli Holmes, and the Openscapes team.
+We selected the Cohorts with transparent decision criteria that were developed with the Mentors, Eli Holmes, and the Openscapes team.
 
 We prioritized participation by:
 
