@@ -2,9 +2,10 @@
 title: "Openscapes Champions Cohorts"
 ---
 
-The NMFS Openscapes Mentor Community will be leading 3 Champions Cohorts in Fall 2024! Read on to learn what this is and how to sign up.
+The NMFS Openscapes Mentor Community will be leading 3 Champions Cohorts in Fall 2024! Read on to learn what this is. <!---and how to sign up.--->
 
-[SIGN UP FOR FALL](https://nmfs-openscapes.github.io/champions.html#sign-up-for-fall-2024) by Sept 23, 2024 at 10am PT. <\br> [Info session slides](https://docs.google.com/presentation/d/1vf01dZDdp60-GeshJ6GNCvX0iRtYmpgEBM4wW98Ufrk/edit#slide=id.g2f66fdc8be7_1_146) &#x2B22; [Sample email to share announcement](https://docs.google.com/document/d/1XlFsIJkjnk88QyOblYgt19qXHYtH_was3HZgJg2yrFM/edit?usp=sharing).
+Signups for Fall 2024 Cohorts are now closed. We will lead 3 more Champions Cohorts in Fall 2025.
+<!--- [SIGN UP FOR FALL](https://nmfs-openscapes.github.io/champions.html#sign-up-for-fall-2024) by Sept 23, 2024 at 10am PT. [Info session slides](https://docs.google.com/presentation/d/1vf01dZDdp60-GeshJ6GNCvX0iRtYmpgEBM4wW98Ufrk/edit#slide=id.g2f66fdc8be7_1_146) ⬢ [Sample email to share announcement](https://docs.google.com/document/d/1XlFsIJkjnk88QyOblYgt19qXHYtH_was3HZgJg2yrFM/edit?usp=sharing). --->
 
 ## What is the Champions Program?
 
@@ -28,7 +29,7 @@ Openscapes Champions is a remote-by-design, cohort-based mentorship program that
     -   **Cohort-A: Oct 8, 22, Nov 5, 19, Dec 3**. Alternating Tuesdays from 11:00am - 12:30pm PT.
     -   **Cohort-B: Oct 9, 23, Nov 6, 20, Dec 4**. Alternating Wednesdays from 10:00 - 11:30am PT.
     -   **Cohort-C: Oct 9, 23, Nov 6, 20, Dec 4**. Alternating Wednesdays from 1:00 - 2:30pm PT.
--   **Where:** remotely, via Google Meet
+-   **Where:** remotely, via Zoom
 -   **What we learn:** [Champions program core lessons](https://openscapes.github.io/series), with NOAA Fisheries examples
 -   **Cost:** Free; this opportunity is supported by NOAA funding to Openscapes
 -   **Expected time commitment:** 8hrs/month for 2 months is a minimum expected time commitment. This accounts for 3 hours/month of synchronous Cohort Calls, optional Coworking hours, and team Seaside Chats where you plan with your research group to strengthen shared workflows.
@@ -40,10 +41,11 @@ This image gives a visual sense of time span, cadence, and time commitments for 
 
 ![](images/openscapes_cohort-timeline.png)
 
-## Sign up for Fall 2024
+<!--- ## Sign up for Fall 2024
 
 **Sign up with a colleague or team by Sept 23, 2024** **by 10am PT** **via [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/10zTz6i-ZuwnQhCTG63jRku0BtVwgc9e1tqnfGuiyM2c/edit?gid=1241468325#gid=1241468325)**. Please indicate the Cohort date-times you are available; we will confirm participation via email by Sept 27.
 
+ 
 ## Attend a "Why Openscapes" info session
 
 To share about the opportunity, our goal in September is to give a talk at each Center/Regional Office. Here are [slides introducing the Fall 2024 Champions Program](https://docs.google.com/presentation/d/1a_nDKAxpvaWURITBm_HiDvzCd7GLDmb8ooi-d0dRI5I/edit?usp=sharing) with background information we can all use to present.
@@ -70,6 +72,7 @@ To share about the opportunity, our goal in September is to give a talk at each 
 Want help encouraging your colleagues to sign up? To request a presentation & AMA, select a time from Eli’s calendar and add Julie (julia at openscapes.org) and Stefanie (stefanie at openscapes.org). Eli has cleared Sept 2-14 for giving these presentations.
 
 Please add sessions to [Sign up sheet, 'Talks, AMA Schedule'](https://docs.google.com/spreadsheets/d/10zTz6i-ZuwnQhCTG63jRku0BtVwgc9e1tqnfGuiyM2c/edit?gid=1423956583#gid=1423956583) tab and to the NMFS Open Science Google Calendar so others can find it. Stef will add them to the following table.
+ --->
 
 ## What is a team?
 
@@ -128,7 +131,7 @@ Reflections
 -   Change is incremental - it doesn't have to happen all at once!
 -   Time, energy, commitment -\> Reward!
 
-### **A Year of Open Science Community Building at NOAA Fisheries**
+### A Year of Open Science Community Building at NOAA Fisheries
 
 Lightning talks for the Year of Open Science Culminating Conference, March 21, 2024 ([recording](https://youtu.be/n1VaV8f6qQE) \| [slides](https://docs.google.com/presentation/d/1xR0UyplIJbTJQmog8tx2OKNi6jeK7LvegJq5vai5Y2k/)). Eli Holmes (NOAA Fisheries Open Science), Evan Howell (Director of the Office of Science and Technology), Megsie Siple (Alaska Fisheries Science Center), Amanda Bradford (Pacific Islands Fisheries Science Center), Brian Fadely (Alaska Fisheries Science Center Marine Mammal Stock Assessments), Vivian Matter (Branch Chief of Southeast Fisheries Science Center), Kathryn Doering (Office of Science and Technology), Christine Stawitz (Office of Science and Technology), Carissa Geravsi (Gulf of Mexico Integrated Ecosystem Assessment), Lynn Dewitt (California Current Ecosystem Assessment Team).
 
@@ -145,3 +148,36 @@ The growing [NMFS Openscapes Mentor community](https://nmfs-openscapes.github.io
 -   Mentor (Content expert, model live notetaking, contribute to debriefing)
 -   Guest teacher - running a themed Seaside Chat, or (learn to) lead GitHub clinics
 -   Helpers - Coworking / Seaside Chat (fix merge conflict, add documentation)
+
+## Selection and how to participate
+
+**We selected participants for the 3 Cohorts with transparent decision criteria co-designed with the NMFS Mentors** (see below), knowing that with 194 total signups for 120 seats (which is fantastic!), there is no one perfect way to select. Openscapes is about workflows shifts and movement building, and the Champions Program is designed with intentional structure to balance specific roles/boundaries while also being lightweight/reduced process so you all can focus on your science.
+
+Openscapes will remain strict to the 40 participants per Cohort for the 5 synchronous Cohort Calls with no “drop ins” – this is by design for active engagement (Champions Calls are not webinars where you sit back) and to build psychological safety within the group (being safe to be vulnerable is part of learning). We balance openness with trust building; we share all lessons and slide decks via the [Champions Lesson Series](https://openscapes.github.io/series), but we do not share the call agendas with live notes outside of the Cohort.
+
+**Seaside Chats are the way for people outside the Cohort to participate.** Part of the Champions program design is that participants have “Seaside Chats” in the off-weeks during the 2 months, where they focus on applying what they learned into their own work and include other colleagues or team members. In many cases, not all team members who signed up will be selected to participate in the 5 Cohort Calls. These will be organized and led by the Champions using guidance from Openscapes, and there is no “prework” to attend.
+
+### Decision criteria
+
+We selected the Cohorts with transparent decision criteria that were developed with the Mentors, Eli Holmes, and the Openscapes team.
+
+We prioritized participation by:
+
+-   People who committed to a Cohort date-time by marking "Yes" in the spreadsheet
+-   People who have not previously participated in an Openscapes Champions Cohort
+-   Strategic Initiative groups: Passive Acoustics (PAM), Active Acoustics (AA), Climate and Fisheries (FDD). Genomics ('omics).
+-   Office that has never participated or participated little: OPR, OST, NEFSC, AKRO, GARFO
+-   New hires
+-   Teams with NOAA staff
+-   Caps on count totals across Centers: High: no more than 18 participants per division; Low: if \< 5 signed up for one Center, accept all.
+
+Criteria that did NOT affect selection:
+
+-   People who signed up as individuals or as part of a team were considered equally;
+-   Date of signup.
+
+Waitlist decisions: 
+
+-   If people declined, we selected people from the waitlist, prioritizing same cohort, same division, not participated before, same team, availability for Cohort date-time.
+
+
