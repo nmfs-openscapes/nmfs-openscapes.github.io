@@ -174,3 +174,8 @@ Criteria that did NOT affect selection
 
 -   People who signed up as individuals or as part of a team were considered equally
 -   Date of signup
+
+Waitlist decisions. If people declined, we selected people from the waitlist if: 
+
+- same cohort, same division, not participated before, same team
+
