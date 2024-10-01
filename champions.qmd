@@ -29,7 +29,7 @@ Openscapes Champions is a remote-by-design, cohort-based mentorship program that
     -   **Cohort-A: Oct 8, 22, Nov 5, 19, Dec 3**. Alternating Tuesdays from 11:00am - 12:30pm PT.
     -   **Cohort-B: Oct 9, 23, Nov 6, 20, Dec 4**. Alternating Wednesdays from 10:00 - 11:30am PT.
     -   **Cohort-C: Oct 9, 23, Nov 6, 20, Dec 4**. Alternating Wednesdays from 1:00 - 2:30pm PT.
--   **Where:** remotely, via Google Meet
+-   **Where:** remotely, via Zoom
 -   **What we learn:** [Champions program core lessons](https://openscapes.github.io/series), with NOAA Fisheries examples
 -   **Cost:** Free; this opportunity is supported by NOAA funding to Openscapes
 -   **Expected time commitment:** 8hrs/month for 2 months is a minimum expected time commitment. This accounts for 3 hours/month of synchronous Cohort Calls, optional Coworking hours, and team Seaside Chats where you plan with your research group to strengthen shared workflows.
@@ -44,7 +44,7 @@ This image gives a visual sense of time span, cadence, and time commitments for 
 <!--- ## Sign up for Fall 2024
 
 **Sign up with a colleague or team by Sept 23, 2024** **by 10am PT** **via [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/10zTz6i-ZuwnQhCTG63jRku0BtVwgc9e1tqnfGuiyM2c/edit?gid=1241468325#gid=1241468325)**. Please indicate the Cohort date-times you are available; we will confirm participation via email by Sept 27.
- --->
+
  
 ## Attend a "Why Openscapes" info session
 
@@ -72,6 +72,7 @@ To share about the opportunity, our goal in September is to give a talk at each 
 Want help encouraging your colleagues to sign up? To request a presentation & AMA, select a time from Eli’s calendar and add Julie (julia at openscapes.org) and Stefanie (stefanie at openscapes.org). Eli has cleared Sept 2-14 for giving these presentations.
 
 Please add sessions to [Sign up sheet, 'Talks, AMA Schedule'](https://docs.google.com/spreadsheets/d/10zTz6i-ZuwnQhCTG63jRku0BtVwgc9e1tqnfGuiyM2c/edit?gid=1423956583#gid=1423956583) tab and to the NMFS Open Science Google Calendar so others can find it. Stef will add them to the following table.
+ --->
 
 ## What is a team?
 
@@ -170,12 +171,13 @@ We prioritized participation by:
 -   Teams with NOAA staff
 -   Caps on count totals across Centers: High: no more than 18 participants per division; Low: if \< 5 signed up for one Center, accept all.
 
-Criteria that did NOT affect selection
+Criteria that did NOT affect selection:
 
--   People who signed up as individuals or as part of a team were considered equally
--   Date of signup
+-   People who signed up as individuals or as part of a team were considered equally;
+-   Date of signup.
 
-Waitlist decisions. If people declined, we selected people from the waitlist if: 
+Waitlist decisions: 
 
-- same cohort, same division, not participated before, same team
+-   If people declined, we selected people from the waitlist, prioritizing same cohort, same division, not participated before, same team, availability for Cohort date-time.
+
 
