@@ -164,7 +164,6 @@ We prioritized participation by:
 
 -   People who committed to a Cohort date-time by marking "Yes" in the spreadsheet
 -   People who have not previously participated in an Openscapes Champions Cohort
--   Supervisors - TODO Update
 -   Strategic Initiative groups: Passive Acoustics (PAM), Active Acoustics (AA), Climate and Fisheries (FDD). Genomics ('omics).
 -   Office that has never participated or participated little: OPR, OST, NEFSC, AKRO, GARFO
 -   New hires
