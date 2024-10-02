@@ -18,7 +18,7 @@ aliases:
 
 *Welcome to Openscapes' fifth newsletter! If you're interested in seeing these infrequent updates in your inbox, please[sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (linked from our[get involved](https://openscapes.org/contact) page).*
 
-*We have two upcoming Spring events: please learn more and register at [openscapes.org/events](https://openscapes.github.io/events).*
+*We have two upcoming Spring events: please learn more and register at [openscapes.org/events](https://openscapes.org/events).*
 
 -   *Our Spring Champions Cohort will begin May 6- this is an open call for research teams; nominations accepted until April 1.*
 
@@ -40,16 +40,18 @@ As another government connection, Julie is a 2022 [Better Scientific Software (B
 
 ## **NASA Openscapes Mentors and Champions**
 
-Working with the [NASA Mentor Cohort](https://nasa-openscapes.github.io/mentors.html) continues to be a huge source of inspiration, learning, and joy. Over the last year these Mentors have strengthened their skills for supporting researchers and for collaborating together to co-develop, give feedback, teach, reuse, and remix [tutorials for different audiences](https://nasa-openscapes.github.io/tutorials) using Python, GitHub, Jupyter Notebooks, [2i2c](https://2i2c.org) Jupyter Hub, and [Quarto](https://quarto.org). You can read more about our first year of our NASA award in our [Year One Summary](https://github.com/NASA-Openscapes/how_we_work/blob/main/Openscapes_NASAProgressReport_2021.pdf).
+Working with the [NASA Mentor Cohort](https://nasa-openscapes.github.io/mentors.html) continues to be a huge source of inspiration, learning, and joy. Over the last year these Mentors have strengthened their skills for supporting researchers and for collaborating together to co-develop, give feedback, teach, reuse, and remix tutorials for different audiences using Python, GitHub, Jupyter Notebooks, [2i2c](https://2i2c.org) Jupyter Hub, and [Quarto](https://quarto.org). You can read more about our first year of our NASA award in our [Year One Summary](https://github.com/NASA-Openscapes/how_we_work/blob/main/NASA-Openscapes_2021_AnnualReportYear1.pdf).
 
-Now, the Mentors are assisting the first [NASA Champions Cohort](https://nasa-openscapes.github.io/2022-nasa-champions) (which is Openscapes' [10th Champions Cohort](https://openscapes.org/cohorts)!) that kicked off early March. This cohort includes 10 research teams that use NASA Earthdata and are interested in migrating their workflows to the cloud. These teams that self-nominated for this cohort are very impressive and include: Ladies of Landsat working with the Navajo Nation around water and drought; a new research team, SASSIE investigating salinity and stratification at the sea ice edge; and a team from Mt. Siani interested in bringing together earth observations and reproducible machine learning to advance air quality health and epidemiology. We are very excited to work with the Champions and Mentors together as we learn together.
+Now, the Mentors are assisting the first [NASA Champions Cohort](https://nasa-openscapes.github.io/2022-nasa-champions) (which is Openscapes' [10th Champions Cohort](https://openscapes.org/initiatives#champions-program)!) that kicked off early March. This cohort includes 10 research teams that use NASA Earthdata and are interested in migrating their workflows to the cloud. These teams that self-nominated for this cohort are very impressive and include: Ladies of Landsat working with the Navajo Nation around water and drought; a new research team, SASSIE investigating salinity and stratification at the sea ice edge; and a team from Mt. Siani interested in bringing together earth observations and reproducible machine learning to advance air quality health and epidemiology. We are very excited to work with the Champions and Mentors together as we learn together.
 
 ## **Upcoming events**
 
-**2022 Spring Champions Cohort - Open Call**. We've just announced our open call for our Spring Champions Cohort starting May 6! [Nominations open until April 1](https://openscapes.github.io/events/posts/2022-05-06-spring/).
+See [https://openscapes.org/events](https://openscapes.org/events)
 
-**Community Call: "A Qualitative Data Analysis Chat with Dr. Beth Duckles".** This will be a casual conversation with Beth to discuss qualitative data analysis - what it is and how it can be used for evaluation. April 8, 11 am PT.  [Registration open](https://openscapes.github.io/events/posts/2022-04-08-qda-beth-duckles/).
+**2022 Spring Champions Cohort - Open Call**. We've just announced our open call for our Spring Champions Cohort starting May 6! Nominations open until April 1
 
-**RStudio Conference Keynote.** We're so excited to be sharing about NASA Openscapes and our work with Quarto at the RStudio Conference this summer! [Registration is open](https://www.rstudio.com/blog/rstudio-conf-2022-is-open-for-registration/) with diversity scholarships available!
+**Community Call: "A Qualitative Data Analysis Chat with Dr. Beth Duckles".** This will be a casual conversation with Beth to discuss qualitative data analysis - what it is and how it can be used for evaluation. April 8, 11 am PT.  
+
+**RStudio Conference Keynote.** We're so excited to be sharing about NASA Openscapes and our work with Quarto at the RStudio Conference this summer! 
 
 <br> <img src="ocean-square.jpg" width="300px"> <br>
