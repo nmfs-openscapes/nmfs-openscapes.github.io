@@ -88,7 +88,7 @@ A few local meetups already exist that others know about and are welcome to atte
 <br>
 <center>
   <a href = "https://twitter.com/ashleighjnovak/status/1233401091951333378">
-  <img src="tweet-ashleighjnovak-workshop-life-changing.png" width="550px"></a>
+  <img src="tweet-ashleighjnovak-workshop.jpg" width="550px"></a>
   <figcaption>Tweet by [@ashleighjnovak](https://twitter.com/ashleighjnovak). 
 </figcaption>
 </center>
