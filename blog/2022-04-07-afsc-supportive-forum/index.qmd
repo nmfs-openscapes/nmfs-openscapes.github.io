@@ -22,7 +22,7 @@ aliases:
 
 -   [*https://github.com/nmfs-openscapes*](https://github.com/nmfs-openscapes) *- New NMFS GitHub Organization for coordinating and highlighting open science at NOAA NMFS, including a [wiki](https://github.com/nmfs-openscapes/.github/wiki)*
 
--   [*NOAA Fisheries Champions Cohorts*](https://openscapes.github.io/events/#category:NOAA_Fisheries) *- AFSC was the fifth NOAA Fisheries Champions Cohort since 2020*
+-   [*NOAA Fisheries Champions Cohorts*](https://openscapes.org/events#category=noaa-fisheries) *- AFSC was the fifth NOAA Fisheries Champions Cohort since 2020*
 
 ------------------------------------------------------------------------
 
