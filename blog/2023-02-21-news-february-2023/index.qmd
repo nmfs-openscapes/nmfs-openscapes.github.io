@@ -36,7 +36,7 @@ In 2023, we're committed to being braver in connecting the impact of our work to
 
 -   Ileana Fenwick and Stefanie Butland joined the Openscapes team ([tweet](https://twitter.com/openscapes/status/1534951248369025031))! They both do incredibly valuable work and we are so grateful to work together.
 
--   We hosted 3 Community Calls: A Qualitative Data Analysis Chat with Dr. Beth Duckles; Hello Quarto! A Quarto Chat with NASA Openscapes, co-hosted with R-Ladies Santa Barbara; Reimagining open science as part of the climate movement, a chat with Dr. Monica Granados ([summary posts](https://www.openscapes.org/tags/community-call/) of Community Calls).
+-   We hosted 3 Community Calls: A Qualitative Data Analysis Chat with Dr. Beth Duckles; Hello Quarto! A Quarto Chat with NASA Openscapes, co-hosted with R-Ladies Santa Barbara; Reimagining open science as part of the climate movement, a chat with Dr. Monica Granados ([summary posts](https://openscapes.org/blog#category=community-call) of Community Calls).
 
 -   Julie gave a co-keynote at rstudio::conf(2022) with Mine Cetinkaya-Rundel, titled Hello Quarto: share, collaborate, teach, reimagine. This was the official launch of Quarto ([blog post](https://www.openscapes.org/blog/2022/08/10/quarto-keynote/)) and it was such an honor to share about the Openscapes community on this big stage!
 
