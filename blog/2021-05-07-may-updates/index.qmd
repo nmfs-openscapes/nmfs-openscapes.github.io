@@ -42,11 +42,11 @@ We are thrilled to have opportunities to share open data science stories from th
 
 
 *   **May 25: Openscapes Community Call: Chat with Tara Robertson**
-    *   [openscapes.org/events](https://openscapes.github.io/events/)
+    *   [openscapes.org/events](https://openscapes.org/events/)
 *   **June 4-5: CascadiaR Conference. Joint keynote by Julie Lowndes & Allison Horst**
     *   [cascadiarconf.com](https://cascadiarconf.com/) 
 *   **July 12-14: Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE) Conference. Keynote by Julie Lowndes**
-    *   [sortee.org/events](https://www.sortee.org/events/)
+    *   [sortee.org/events](https://www.sortee.org)
     *   Content submissions open until June 1
 
 

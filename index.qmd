@@ -23,13 +23,6 @@ As part of the NOAA Fisheries Data Modernization Strategy - funded for 3 years, 
 
 ![Gantt chart of NMFS Openscapes three objectives by quarter and year](images/nmfs-openscapes-gantt-annotated.png){fig-alt="A screenshot of a spreadsheet gantt chart table showing Years 1-3 quarters as columns and Objectives as rows." fig-align="center" width="60%"}
 
-## NMFS Openscapes FY22-23 {.minimal}
-
-**July-September 2023**: Kick-off, engagement, planning, and coordinating for FY24. Bi-weekly meetings with the [FY23 NMFS mentors](https://nmfs-openscapes.github.io/mentors.html#mentors) to plan the year and identify strategic priorities and engagement. We also collaborated with Openscapes mentors across organizations – including NASA Earthdata, NOAA Fisheries, EPA, California Water Boards, Pathways to Open Science, Fred Hutch Cancer Center – to publish an article in *Ecology & Evolution*: [Shifting institutional culture to develop climate solutions with Open Science](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341). 
-
-**January-June 2023** Bi-weekly mentor coach training with Tara Robertson, a DEI consultant and leadership coach who has [worked with Openscapes since 2021](https://www.openscapes.org/blog/2021/05/27/tara-robertson/). We are learning - how to ask open-ended questions, how to listen - that make us better equipped as mentors, teachers, and leaders. Blog post: [How coaching skills have made us better open data science mentors](https://openscapes.org/blog/2023-05-17-mentor-coach/).
-
-**October-December 2022** Four Champions cohorts (150+ staff)! See the [Champions Cohort page](https://nmfs-openscapes.github.io/cohorts/#section).
 
 ## What is the impact of this?
 

@@ -227,7 +227,7 @@ through Carpentries Instructor Training and Openscapes Cohort Calls;
 Co-Working, and Clinics; developing, reviewing, and getting teaching
 feedback in "dry runs"; and teaching at Cloud Hackathons and workshops
 (see [NASA Cloud
-tutorials](https://nasa-openscapes.github.io/tutorials.html)). 
+tutorials](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/tutorials/)). 
 
 <br>
 

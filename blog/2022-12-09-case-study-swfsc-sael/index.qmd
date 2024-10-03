@@ -26,7 +26,7 @@ Over the last two months I participated in the [Openscapes Champions](https://ww
 
 Over the 2 month program, I participated in a variety of weekly meetings, where I learned about these open data science approaches, developed my teams' science pathway, and collaborated with other Fisheries scientists. My large cohort focused on the following lessons:
 
-1.  [Openscapes mindset](https://openscapes.github.io/series/mindset.html) and [better science in less time](https://openscapes.github.io/series/better-science.qmd)
+1.  [Openscapes mindset](https://openscapes.github.io/series/mindset.html) and [better science in less time](https://openscapes.github.io/series/core-lessons/better-science.html)
 
 2.  [GitHub for publishing](https://openscapes.github.io/series/core-lessons/github/github-pub.html) and [project management](https://openscapes.github.io/series/core-lessons/github/github-issues.html)
 
