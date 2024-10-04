@@ -4,8 +4,7 @@ title: "Openscapes Champions Cohorts"
 
 The NMFS Openscapes Mentor Community will be leading 3 Champions Cohorts in Fall 2024! Read on to learn what this is. <!---and how to sign up.--->
 
-Signups for Fall 2024 Cohorts are now closed. We will lead 3 more Champions Cohorts in Fall 2025.
-<!--- [SIGN UP FOR FALL](https://nmfs-openscapes.github.io/champions.html#sign-up-for-fall-2024) by Sept 23, 2024 at 10am PT. [Info session slides](https://docs.google.com/presentation/d/1vf01dZDdp60-GeshJ6GNCvX0iRtYmpgEBM4wW98Ufrk/edit#slide=id.g2f66fdc8be7_1_146) ⬢ [Sample email to share announcement](https://docs.google.com/document/d/1XlFsIJkjnk88QyOblYgt19qXHYtH_was3HZgJg2yrFM/edit?usp=sharing). --->
+Signups for Fall 2024 Cohorts are now closed. We will lead 3 more Champions Cohorts in Fall 2025. <!--- [SIGN UP FOR FALL](https://nmfs-openscapes.github.io/champions.html#sign-up-for-fall-2024) by Sept 23, 2024 at 10am PT. [Info session slides](https://docs.google.com/presentation/d/1vf01dZDdp60-GeshJ6GNCvX0iRtYmpgEBM4wW98Ufrk/edit#slide=id.g2f66fdc8be7_1_146) ⬢ [Sample email to share announcement](https://docs.google.com/document/d/1XlFsIJkjnk88QyOblYgt19qXHYtH_was3HZgJg2yrFM/edit?usp=sharing). --->
 
 ## What is the Champions Program?
 
@@ -13,14 +12,13 @@ Signups for Fall 2024 Cohorts are now closed. We will lead 3 more Champions Coho
 
 Openscapes Champions is a remote-by-design, cohort-based mentorship program that helps teams re-imagine data analysis and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive communities. It is focused on open science and data modernization via biweekly curriculum that Openscapes has improved over 24 Cohorts 2019-2024. The goal is strengthening a teaching and learning culture within teams and organizations. This program is not only for scientists: admin, IT staff, and beyond are welcomed. Individuals and teams do not have to have familiarity or expertise in open science, data science, or coding, to benefit from the Openscapes Champions Program.
 
-```{=html}
 <!--- Through Openscapes cohorts, you focus on your own work with your peers or a team. As the program introduces modern concepts, tooling, and examples from your peers for collaborative open data science, groups focus on where you are and where you want to go together. **Openscapes Champions is "not your traditional training/workshop" because teams:**
 
 -   Have real-world experiential learning: developing psychological safety and habits for implementing change
 -   Learn together and get unstuck: Identify and make progress on barriers as Openscapes introduces modern concepts, tooling, and examples from peers
 -   Work on what is important to them, often something hard to do. Something they want to change.
 --->
-```
+
 ## Champions Program Details
 
 **Fall NMFS Openscapes Champions Cohorts will run from October-December 2024!** We will meet as a cohort five times over two months, on alternating weeks, with additional optional coworking times.
@@ -139,15 +137,15 @@ Lightning talks for the Year of Open Science Culminating Conference, March 21, 2
 
 The growing [NMFS Openscapes Mentor community](https://nmfs-openscapes.github.io/mentors/) — staff from across NOAA Fisheries interested in supporting others with teamwork and open science — will be increasingly involved with Champions Cohorts, and point-people for questions about what is involved and how to sign up. Mentors play different roles during different phases of Champions Cohorts.
 
-**Pre-cohort engagement:** Mentors are empowered to encourage their colleagues to sign up for Openscapes Champions Cohorts. The Openscapes team will support you in preparing to present to an all-hands or brown bag session, or you can invite us to present (see [Pre-cohort engagement](champions.qmd#pre-cohort-engagement) below).
+**Pre-cohort engagement:** Mentors are empowered to encourage their colleagues to sign up for Openscapes Champions Cohorts. The Openscapes team will support you in preparing to present to an all-hands or brown bag session, or you can invite us to present.
 
 **During cohort:** Mentors participate in the Champions Program (in fact, Champions cohorts are scheduled as "takeovers" of regular Mentors calls to be mindful of Mentors' time commitments). Here are several roles where Mentors can contribute:
 
--   Participant (bring your team as Champions)
--   Recruiter (engage others in your Center / Office to encourage them to participate)
--   Mentor (Content expert, model live notetaking, contribute to debriefing)
--   Guest teacher - running a themed Seaside Chat, or (learn to) lead GitHub clinics
--   Helpers - Coworking / Seaside Chat (fix merge conflict, add documentation)
+-   Meta-listeners (role model psychological safety, live notetaking; review [2023 Mentor skills](https://nmfs-openscapes.github.io/mentors/mentor-calls.html) we developed; contribute to 20-min post-cohort debriefs as you can to help surface ideas and set direction (stay in Zoom after the Cohort calls)
+-   Content experts (responsive during Cohorts Calls, Seaside Chats, Coworking to help Champions with their goals)
+-   Helpers (during Coworking / Seaside Chats, screensharing to fix merge conflicts, add documentation)
+-   Participants (learn with your team as a Champion, focus on your work in Seaside Chats and Coworking)
+-   Teachers (teaching specific Champions lessons, pre-arranged)
 
 ## Selection and how to participate
 
@@ -176,8 +174,6 @@ Criteria that did NOT affect selection:
 -   People who signed up as individuals or as part of a team were considered equally;
 -   Date of signup.
 
-Waitlist decisions: 
+Waitlist decisions:
 
 -   If people declined, we selected people from the waitlist, prioritizing same cohort, same division, not participated before, same team, availability for Cohort date-time.
-
-
