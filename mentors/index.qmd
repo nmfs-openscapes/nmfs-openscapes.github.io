@@ -2,9 +2,9 @@
 title: "NMFS Openscapes Mentor Community"
 ---
 
-Starting in 2021, we have been growing an informal cross-NMFS mentor community; each science center and regional office participating in the Openscapes cohorts has 1-4 mentors that help organize the local cohorts, spearhead communication with with their local leadership, act as a point-person for interested local staff, help identify local needs, and help communicate, or potentially organize, teaching resources for their local staff. Openscapes organizes training and co-working sessions for the mentor group, so that we can all learn from each others experiences and learn new skills together.  
+Starting in 2021, we have been growing an informal cross-NMFS mentor community; each science center and regional office participating in the Openscapes cohorts has 1-4 mentors that help organize the local cohorts, spearhead communication with with their local leadership, act as a point-person for interested local staff, help identify local needs, and help communicate, or potentially organize, teaching resources for their local staff. Openscapes organizes training and co-working sessions for the mentor group, so that we can all learn from each others experiences and learn new skills together.
 
-FY24 will kick off our formal Openscapes mentors cohort for the fiscal year. The  mentors cohort will help guide the Open Data/Open Science/Reproducibility efforts for their FMC and act as mentors for Champions cohorts. The mentors cohort will act as the "Open Science leadership team" for NOAA Fisheries. Participation is year-long and will include leadership and mentoring training. The mentor group is modeled after the [NASA Openscapes Framework approach](https://openscapes.github.io/approach-guide/mentors-framework).   
+FY24 will kick off our formal Openscapes mentors cohort for the fiscal year. The mentors cohort will help guide the Open Data/Open Science/Reproducibility efforts for their FMC and act as mentors for Champions cohorts. The mentors cohort will act as the "Open Science leadership team" for NOAA Fisheries. Participation is year-long and will include leadership and mentoring training. The mentor group is modeled after the [NASA Openscapes Framework approach](https://openscapes.github.io/approach-guide/mentors-framework).
 
 ## Activities
 
@@ -14,20 +14,20 @@ See our current and previous [activities](activities.qmd)!
 
 Co-leads:
 
-* Julie Lowndes and Stefanie Butland (Openscapes)
-* Eli Holmes (NOAA Fisheries)
+-   Julie Lowndes and Stefanie Butland (Openscapes)
+-   Eli Holmes (NOAA Fisheries)
 
-### FY23 Mentor group
-
-* AFSC: Emily Markowitz, Josh London, Megsie Siple
-* AKRO: Craig Millard
-* NEFSC: Andy Jones, Scott Large
-* NWFSC: Eli Holmes, Eric Ward, Erin Steiner
-* PIFSC: Amanda Bradford, Juliette Verstaen
-* SEFSC: Adyan Rios, Molly Stevens
-* SWFSC: Kevin Stierhoff
-* OST: Christine Stawitz, Kathryn Doering
-
-### FY24 Mentors Group
+### FY24 Mentors 
 
 Coming soon!
+
+### FY23 Mentors
+
+-   AFSC: Emily Markowitz, Josh London, Megsie Siple
+-   AKRO: Craig Millard
+-   NEFSC: Andy Jones, Scott Large
+-   NWFSC: Eli Holmes, Eric Ward, Erin Steiner
+-   PIFSC: Amanda Bradford, Juliette Verstaen
+-   SEFSC: Adyan Rios, Molly Stevens
+-   SWFSC: Kevin Stierhoff
+-   OST: Christine Stawitz, Kathryn Doering
