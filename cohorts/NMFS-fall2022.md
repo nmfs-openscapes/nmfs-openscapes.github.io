@@ -16,12 +16,3 @@ Go here to find a link to the Google Drive folders (cohort participant restricte
 - [NWFSC](https://nmfs-openscapes.github.io/2022-noaa-nwfsc-fall/)
 - [Cross-cohort GitHub tutorials](https://rverse-tutorials.github.io/NMFS-Openscapes-fall-2022/) links to videos of the tutorial content.
 
-## More information
-
-::: {.callout-note icon=false}
-
-## Contact your Openscapes contact person for more information
-
-Each center works with Openscapes to finalize the participant lists for each of the four cohorts. Please contact [your Openscapes mentor/point-of-contact](../mentors.html) for more information on participation in future cohorts. 
-
-:::
