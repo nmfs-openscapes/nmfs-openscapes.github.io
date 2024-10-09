@@ -12,57 +12,83 @@ See our current and previous [activities](activities.qmd)!
 
 ## Mentors
 
-Co-leads:
+### Co-leads:
 
 -   Julie Lowndes and Stefanie Butland (Openscapes)
--   Eli Holmes (NOAA Fisheries)
+-   Eli Holmes (NOAA Fisheries, NMFS Open Science)
 
 ### FY24 Mentors 
 
-Anna Abelman, AFSC  
-Yvonne Barkley, PIFSC  
-Jennifer Bigman, AFSC  
-Amanda Bradford, PIFSC  
-Jon Brodziak, PIFSC  
-Lynn deWitt, SWFSC  
-Monica Diaz, NWFSC  
-Kathryn Doering, OST  
-Brian Fadely, AFSC  
-Craig Faunce, AFSC  
-Carissa Gervasi, SWFSC  
-Matt Grossi, SEFSC  
-Laura Gruenburg, NEFSC  
-Elizabeth Gugliotti, OST  
-Shannon Hennessey, AFSC  
-Eli Holmes, NWFSC  
-Kristin Holsman, AFSC  
-Sunny Hospital, SWFSC/PIFSC  
-Devin Johnson, PIFSC  
-Andrew Jones, NEFSC  
-Stacie Koslovsky, AFSC  
-Josh London, AFSC  
-Lori Luers, PIFSC  
-Em Markowitz, AFSC  
-Michael Marsik, PIFSC  
-Craig Millard, AKRO  
-Hem Nalini Mozaria-Luna, NWFSC  
-Meg Oshima, PIFSC  
-Jonathan Richar, AFSC  
-Adyan Rios, SEFSC  
-Dale Robinson, SWFSC  
-Julie Rose, NEFSC  
-Eva Schemmel, PIFSC  
-Megsie Siple, AFSC  
-Christine Stawitz, OST  
-Erin Steiner, NWFSC  
-Molly Stevens, SEFSC  
-Kevin Stierhoff, SWFSC  
-Ana Vaz, SEFSC  
-Juliette Verstaen, PIFSC  
-Eric Ward, NWFSC  
-Lee Weinberger, SEFSC  
-Ben Williams, AFSC  
-Phoebe Woodworth-Jefcoats, PIFSC  
+#### AFSC
+
+Anna Abelman   
+Jennifer Bigman   
+Brian Fadely   
+Craig Faunce   
+Shannon Hennessey   
+Kristin Holsman   
+Stacie Koslovsky   
+Josh London   
+Em Markowitz   
+Jonathan Richar   
+Megsie Siple   
+Ben Williams   
+
+#### AKRO
+
+Craig Millard   
+
+#### NEFSC
+
+Laura Gruenburg   
+Andrew Jones   
+Julie Rose   
+
+#### NWFSC
+
+Monica Diaz   
+Eli Holmes   
+Hem Nalini Mozaria-Luna   
+Erin Steiner   
+Eric Ward   
+
+#### OST
+
+Kathryn Doering   
+Elizabeth Perl   
+Christine Stawitz   
+
+#### PIFSC
+
+Yvonne Barkley   
+Amanda Bradford   
+Jon Brodziak   
+Devin Johnson   
+Lori Luers   
+Michael Marsik   
+Meg Oshima   
+Eva Schemmel   
+Juliette Verstaen   
+Phoebe Woodworth-Jefcoats   
+
+#### SEFSC
+
+Matt Grossi   
+Adyan Rios   
+Molly Stevens   
+Ana Vaz   
+Lee Weinberger   
+
+#### SWFSC
+
+Lynn deWitt   
+Carissa Gervasi   
+Dale Robinson   
+Kevin Stierhoff   
+
+#### SWFSC/PIFSC
+
+Sunny Hospital   
 
 ### FY23 Mentors
 
