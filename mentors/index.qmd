@@ -9,30 +9,37 @@ FY24 will kick off our formal Openscapes mentors cohort for the fiscal year. The
 ## Activities
 
 See our current and previous [activities](activities.qmd)!
+add MML SAR team and Greg Williams as mentors
 
-## Mentors
 
-### Co-leads:
+## Co-leads:
 
 -   Julie Lowndes and Stefanie Butland (Openscapes)
--   Eli Holmes (NOAA Fisheries, NMFS Open Science)
+-   Eli Holmes (NMFS Open Science)
+
+## Mentors
 
 ### FY24 Mentors 
 
 #### AFSC
 
 Anna Abelman   
-Jennifer Bigman   
+Jennifer Bigman  
+Millie Brower  
 Brian Fadely   
 Craig Faunce   
 Shannon Hennessey   
 Kristin Holsman   
 Stacie Koslovsky   
 Josh London   
-Em Markowitz   
-Jonathan Richar   
+Em Markowitz  
+Tony Orr  
+Jonathan Richar  
+Erin Richmond  
 Megsie Siple   
+Rod Towell  
 Ben Williams   
+Nancy Young
 
 #### AKRO
 
@@ -50,7 +57,8 @@ Monica Diaz
 Eli Holmes   
 Hem Nalini Mozaria-Luna   
 Erin Steiner   
-Eric Ward   
+Eric Ward  
+Greg Williams
 
 #### OST
 
