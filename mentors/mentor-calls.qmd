@@ -8,8 +8,13 @@ editor:
 We have five Mentor Calls as a full community. Here we detail the skills
 and practices Mentors experienced and experimented with in each Call.
 
-How might you reuse these? Moving from "open science from something I do
+How might you reuse these? Moving from "open science is something I do
 alone" to "open science is something I support in others".
+
+We share a [public copy of our
+Agendas](https://docs.google.com/document/d/16F5nt0TNfU66OakTBmuyrZkASv9vKDMGkXjb_eJY_78/edit?tab=t.0)
+for Fall 2023 NMFS Openscapes Mentor Calls and Themed Seaside Chats for
+reuse and remixing.
 
 ## Call 1 Openscapes mindset for mentors
 
@@ -36,9 +41,10 @@ What does it mean to be a mentor? What does Open Science at NMFS mean?
 
 ### Slides
 
-- [Openscapes Mindset for
-Mentors](https://docs.google.com/presentation/d/1EGXrIRzTptY3gcTlG20I7oW5oCzdIS9DB255AHjJ77U/edit#slide=id.p)
-- [Open and Collaborative Communities for Mentors](https://docs.google.com/presentation/d/1rQ7N51AQl-A73SZnvRuPv2QJobIinvksKjIriQn0YNM/edit#slide=id.p)
+-   [Openscapes Mindset for
+    Mentors](https://docs.google.com/presentation/d/1EGXrIRzTptY3gcTlG20I7oW5oCzdIS9DB255AHjJ77U/edit#slide=id.p)
+-   [Open and Collaborative Communities for
+    Mentors](https://docs.google.com/presentation/d/1rQ7N51AQl-A73SZnvRuPv2QJobIinvksKjIriQn0YNM/edit#slide=id.p)
 
 ### Your tasks before next Call
 
