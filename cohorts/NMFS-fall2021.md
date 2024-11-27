@@ -1,5 +1,5 @@
 ---
-title: Fall 2021 NMFS
+title: 2021 Fall NMFS
 ---
 
 *NMFS Openscapes Fall 2021 planning team:* Eli Holmes (NWFSC), Eric Ward (NWFSC), Helene Scalliet (NWFSC).

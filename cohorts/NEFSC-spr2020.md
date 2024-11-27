@@ -1,5 +1,5 @@
 ---
-title: Spring 2020 NEFSC
+title: 2020 Spring NEFSC
 ---
 
 *NEFSC Spr 2020 planning team:* Scott Large (NEFSC)

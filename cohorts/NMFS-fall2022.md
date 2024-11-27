@@ -1,5 +1,5 @@
 ---
-title: Fall 2022 NMFS
+title: 2022 Fall NMFS
 ---
 
 <img src="../images/fall2022openscapes.png" alt="hands together" style="float:right;width:40%;">
