@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,12 +37,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-d166b450ba5a8e9f7a0ab969bf6592c1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-2f9c039ea7a9e575d83849e7716bb683.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-504eaef62a3362ffc665ddab0dff3f96.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -264,7 +264,7 @@ ul.task-list li input[type="checkbox"] {
 
 <p><em>NEFSC Spr 2020 planning team:</em> Scott Large (NEFSC)</p>
 <p>Dr.&nbsp;Scott Large, the Ecosystems Dynamics &amp; Assessment Branch Chief at NOAA’s NEFSC, organized the first NOAA Fisheries Openscapes cohort as a 2-day mini version of the Champions Program. Six teams from NEFSC and UMass Dartmouth participated in-person at this workshop in Woods Hole, Massachusetts. Teams left motivated to focus on creating more deliberate, collaborative, open workflows within their team, and second, that they saw other teams as future colleagues, collaborators, and allies for fisheries open data science!</p>
-<p>The <a href="https://thefaylab.github.io/lab-manual/">Fay Lab Manual</a> was a project of one of the teams in this first Openscapes cohort. It is widely used now as an example of a ‘Code of Conduct’ and on-boarding document for a team. <a href="https://github.com/thefaylab/lab-manual/">{{&lt; fa brands github "Link to Github repo" &gt;}}</a></p>
+<p>The <a href="https://thefaylab.github.io/lab-manual/">Fay Lab Manual</a> was a project of one of the teams in this first Openscapes cohort. It is widely used now as an example of a ‘Code of Conduct’ and on-boarding document for a team. <a href="https://github.com/thefaylab/lab-manual/">{{&lt; fa brands github  title="Link to Github repo" &gt;}}</a></p>
 <p><em>from the <a href="https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/">Openscapes blog post</a></em></p>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -517,8 +517,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -629,7 +627,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
