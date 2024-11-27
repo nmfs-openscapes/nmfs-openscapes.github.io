@@ -2,9 +2,13 @@
 title: "Openscapes Champions Cohorts"
 ---
 
-The NMFS Openscapes Mentor Community will be leading 3 Champions Cohorts in Fall 2024! Read on to learn what this is. <!---and how to sign up.--->
+*This is the page in preparation for the 2024 cohort; check back as we prepare for fall 2025!*
 
-Signups for Fall 2024 Cohorts are now closed. We will lead 3 more Champions Cohorts in Fall 2025. <!--- [SIGN UP FOR FALL](https://nmfs-openscapes.github.io/champions.html#sign-up-for-fall-2024) by Sept 23, 2024 at 10am PT. [Info session slides](https://docs.google.com/presentation/d/1vf01dZDdp60-GeshJ6GNCvX0iRtYmpgEBM4wW98Ufrk/edit#slide=id.g2f66fdc8be7_1_146) ⬢ [Sample email to share announcement](https://docs.google.com/document/d/1XlFsIJkjnk88QyOblYgt19qXHYtH_was3HZgJg2yrFM/edit?usp=sharing). --->
+The NMFS Openscapes Mentor Community led 3 Champions Cohorts in Fall 2024! Read on to learn what this is. <!---and how to sign up.--->
+
+We will lead 3 more Champions Cohorts in Fall 2025.
+
+<!-- Signups for Fall 2024 Cohorts are now closed. We will lead 3 more Champions Cohorts in Fall 2025.  [SIGN UP FOR FALL](https://nmfs-openscapes.github.io/champions.html#sign-up-for-fall-2024) by Sept 23, 2024 at 10am PT. [Info session slides](https://docs.google.com/presentation/d/1vf01dZDdp60-GeshJ6GNCvX0iRtYmpgEBM4wW98Ufrk/edit#slide=id.g2f66fdc8be7_1_146) ⬢ [Sample email to share announcement](https://docs.google.com/document/d/1XlFsIJkjnk88QyOblYgt19qXHYtH_was3HZgJg2yrFM/edit?usp=sharing). --->
 
 ## What is the Champions Program?
 
@@ -21,7 +25,7 @@ Openscapes Champions is a remote-by-design, cohort-based mentorship program that
 
 ## Champions Program Details
 
-**Fall NMFS Openscapes Champions Cohorts will run from October-December 2024!** We will meet as a cohort five times over two months, on alternating weeks, with additional optional coworking times.
+**Fall NMFS Openscapes Champions Cohorts ran from October-December 2024!** We met as a cohort five times over two months, on alternating weeks, with additional optional coworking times.
 
 -   **Date-Times**:
     -   **Cohort-A: Oct 8, 22, Nov 5, 19, Dec 3**. Alternating Tuesdays from 11:00am - 12:30pm PT.
