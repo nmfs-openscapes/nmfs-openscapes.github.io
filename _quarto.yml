@@ -58,11 +58,12 @@ website:
       - section: cohorts/index.qmd
         text: Champions Cohorts
         contents: 
+          - cohorts/NMFS-fall2024.qmd  
           - cohorts/NMFS-fall2022.md 
           - cohorts/SEFSC-sum2022.md 
           - cohorts/AFSC-win2021.md 
-          - cohorts/NMFS-fall2021.md 
           - cohorts/FDD-fall2021.md
+          - cohorts/NMFS-fall2021.md
           - cohorts/NEFSC-spr2020.md
       - href: media.qmd
         text: Presentations and Media
