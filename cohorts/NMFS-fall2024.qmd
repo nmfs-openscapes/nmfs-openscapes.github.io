@@ -2,21 +2,34 @@
 title: 2024 Fall NMFS
 ---
 
-<img src="../images/2024-nmfs-champions-zoomie.png" alt="2024 NMFS Openscapes Cohort A." style="width:100%"/>
+::: grid
+::: g-col-3
+![](images/zoomie2-2024-nmfs-champions-a.png){fig-alt="headshots in zoom meeting. a 7 by 6 grid of people smiling and waving"}
+:::
+::: g-col-3
+insert cohort b zoomie here
+:::
+::: g-col-3
+![](images/zoomie-2024-nmfs-champions-c.png){fig-alt="headshots in zoom meeting. a 6 by 6 grid of people smiling and waving"}
+:::
+:::
 
-As part of NOAA Fisheries' data, infrastructure and workflow modernization effort, Openscapes is providing workforce training and support in open science tools and practices for science teams and staff. This training and support maximizes NOAA Fisheries' capability to deliver reliable, mission-critical information today and tomorrow. Through Champions cohorts, participants work on personal or team goals related to improving their data and science workflows, as they learn open science concepts, tooling, and examples from instructors and peers. Moving towards reproducible workflows and reports that involve scripting and templates rather than manual, difficult to replicate, processes is one of workflow changes that participants learn. For those particpants working on transforming their report workflows, NMFS Open Science held a 5-session Quarto workshop forused on hands-on skills in conjunction with the Openscapes trainings. 
 
-In addition, the Openscapes sessions are designed to help participants actively network across the line office and to learn the collaboration tools available at Fisheries to support this. 'Silo-ing', where individuals or teams work independently without sharing knowledge and skills with individuals and teams doing similar work, is a known problem in data science workforces and leads to inefficient and less innovative and robust work products. The Openscapes Champions programs helps individuals and teams move away from silo-ed workflows towards more collaborative processes. 
+As part of NOAA Fisheries' data, infrastructure and workflow modernization effort, Openscapes is providing workforce training and support in open science tools and practices for science teams and staff. This training and support maximizes NOAA Fisheries' capability to deliver reliable, mission-critical information today and tomorrow. Through Champions cohorts, participants work on personal or team goals related to improving their data and science workflows, as they learn open science concepts, tooling, and examples from instructors and peers. Moving towards reproducible workflows and reports that involve scripting and templates rather than manual, difficult to replicate, processes is one of workflow changes that participants learn. For those particpants working on transforming their report workflows, NMFS Open Science held a 5-session Quarto workshop forused on hands-on skills in conjunction with the Openscapes trainings.
 
-For the fall 2024, the Openscape Champions Cohorts had 190 applications for 120 spots. Participants were chosen to ensure equitable participation across science centers and regional and headquarter offices, with a preference for offices, teams and individuals that had not participated before and for teams involved in IRA supported projects. All six NOAA Fisheries science centers, Greater Atlantic Regional Fisheries Office, Alaska Regional Office, Office of Protected Resources, and Office of Sustainable Fisheries participated in the 2024 fall cohorts.
+In addition, the Openscapes sessions are designed to help participants actively network across the line office and to learn the collaboration tools available at Fisheries to support this. 'Silo-ing', where individuals or teams work independently without sharing knowledge and skills with individuals and teams doing similar work, is a known problem in data science workforces and leads to inefficient and less innovative and robust work products. The Openscapes Champions programs helps individuals and teams move away from silo-ed workflows towards more collaborative processes.
 
-This cohort training is taking place over 5 remote calls from October 8 to December 4, 2024. Cohort calls will cover:
+For the fall 2024, the Openscapes Champions Cohorts had 190 applications for 120 spots. Participants were chosen to ensure equitable participation across science centers and regional and headquarter offices, with a preference for offices, teams and individuals that had not participated before and for teams involved in IRA supported projects. All six NOAA Fisheries science centers, Greater Atlantic Regional Fisheries Office, Alaska Regional Office, Office of Protected Resources, and Office of Sustainable Fisheries participated in the 2024 fall cohorts.
+
+This [cohort training](https://nmfs-openscapes.github.io/2024-nmfs-champions/) is taking place over 5 remote calls from October 8 to December 4, 2024. Cohort calls will cover:
 
 1)  setting the open science mindset and discussing psychological safety,
 2)  an introduction to publishing and project management on GitHub,
 3)  instituting team culture and data strategies,
-4)  developing open communities and coding strategies, and
+4)  developing open communities and coding strategies, including Cloud, and
 5)  preparing a team pathway document to guide their open data science journey after the training.
+
+Champions learned from stories shared by past participants including the Alaska Marine Mammal Stock Assessment Report process ([recording](https://www.youtube.com/watch?v=wqbwcCXbFL8)) and the California Current Ecosystem Status Report Automation team ([recording](https://youtu.be/St_j0D-u7UU)). [Mentors from across NMFS](../mentors/index.qmd) attended some Cohort Calls and Coworking sessions to share their expertise and experience.
 
 # Continued support
 
