@@ -2,13 +2,15 @@
 title: 2024 Fall NMFS
 ---
 
-<img src="../images/sefsc-surf-sessions.png" alt="SEFSC staff working together on workflow." style="width:100%"/>
+<img src="../images/2024-nmfs-champions-zoomie.png" alt="2024 NMFS Openscapes Cohort A." style="width:100%"/>
 
-In recent years, the Southeast Fisheries Science Center (SEFSC) completed a functional realignment. New divisons, branches, and matixed teams have been established, giving rise to unique opportunities for redefining work culture and workflows.
+As part of NOAA Fisheries' data, infrastructure and workflow modernization effort, Openscapes is providing workforce training and support in open science tools and practices for science teams and staff. This training and support maximizes NOAA Fisheries' capability to deliver reliable, mission-critical information today and tomorrow. Through Champions cohorts, participants work on personal or team goals related to improving their data and science workflows, as they learn open science concepts, tooling, and examples from instructors and peers. Moving towards reproducible workflows and reports that involve scripting and templates rather than manual, difficult to replicate, processes is one of workflow changes that participants learn. For those particpants working on transforming their report workflows, NMFS Open Science held a 5-session Quarto workshop forused on hands-on skills in conjunction with the Openscapes trainings. 
 
-There are 36 people from SEFSC and 4 people from AOML participating in the 2022 SEFSC Summer Cohort of the Openscapes Champions training program. This includes 5 people who previously participated in the Fall 2021 NMFS Cohort who are now helping to lead teams in the current cohort. There are 9 supervisors participating, 8 from SEFSC and 1 from AOML. Within SEFSC, there's a large group from the Sustainable Fisheries Division, with 100% of staff from 3 branches: Caribbean, Gulf, and Data Analysis & Assessment Support. There are 4 SEFSC participants from Operations, Management and Information, who will strengthen their own workflows while gaining an increased understanding of current (and future) science workflows at SEFSC.
+In addition, the Openscapes sessions are designed to help participants actively network across the line office and to learn the collaboration tools available at Fisheries to support this. 'Silo-ing', where individuals or teams work independently without sharing knowledge and skills with individuals and teams doing similar work, is a known problem in data science workforces and leads to inefficient and less innovative and robust work products. The Openscapes Champions programs helps individuals and teams move away from silo-ed workflows towards more collaborative processes. 
 
-This cohort training is taking place over 5 remote calls from June 30 to August 25, 2022. Cohort calls will cover:
+For the fall 2024, the Openscape Champions Cohorts had 190 applications for 120 spots. Participants were chosen to ensure equitable participation across science centers and regional and headquarter offices, with a preference for offices, teams and individuals that had not participated before and for teams involved in IRA supported projects. All six NOAA Fisheries science centers, Greater Atlantic Regional Fisheries Office, Alaska Regional Office, Office of Protected Resources, and Office of Sustainable Fisheries participated in the 2024 fall cohorts.
+
+This cohort training is taking place over 5 remote calls from October 8 to December 4, 2024. Cohort calls will cover:
 
 1)  setting the open science mindset and discussing psychological safety,
 2)  an introduction to publishing and project management on GitHub,
@@ -16,30 +18,6 @@ This cohort training is taking place over 5 remote calls from June 30 to August 
 4)  developing open communities and coding strategies, and
 5)  preparing a team pathway document to guide their open data science journey after the training.
 
-In direct alignment with SEFSC strategic initiatives, the Summer SEFS Openscapes cohort is advancing innovation and operational best practice processes. The teams are focusing their energy on a range of important research issue while developing their skills to cultivate innovation and establish best practices in their own work. All of this is achieved within the context of a growing expansion of open science within NOAA and the greater scientific community.
-
-*SEFSC Openscapes Summer 2022 planning team:* Adyan Rios;, Molly Stevens, James Primrose, Erica Rule.
-
-# Teams
-
-**The Advanced Technology Team**
-
-**The Biology and Life History Team**
-
-**The Caribbean Team**
-
-**The Data Analysis and Assessment Support Team**
-
-**The IEA Team**
-
-**The Assessment Workflow Team**
-
-**The Data Governance Team**
-
-**The Data Workflows and Project Management Team**
-
-**The Fisheries Statistics Team**
-
 # Continued support
 
-At the conclusion of the training, cohort members are encouraged to share their hopes for how the SEFSC will continue to support and enhance open data science within our community. Their responses will be summarized below.
+At the conclusion of the training, cohort members are encouraged to continue engaging with the data science trainings that will be offered throughout FY25 by NOAA Fisheries Open Science to learn new skills and technology essential for the data modernization effort.
