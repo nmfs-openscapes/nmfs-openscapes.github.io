@@ -1,5 +1,5 @@
 ---
-title: Summer 2022 SEFSC
+title: 2022 Summer SEFSC
 ---
 
 <img src="../images/sefsc-surf-sessions.png" alt="SEFSC staff working together on workflow." style="width:100%">

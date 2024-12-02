@@ -1,5 +1,5 @@
 ---
-title: Fall 2021 FDD
+title: 2021 Fall FDD
 ---
 
 *FDD Fall 2021 planning team:* Gavin Fay (UMass Dartmouth), Andy Jones (NEFSC)

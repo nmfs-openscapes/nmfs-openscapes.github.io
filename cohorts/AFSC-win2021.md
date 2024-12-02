@@ -1,5 +1,5 @@
 ---
-title: Winter 2021-2022 AFSC
+title: 2022 Winter AFSC
 ---
 
 *AFSC Openscapes Winter 2021-2022 planning team:*  Josh London, Em Markowitz, Megsie Siple
