@@ -29,7 +29,7 @@ This [cohort training](https://nmfs-openscapes.github.io/2024-nmfs-champions/) i
 4)  developing open communities and coding strategies, including Cloud, and
 5)  preparing a team pathway document to guide their open data science journey after the training.
 
-Champions learned from stories shared by past participants including the Alaska Marine Mammal Stock Assessment Report process ([recording](https://www.youtube.com/watch?v=wqbwcCXbFL8)) and the California Current Ecosystem Status Report Automation team ([recording](https://youtu.be/St_j0D-u7UU)). [Mentors from across NMFS](../mentors/index.qmd) attended some Cohort Calls and Coworking sessions to share their expertise and experience.
+Champions learned from stories shared by past participants including the Alaska Marine Mammal Stock Assessment Report process ([recording](https://www.youtube.com/watch?v=wqbwcCXbFL8)) and the California Current Ecosystem Status Report Automation team ([recording](https://youtu.be/St_j0D-u7UU)). [Mentors from across NMFS](../mentors/index.qmd) supported Cohort Calls, Coworking sessions, and asynchronous chat channels to share their expertise and experience.
 
 # Continued support
 
