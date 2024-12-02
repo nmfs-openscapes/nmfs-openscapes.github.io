@@ -3,17 +3,18 @@ title: 2024 Fall NMFS
 ---
 
 ::: grid
-::: g-col-3
-![](images/zoomie2-2024-nmfs-champions-a.png){fig-alt="headshots in zoom meeting. a 7 by 6 grid of people smiling and waving"}
-:::
-::: g-col-3
-![](images/zoomie-2024-nmfs-champions-b.png){fig-alt="headshots in zoom meeting. a 7 by 6 grid of people smiling and waving"}
-:::
-::: g-col-3
-![](images/zoomie-2024-nmfs-champions-c.png){fig-alt="headshots in zoom meeting. a 6 by 6 grid of people smiling and waving"}
-:::
+::: g-col-4
+![](images/zoomie2-2024-nmfs-champions-a.png){fig-alt="headshots in zoom meeting. a 7 by 6 grid of people smiling and waving" fig-align="center" height="4.5cm"}
 :::
 
+::: g-col-4
+![](images/zoomie-2024-nmfs-champions-b.png){fig-alt="headshots in zoom meeting. a 7 by 6 grid of people smiling and waving" fig-align="center" height="4.5cm"}
+:::
+
+::: g-col-4
+![](images/zoomie-2024-nmfs-champions-c.png){fig-alt="headshots in zoom meeting. a 6 by 6 grid of people smiling and waving" fig-align="center" height="4.5cm"}
+:::
+:::
 
 As part of NOAA Fisheries' data, infrastructure and workflow modernization effort, Openscapes is providing workforce training and support in open science tools and practices for science teams and staff. This training and support maximizes NOAA Fisheries' capability to deliver reliable, mission-critical information today and tomorrow. Through Champions cohorts, participants work on personal or team goals related to improving their data and science workflows, as they learn open science concepts, tooling, and examples from instructors and peers. Moving towards reproducible workflows and reports that involve scripting and templates rather than manual, difficult to replicate, processes is one of workflow changes that participants learn. For those particpants working on transforming their report workflows, NMFS Open Science held a 5-session Quarto workshop forused on hands-on skills in conjunction with the Openscapes trainings.
 
