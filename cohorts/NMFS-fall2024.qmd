@@ -23,7 +23,7 @@ For the fall 2024, the Openscapes Champions Cohorts had 190 applications for 120
 
 This [cohort training](https://nmfs-openscapes.github.io/2024-nmfs-champions/) is taking place over 5 remote calls from October 8 to December 4, 2024. Cohort calls will cover:
 
-1)  setting the open science mindset and discussing psychological safety,
+1)  setting the open science mindset and seeing peer stories of what this looks like,
 2)  an introduction to publishing and project management on GitHub,
 3)  instituting team culture and data strategies,
 4)  developing open communities and coding strategies, including Cloud, and
