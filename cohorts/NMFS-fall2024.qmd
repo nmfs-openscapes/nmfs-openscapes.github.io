@@ -7,7 +7,7 @@ title: 2024 Fall NMFS
 ![](images/zoomie2-2024-nmfs-champions-a.png){fig-alt="headshots in zoom meeting. a 7 by 6 grid of people smiling and waving"}
 :::
 ::: g-col-3
-insert cohort b zoomie here
+![](images/zoomie-2024-nmfs-champions-b.png){fig-alt="headshots in zoom meeting. a 7 by 6 grid of people smiling and waving"}
 :::
 ::: g-col-3
 ![](images/zoomie-2024-nmfs-champions-c.png){fig-alt="headshots in zoom meeting. a 6 by 6 grid of people smiling and waving"}
