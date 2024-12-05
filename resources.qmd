@@ -1,0 +1,6 @@
+---
+title: "Resources"
+format: html
+---
+
+![](images/openscapes_hex.png){fig-alt="hexagonal Openscapes logo" fig-align="left" width="30"} [**openscapes.cloud**](https://openscapes.cloud) - A central location for Openscapes JupyterHub access, policies, and fledging information.
