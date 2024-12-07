@@ -70,6 +70,7 @@ website:
       - href: blog.qmd
         text: Blog
       - contact.qmd
+      - resources.qmd
 
 format:
   html:
