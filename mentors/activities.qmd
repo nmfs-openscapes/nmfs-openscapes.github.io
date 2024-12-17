@@ -2,13 +2,19 @@
 title: "Current Activities"
 ---
 
-## Summer-Fall 2024
+## Winter 2025 Group Coaching
+
+The NOAA Fisheries Openscapes Mentors Winter 2025 skillbuilding activities kick off in January with group coaching with Tara Robertson! "Mentoring with a Coach Approach" will be a 5-session Mentor Calls takeover Wednesdays 1:00-2:30 pm PT on January 15, 29, February 12, 26, and March 12. 
+
+What to expect? See [How coaching skills have made us better open data science mentors](https://openscapes.org/blog/2023-05-17-mentor-coach/index.html) a May 2023 blog post and [Shifting institutional culture to develop climate solutions with Open Science](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341), Lowndes et al. 2024 *Ecol & Evol* where previous cross-agency Openscapes Mentors shared about the real change they are making in their work and communities.
+
+## Previous Activities
+
+### Summer-Fall 2024
 
 To kick off Mentors activities, we will focus on preparing for and leading three fall Champions Cohorts. Immediate activities will include scheduling and communicating the opportunity with colleagues, including sending emails, giving talks, ask-me-anythings, and helping folks sign up.
 
 [Kickoff slides](https://docs.google.com/presentation/d/1a_nDKAxpvaWURITBm_HiDvzCd7GLDmb8ooi-d0dRI5I/edit#slide=id.g28f9ffc64ff_0_0)
-
-## Previous Activities
 
 ### October-December 2023: NMFS Mentors Cohort!
 

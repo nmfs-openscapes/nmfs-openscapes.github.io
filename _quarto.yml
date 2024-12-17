@@ -47,8 +47,8 @@ website:
       - section: mentors/index.qmd
         text: Mentors Community
         contents: 
-          - href: mentors/activities.html#october-december-2023-nmfs-mentors-cohort
-            text: Fall 2023 cohort         
+          - href: mentors/activities.html#winter-2025-group-coaching
+            text: Winter 2025 Group Coaching  
           - href: mentors/activities.html#previous-activities
             text: Previous activities
           - href: mentors/mentor-calls.qmd
