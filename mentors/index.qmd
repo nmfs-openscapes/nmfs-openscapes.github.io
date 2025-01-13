@@ -2,9 +2,9 @@
 title: "NMFS Openscapes Mentor Community"
 ---
 
-Starting in 2021, we have been growing an informal cross-NMFS mentor community; each science center and regional office participating in the Openscapes cohorts has 1-4 mentors that help organize the local cohorts, spearhead communication with with their local leadership, act as a point-person for interested local staff, help identify local needs, and help communicate, or potentially organize, teaching resources for their local staff. Openscapes organizes training and co-working sessions for the mentor group, so that we can all learn from each others experiences and learn new skills together.
+The NMFS Openscapes Mentor program supports local Open Science leaders with the NOAA Fisheries offices (science centers, regional offices and headquarters). The mentor program provides leadership and coaching training to help the mentors become better local leaders and to support their Open Science goals for the coming year. In addition, the program helps mentors network across NOAA Fisheries with others with similar goals and with the Openscapes at other federal agencies. The program helps mentors carve out time to make steady progress on their goals and to support their learning journey.  Openscapes organizes bi-weekly co-working sessions for the mentor group, so that they have decicated times each month set aside to work on their goals together. The mentors are also local representatives for NOAA Fisheries Open Science, including Open Data, Open Source and Open Collaboration. The mentors help design and promote the Openscapes fall Champions cohorts, spearhead communication with with their local leadership, act as a point-person for interested local staff, help identify local needs, and help communicate, or potentially organize, teaching resources for their local staff. The mentor group is modeled after the [NASA Openscapes Framework approach](https://openscapes.github.io/approach-guide/mentors-framework).
 
-FY24 will kick off our formal Openscapes mentors cohort for the fiscal year. The mentors cohort will help guide the Open Data/Open Science/Reproducibility efforts for their FMC and act as mentors for Champions cohorts. The mentors cohort will act as the "Open Science leadership team" for NOAA Fisheries. Participation is year-long and will include leadership and mentoring training. The mentor group is modeled after the [NASA Openscapes Framework approach](https://openscapes.github.io/approach-guide/mentors-framework).
+Participation is year-long and includes a cycle of Openscapes activities. Jan-May is focused on the mentors: they define their yearly goals and activites, working on coaching skills, and engage in active work on actualizing their goals. During this time, they will have opportunities to engage with the wider Open Science and Openscapes community in a variety of ways depending on their interests. During spring, they will have joint activities with the [Pathways to Open Science program](https://openscapes.org/initiatives#pathways-to-open-science-program) for marine scientists at historically black colleges and universities. During July 2025, they will have an in-person and hybrid retreat in conjuction with the [ESIPfeds](https://www.esipfed.org/) meeting, an organization for earth science data professionals targeting especially the federal agencies. Moving into early fall, the mentors will help plan the fall Champions cohorts (120 staff across the agency) which are Oct-Dec. During late fall, the mentors do not meet as a group. Those who want to participate in the Champions cohorts will do so while others will work on their goals independently.
 
 ## Activities
 
@@ -16,6 +16,10 @@ See our current and previous [activities](activities.qmd)!
 -   Eli Holmes (NMFS Open Science)
 
 ## Mentors
+
+### FY25 Mentors
+
+List coming soon!
 
 ### FY24 Mentors
 
@@ -99,11 +103,43 @@ Sunny Hospital
 
 ### FY23 Mentors
 
--   AFSC: Emily Markowitz, Josh London, Megsie Siple
--   AKRO: Craig Millard
--   NEFSC: Andy Jones, Scott Large
--   NWFSC: Eli Holmes, Eric Ward, Erin Steiner
--   PIFSC: Amanda Bradford, Juliette Verstaen
--   SEFSC: Adyan Rios, Molly Stevens
--   SWFSC: Kevin Stierhoff
--   OST: Christine Stawitz, Kathryn Doering
+#### AFSC
+
+Josh London\
+Em Markowitz\
+Megsie Siple
+
+#### AKRO
+
+Craig Millard
+
+#### NEFSC
+
+Andrew Jones\
+Scott Large
+
+#### NWFSC
+
+Eli Holmes\
+Erin Steiner\
+Eric Ward
+
+#### OST
+
+Kathryn Doering\
+Elizabeth Perl\
+Christine Stawitz
+
+#### PIFSC
+
+Amanda Bradford\
+Juliette Verstaen
+
+#### SEFSC
+
+Adyan Rios\
+Molly Stevens
+
+#### SWFSC
+
+Kevin Stierhoff
