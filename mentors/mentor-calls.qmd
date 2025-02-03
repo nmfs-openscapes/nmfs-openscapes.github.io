@@ -4,8 +4,7 @@ editor:
   markdown: 
     wrap: 72
 ---
-
-We have five Mentor Calls as a full community. Here we detail the skills
+In fall 2023, we had five Mentor Calls as a full community. Here we detail the skills
 and practices Mentors experienced and experimented with in each Call.
 
 How might you reuse these? Moving from "open science is something I do
