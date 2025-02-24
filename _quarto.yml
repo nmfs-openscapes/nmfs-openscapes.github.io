@@ -64,7 +64,9 @@ website:
           - cohorts/AFSC-win2021.md 
           - cohorts/FDD-fall2021.md
           - cohorts/NMFS-fall2021.md
-          - cohorts/NEFSC-spr2020.md
+          - cohorts/NEFSC-spr2020.md            
+      - href: data-academy.qmd
+        text: Data Academy
       - href: media.qmd
         text: Presentations and Media
       - href: blog.qmd
