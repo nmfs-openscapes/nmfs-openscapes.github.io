@@ -8,9 +8,9 @@ NMFS Openscapes is running a Data Academy Cohort in spring 2025! Read on to lear
 
 ## What is the Data Academy?
 
-**What:** You will learn R for data science through lessons on the [dataquest.io](http://dataquest.io) platform. See the [curriculum] below. The Data Academy is **asynchronous** so you can complete the lessons on your own schedule, and also **cohort-based** so you’ll get to know your colleagues and have accountability. The Openscapes team will provide support through **synchronous help desk hours** and a **dedicated Google Space** for help. A training certificate will be issued for each module completed.
+**What:** You will learn R for data science through lessons on the [dataquest.io](http://dataquest.io) platform. See the [curriculum] below. The Data Academy is **asynchronous** so you can complete the lessons on your own schedule, and also **cohort-based** so you’ll get to know your colleagues and have accountability. The Openscapes team will provide support through optional **synchronous help desk hours and coworking** and a **dedicated Google Space** for help. A training certificate will be issued for each module completed.
 
-**Expected time commitment**: 2-hour chunks of learning time, plus 1 hour of optional "help desk" support, weekly for 3 months.
+**Expected time commitment**: Weekly for 3 months: 2-hour chunks of learning time, plus 1 hour of optional "help desk" support and coworking.
 
 **When**: April through June, 2025.
 
@@ -63,6 +63,14 @@ Yes, you’re welcome, you’ll get a deeper understanding of what you already k
 **How does it relate to Champions/Mentors?**
 
 This is a separate program, but part of the broader Openscapes work with NOAA data and workforce modernization. Participants from past Champions and Mentors are welcome to apply and will learn different skills.
+
+**How do I keep up with the material? What if I get stuck?**
+
+While this is an asynchronous training, doing it with other people is valuable for accountability and to help each other when you’re stuck. Openscapes will host an optional weekly 1-hour help desk and coworking session where you can ask questions and we can discuss the material as a cohort.
+
+**Will you offer the Data Academy at another time? This conflicts with my field season!**
+
+Choosing a time is hard and we understand this timing will exclude some people; we might be able to start earlier in 2026. Openscapes Champions Cohorts are more intensive and we run those in fall when there are fewer field season conflicts. 
 
 ## Sign up for spring 2025
 
