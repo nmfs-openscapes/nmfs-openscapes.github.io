@@ -4,18 +4,18 @@ title: "NMFS Openscapes Data Academy"
 
 NMFS Openscapes is running a Data Academy Cohort in spring 2025! Read on to learn what this is and how to apply. The Data Academy is being led by Openscapes as part of the Fisheries Data Modernization Strategy. We will run this program 3 times, annually in spring 2025 - 2027.
 
-[Sign up for spring 2025] by close of business **March 24, 2025** <!--- ⬢ Sample email to share announcement **\[LINK\]** --->
+[Sign up for spring 2025] by close of business **March 24, 2025** ⬢ [Sample email](https://docs.google.com/document/d/1HqktN5owu4rDCg37lh-eyDcw-wzsbRJ0eVrTfMN5eEQ/) to share announcement.
 
 ## What is the Data Academy?
 
 **What:** You will learn R for data science through lessons on the [dataquest.io](http://dataquest.io) platform. See the [curriculum] below. The Data Academy is **asynchronous** so you can complete the lessons on your own schedule, and also **cohort-based** so you’ll get to know your colleagues and have accountability. The Openscapes team will provide support through optional **synchronous help desk hours and coworking** and a **dedicated Google Space** for help. A training certificate will be issued for each module completed.
 
-**Expected time commitment**: Weekly for 3 months: 2-hour chunks of learning time, plus 1 hour of optional "help desk" support and coworking.
+**Expected time commitment**: Weekly for 3 months: 2-hour chunks of learning time, plus optional 1 hour of support from a "help desk" and coworking.
 
-**When**: April through June, 2025.
+**When**: April 14 - June 17, 2025.
 
 -   Mondays: Week’s lesson reminder received via email. Complete lesson on your own schedule.
--   Wednesdays: Help desk with the Openscapes team and other participants (Optional, via Zoom)
+-   Wednesdays: Help desk and coworking with the Openscapes team alongside other participants (Optional, via Zoom).
 
 **Who**: FTEs and Affiliates from any Fisheries office are welcome to sign up. The 40 available spots will be distributed across centers and offices.
 
