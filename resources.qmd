@@ -9,3 +9,5 @@ format: html
 [NMFS Open Science](https://sites.google.com/noaa.gov/nmfs-hq-st-open-science/home) (NOAA internal) 
 
 ![](images/openscapes_hex.png){fig-alt="hexagonal Openscapes logo" fig-align="left" width="30"} [openscapes.cloud](https://openscapes.cloud) - A central location for Openscapes JupyterHub access, policies, and fledging information.
+
+[py-rocket](https://nmfs-opensci.github.io/py-rocket-base/) addresses a major barrier for collaboration between Python and R users. It was developed as a collaboration between NOAA Fisheries Openscapes, UC Berkeley, NASA Openscapes, 2i2c: Eli Holmes, Carl Boettiger, Luis Lopez Espinosa, Yuvi Panda. Learn more through this January 2025 talk: [py-rocket: A Docker image to promote cross-language (Python, R) collaboration across diverse user platforms for cloud computing in the earth sciences](https://figshare.com/articles/presentation/_i_py_i_i_-rocket_A_Docker_image_to_promote_cross-language_Python_R_collaboration_across_diverse_user_platforms_for_cloud_computing_in_the_earth_sciences_i_/28169855?file=51556415)
