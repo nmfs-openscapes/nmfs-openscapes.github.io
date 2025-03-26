@@ -9,7 +9,7 @@ title: "Current Activities"
     -   **February - April: [Winter 2025 Group Coaching] takeover!**
     -   **April - June:** co-designed and responsive to groups’ goals and needs
     -   Summer break
--   **Coworking** (Tuesdays, biweekly):
+-   **Coworking** (Tuesdays, weekly):
     -   Work on your goals! Coworking sessions by design have no agenda, are self-organizing and work-focused. They are less about "big ideas for discussion". They work best when a few people show up with concrete things to accomplish or work on, and we get quickly into breakout rooms to cowork on these ideas. 
     -   When you show up, these are some of the specific things that you can do: 
         -   Work on your own code, writing
