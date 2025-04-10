@@ -5,7 +5,7 @@ author:
   - name: Openscapes
 #    url: {}
 date: "2025-04-22"
-categories: [event, community-call, nasa-framework]
+categories: [event, community-call, nasa-framework, noaa-fisheries]
 image: nasa-noaa-openscapes-jupyter-2i2c.png
 ---
 
