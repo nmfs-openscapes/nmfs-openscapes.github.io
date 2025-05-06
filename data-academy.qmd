@@ -29,7 +29,7 @@ Applications are now closed.
 
 Dataquest offers many different "Learning Paths", including [Career Paths](https://www.dataquest.io/data-science-courses/career-paths/) and [Skill Paths](https://www.dataquest.io/data-science-courses/career-paths/). These Paths are composed of one or more courses, each of which consist of several modules.
 
-Participants in the Data Academy will complete two Skill Paths:
+Participants in the Data Academy will complete two Skill Paths (view as [weekly spreadsheet](https://docs.google.com/spreadsheets/d/1CVpthda3gOVT57nTOfdXjXuAr0vwc5k7avQtDJu-K8I/edit?gid=0#gid=0)):
 
 #### [R Basics for Data Analysis](https://www.dataquest.io/path/r-basics-for-data-analysis/) (4 courses)
 
