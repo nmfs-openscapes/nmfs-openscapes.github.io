@@ -1,0 +1,19 @@
+---
+title: "Coworking Opportunities"
+---
+
+Opportunities to work and learn alongside NOAA Fisheries colleagues and others in the Openscapes community.
+
+## Public
+
+-   [**HackHours 2025**](https://nmfs-opensci.github.io/NMFSHackDays-2025/). Please join! During these stand-alone informal sessions we will get introduced to a variety of tools for ocean data access and analysis in Python and R. We will be using the NOAA Fisheries Openscapes JupyterHub and you will not need to install anything. Consider offering to speak; a great way to get to know and support NOAA staff.
+
+## NOAA specific
+
+-   **NMFS Open Science Help Desk Office Hours**, Wednesdays 9:30-1:00 PT. NMFS Open Science is hosting weekly Help Desk Office Hours! Jon Peake will be available virtually from 9:30am to 1:00pm PT on most Wednesdays to assist with any questions or issues related to R, Quarto, GitHub, or any other Open Science/Open Data topics. We will be booking individuals in half-hour time slots; to sign up. [grab a time slot](https://calendar.app.google/TTkn1jaAz1t98SWLA)!
+
+-   **NMFS Open Science [Trainings](https://sites.google.com/noaa.gov/nmfs-hq-st-open-science/trainings)** & Calendar (TODO link calendar).
+
+-   **Group Coworking**, weekly on Tuesdays, with NOAA Fisheries Openscapes Mentors and Champions. Contact stefanie\@openscapes.org to join.
+
+-   **1:1 coworking** with Stef Butland (Openscapes). (TODO some detail).
