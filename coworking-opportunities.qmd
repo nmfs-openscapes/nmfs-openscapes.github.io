@@ -6,9 +6,12 @@ Coworking is one of the most actionable, low cost, immediate things groups can d
 
 ## Public
 
--   [**HackHours 2025**](https://nmfs-opensci.github.io/NMFSHackDays-2025/). Please join! During these stand-alone informal sessions we will get introduced to a variety of tools for ocean data access and analysis in Python and R. We will be using the NOAA Fisheries Openscapes JupyterHub and you will not need to install anything. Consider offering to speak; a great way to get to know and support NOAA staff.
+-   [**Summer 2025 Openscapes HackHours**](https://github.com/nmfs-openscapes/hackhours-planning/blob/main/jun-jul-2025/schedule.md) **(Joint NOAA/NASA)**, Fridays 11-12 PT, May 30 through July 25.
+    -   Topic: LLMs and ML models. Consider offering to speak; a great way to get to know and support NOAA staff.
 
 ## NOAA specific
+
+-   [**HackHours 2025**](https://nmfs-opensci.github.io/NMFSHackDays-2025/). Please join! During these stand-alone informal sessions we will get introduced to a variety of tools for ocean data access and analysis in Python and R. We will be using the NOAA Fisheries Openscapes JupyterHub and you will not need to install anything.
 
 -   **NMFS Open Science Help Desk Office Hours**, Wednesdays 9:30-1:00 PT.
 
