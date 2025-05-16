@@ -66,15 +66,15 @@ website:
           - cohorts/NMFS-fall2021.md
           - cohorts/NEFSC-spr2020.md            
       - href: data-academy.qmd
-        text: Data Academy           
-      - href: coworking-opportunities.qmd
-        text: Coworking Opportunities
+        text: Data Academy
       - href: media.qmd
         text: Presentations and Media
+      - resources.qmd  
       - href: blog.qmd
         text: Blog
-      - contact.qmd
-      - resources.qmd
+      - contact.qmd         
+      - href: coworking-opportunities.qmd
+        text: Live Coworking
 
 format:
   html:
