@@ -73,7 +73,7 @@ website:
       - href: blog.qmd
         text: Blog
       - contact.qmd         
-      - href: coworking-opportunities.qmd
+      - href: live-coworking.qmd
         text: Live Coworking
 
 format:
