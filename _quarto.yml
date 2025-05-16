@@ -69,10 +69,12 @@ website:
         text: Data Academy
       - href: media.qmd
         text: Presentations and Media
+      - resources.qmd  
       - href: blog.qmd
         text: Blog
-      - contact.qmd
-      - resources.qmd
+      - contact.qmd         
+      - href: live-coworking.qmd
+        text: Live Coworking
 
 format:
   html:

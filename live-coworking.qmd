@@ -1,0 +1,42 @@
+---
+title: "Live Coworking Opportunities"
+---
+
+Coworking is one of the most actionable, immediate things groups can do to support each other and build new skills and workflows. Here are some opportunities to work and learn alongside NOAA Fisheries colleagues and others in the Openscapes community.
+
+## Public
+
+These are joint-led by NOAA and NASA, and all are welcome.
+
+-   **Summer 2025 Openscapes HackHours** [schedule](https://github.com/nmfs-openscapes/hackhours-planning/blob/main/jun-jul-2025/schedule.md). Fridays 11-12 PT, May 30 through July 25.
+    -   Topic: LLMs and ML models. Please join us and consider offering to speak; a great way to get to know and support NOAA staff.
+
+## NOAA specific
+
+-   **HackHours 2025** [schedule & lessons](https://nmfs-opensci.github.io/NMFSHackDays-2025/). Fridays 11-12 PT.
+
+    -   During these stand-alone informal sessions we will get introduced to a variety of tools for ocean data access and analysis in Python and R. We will be using the NOAA Fisheries Openscapes JupyterHub and you will not need to install anything. After May 30, please join the public Summer 2025 Openscapes HackHours in this time slot joint-led by NOAA and NASA ([schedule](https://github.com/nmfs-openscapes/hackhours-planning/blob/main/jun-jul-2025/schedule.md)).
+
+-   **NMFS Open Science Help Desk Office Hours**, Wednesdays 9:30-1:00 PT.
+
+    -   Jon Peake will be available virtually to assist with any questions or issues related to R, Quarto, GitHub, or any other Open Science/Open Data topics. We will be booking individuals in half-hour time slots; to sign up. [Grab a time slot](https://calendar.app.google/TTkn1jaAz1t98SWLA)!
+
+-   **NMFS Open Science [Trainings](https://sites.google.com/noaa.gov/nmfs-hq-st-open-science/trainings)** & Calendar (TODO link calendar).
+
+-   **Group Coworking**, 1.5 hours weekly on Tuesdays, with NOAA Fisheries Openscapes Mentors and Champions. Contact stefanie\@openscapes.org to join.
+
+    -   Ideas, projects, resources, and troubleshooting notes are shared in the [MentorActivities](https://github.com/orgs/nmfs-openscapes/projects/46) GitHub Project.
+
+-   **1:1 coworking** with Stefanie Butland, Openscapes team member. [Book](https://calendly.com/stefaniebutland/) a 2- or 1-hour time slot.
+
+    -   We start with each of us saying what we're working on, and how we’d like to break up our time together into work blocks and checkins. The breaks are where the synergy comes. At the end of each work block, we briefly report back on what we’ve accomplished, help each other get unstuck, ask for advice on how to approach a task, or say “omigosh that is fantastic!”.
+
+## More on coworking
+
+-   Openscapes Champions Lesson Series: [Seaside Chats & Coworking](https://openscapes.github.io/series/what-to-expect.html#seaside-chats-coworking).
+
+-   We crossed the chasm at NOAA Fisheries, [Lowndes & Holmes, 2025](https://openscapes.org/blog/2025-05-13-cng-conf/).
+
+-   Shifting institutional culture to develop climate solutions with Open Science, [Lowndes et al., 2024](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341)
+
+-   Online coworking partnerships are community of practice in action, [Penfold & Butland, 2020](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/).
