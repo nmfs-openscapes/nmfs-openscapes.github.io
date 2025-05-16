@@ -31,7 +31,7 @@ These are joint-led by NOAA and NASA, and all are welcome.
 
     -   We start with each of us saying what we're working on, and how we’d like to break up our time together into work blocks and checkins. The breaks are where the synergy comes. At the end of each work block, we briefly report back on what we’ve accomplished, help each other get unstuck, ask for advice on how to approach a task, or say “omigosh that is fantastic!”.
 
-## More on coworking:
+## More on coworking
 
 -   Openscapes Champions Lesson Series: [Seaside Chats & Coworking](https://openscapes.github.io/series/what-to-expect.html#seaside-chats-coworking).
 
