@@ -8,7 +8,7 @@ Coworking is one of the most actionable, immediate things groups can do to suppo
 
 These are joint-led by NOAA and NASA, and all are welcome.
 
--   **Summer 2025 Openscapes HackHours** [schedule](https://github.com/nmfs-openscapes/hackhours-planning/blob/main/jun-jul-2025/schedule.md). Fridays 11-12 PT, May 30 through July 25.
+-   **Summer 2025 Openscapes HackHours** [schedule](https://github.com/nmfs-openscapes/hackhours-planning/blob/main/jun-jul-2025/schedule.md). Fridays 11-12 PT, June 6 through July 25.
     -   Topic: LLMs and ML models. Please join us and consider offering to speak; a great way to get to know and support NOAA staff.
 
 ## NOAA specific
