@@ -19,6 +19,18 @@ title: "Current Activities"
 -   **ESIP Summer conference,** July 22-25 in Seattle - cross-government open data science folks
 -   **NMFS Openscapes Champions Cohorts** ([Mentor roles](https://nmfs-openscapes.github.io/champions.html#mentor-roles) in pre-cohort engagement, and mentoring during cohorts, October - December).
 
+### Summer 2025 Workshop {data-link="Winter 2025 Group Coaching"}
+
+The NOAA Fisheries Openscapes Mentors Summer Workshop is July 21. A hybrid event across timezones from Hawaii to the East Coast.
+
+-   **Purpose:** Have new opportunities for co-creation across our centers/offices, and amplifying our work since it is of great use for others.
+-   **Outcomes:**
+    -   Increased Mentors’ awareness across projects and progress on new ideas and barriers;
+    -   Blog post following Summer Workshop highlighting Mentors’ work;
+    -   More examples for impact and shared slides.
+
+**Process:** A facilitated workshop with some plenary learning time and Mentors deciding what you want to work on and share.
+
 ### Winter 2025 Group Coaching
 
 The NOAA Fisheries Openscapes Mentors Winter 2025 skillbuilding activities to become better mentors and team leaders. The "Mentoring with a Coach Approach" will be a 5-session Mentor Calls takeover Wednesdays 1:00-2:30 pm PT on February 12, 26, March 12, 26, and April 9.
@@ -53,7 +65,7 @@ The FY24 mentor cohort will start with a mentors-only Openscapes Champions cohor
 **Mentor Calls** are when we convene as a group to learn and plan. Agendas are accessible to Cohort participants in our [Cohort Google Folder](https://drive.google.com/drive/folders/1eL0OnwySgTjcI_J6iI0NR8BgiqG0jB9V?usp=sharing); they are also an archive of our live notetaking. See [Mentor Calls Skills](mentor-calls.qmd) for details.
 
 | Date | Mentor Call Topics |
-|---------------|---------------------------------------------------------|
+|-----------------|-------------------------------------------------------|
 | 10/17 | 1\. Openscapes mindset for mentors: What does it mean to be a mentor? What does Open Science at NMFS mean? <!-- Julie is point --> |
 | 10/31 | 2\. Developing strong Open and Collaborative Communities <!--Stef is point: Stef Butland on the rOpenSci and rLadies --> |
 | 11/14 | 3\. The art of teaching skills: running GitHub clinics <!-- Eli is point: 5 min on the Women in Data Sci GitHub clinic; triads on talk, show, do ---> |
@@ -65,7 +77,7 @@ The FY24 mentor cohort will start with a mentors-only Openscapes Champions cohor
 **Seaside Chats** are for small-group coworking in weeks alternating between Mentor Calls. Topics are to reflect with your other center mentors in-between cross-center cohort calls. Note particants from different centers or offices can have Seaside chats together. We will organize our Seaside chats after the first mentor calls.
 
 | Date | Seaside co-working sessions |
-|-----------------|-------------------------------------------------------|
+|------------------|------------------------------------------------------|
 | Week of 10/23 | Begin work on an Open Science Pathway for your center, office or program. Where are you at? Where would you like to be? Do you have the info you need to answer this? |
 | Week of 11/6 | Keep working Open Science Pathway for your center, office or program with specific discussions of needs/challenges |
 | Week of 11/20 | Cross-FMC discussions of Open Science Pathways and work on shared organizing with GitHub |
