@@ -20,7 +20,7 @@ title: "Current Activities"
 -   **ESIP Summer conference,** July 22-25 in Seattle - cross-government open data science folks
 -   **NMFS Openscapes Champions Cohorts** ([Mentor roles](https://nmfs-openscapes.github.io/champions.html#mentor-roles) in pre-cohort engagement, and mentoring during cohorts, October - December).
 
-### Summer 2025 Workshop {data-link="Winter 2025 Group Coaching"}
+### Mentors Summer Workshop 2025
 
 The NOAA Fisheries Openscapes Mentors Summer Workshop is July 21. A hybrid event across timezones from Hawaii to the East Coast.
 
