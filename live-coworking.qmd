@@ -8,8 +8,8 @@ Coworking is one of the most actionable, immediate things groups can do to suppo
 
 These are joint-led by NOAA and NASA, and all are welcome.
 
--   **Summer 2025 Openscapes HackHours** [schedule](https://github.com/nmfs-openscapes/hackhours-planning/blob/main/jun-jul-2025/schedule.md). Fridays 11-12 PT, June 6 through July 25.
-    -   Topic: LLMs and ML models. Please join us and consider offering to speak; a great way to get to know and support NOAA staff.
+-   **Summer 2025 NMFS-Openscapes HackHours** [schedule & lessons](https://nmfs-opensci.github.io/NMFSHackDays-2025/). Fridays 11-12 PT, June 6 through July 25.
+    -   During these stand-alone informal sessions we will get introduced to a variety of tools for ocean data access and analysis in Python and R. We will be using the NOAA Fisheries Openscapes Jupyter Hub and you will not need to install anything. [Please register](https://zoom.us/meeting/register/Om99ecCMSrqepyDVDJ7bBA) (free, open to all).
 
 ## NOAA specific
 
