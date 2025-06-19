@@ -3,6 +3,8 @@ title: "Presentations, Publications and Media"
 bibliography: references.bib
 ---
 
+Communication and amplifying is a big part of our work. One take-home from ‘how to spread ideas’ books is that you have to do 20-30x more comms than you think. We have been focusing on lots of different types of comms (talks, 1:1 help, reaching out to teams, short presentations, etc). Please reuse/remix and amplify these stories. 
+
 ## Presentations
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" height="20"/> [A Year of Open Science Community Building at NOAA Fisheries](https://www.youtube.com/watch?v=n1VaV8f6qQE&list=PLChfyH8TVDGnB_zDCm8d9oonMomfk8v9X&index=14) Eli Holmes (NOAA Fisheries Open Science), Evan Howell (Director of the Office of Science and Technology), Megsie Siple (Alaska Fisheries Science Center), Amanda Bradford (Pacific Islands Fisheries Science Center), Brian Fadely (Alaska Fisheries Science Center Marine Mammal Stock Assessments), Vivian Matter (Branch Chief of Southeast Fisheries Science Center), Kathryn Doering (Office of Science and Technology), Christine Stawitz (Office of Science and Technology), Carissa Geravsi (Gulf of Mexico Integrated Ecosystem Assessment), Lynn Dewitt (California Current Ecosystem Assessment Team). Year of Open Science Culminating Conference, March 21, 2024. 
@@ -21,20 +23,16 @@ bibliography: references.bib
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg" height="20"/> [State of the Ecosystem Product Development Workflow](https://noaa-edab.github.io/presentations/20211015_Openscapes_Bastille.html#1) Kim Bastille (NOAA Northeast Fisheries Science Center) presented during the FDD Openscapes Champions Cohort about the reproducible workflow used by the State Of the Ecosystem report.
 
-## Better science in less time, yes it is possible!
-A talk series in spring 2025. Each talk is presented by Eli Holmes and Julie Lowndes, plus additional NOAA Fisheries Openscapes Mentors indicated below. Adapted/forked for different lengths and audiences.
 
-<!---
-slides upcoming. June 19, 2025
+## Presentations for Leadership
 
-slides upcoming. NOAA Science Council Research & Development Enterprise Committee ([RDEC](https://sciencecouncil.noaa.gov/about/committees/)) - June 2, 2025.
---->
+Crossing the chasm: helping organizations innovate through workforce modernization. Diffusion of Innovation theory in practice with NOAA Fisheries Openscapes. NOAA Office of Science and Technology - June 26, 2025.
 
-[slides](https://docs.google.com/presentation/d/1rQGVOltRbIIBOQ7iP_5LzMnMJj5JMo9rUIKOelivvAk/edit#slide=id.g3601f799be_0_0). OST4, Assessment & Monitoring Division. With Sam Schiano, May 13, 2025.
+[Crossing the chasm: helping organizations innovate through workforce modernization. Diffusion of Innovation theory in practice with NOAA Fisheries Openscapes](https://docs.google.com/presentation/d/19Us1HBKZy58MV7QEfntbQr1oAoNsKuJHfxeI3yRGTS4/edit?slide=id.g34b3b339705_0_2152#slide=id.g34b3b339705_0_2152) NOAA Science Council Research & Development Enterprise Committee ([RDEC](https://sciencecouncil.noaa.gov/about/committees/)) - June 2, 2025.
 
-[slides](https://docs.google.com/presentation/d/1PghOUzHF5Z5RzrSFlfrdqWH0t5ZveY1wwHmuzigthgQ/edit#slide=id.g3601f799be_0_0). AST group at Southwest Fisheries Science Center. With Alice Bittel, April 25, 2025.
+[Better science in less time, yes it is possible!](https://docs.google.com/presentation/d/1rQGVOltRbIIBOQ7iP_5LzMnMJj5JMo9rUIKOelivvAk/edit#slide=id.g3601f799be_0_0). OST4, Assessment & Monitoring Division. Holmes, Lowndes, Schiano, May 13, 2025.
 
-## Presentations for NMFS Leadership
+[Better science in less time, yes it is possible!](https://docs.google.com/presentation/d/1PghOUzHF5Z5RzrSFlfrdqWH0t5ZveY1wwHmuzigthgQ/edit#slide=id.g3601f799be_0_0). AST group at Southwest Fisheries Science Center. Holmes, Lowndes, Bittel, April 25, 2025.
 
 [SEFSC Leadership](https://docs.google.com/presentation/d/1NATyy56YF0v2ZZtixFzC7Sdbi7vBzMWvcPXuLKkZzFY/edit?usp=sharing), Lowndes, Rios, Stevens. Sept 14, 2023.
 
