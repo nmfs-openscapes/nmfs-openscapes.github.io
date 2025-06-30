@@ -14,12 +14,14 @@ Example workflow analysis by one of the Fall 2022 NMFS Openscapes teams: left) c
 
 ## Upcoming Cohorts
 
-We will lead 3 more Champions Cohorts in Fall 2025.
+We will lead 3 more [Champions Cohorts in Fall 2025](../champions.qmd).
 
 <img src="../images/fall2022openscapes.png" alt="hands together" style="float:right;width:30%;"/>
 
+```{=html}
 <!---[Announcement for 3 Champions Cohorts coming in Oct-Dec 2024!](../champions.qmd) Please sign up and share with colleagues!
 --->
+```
 
 ## Past Cohorts
 
