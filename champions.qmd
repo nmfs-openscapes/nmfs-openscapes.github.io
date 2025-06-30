@@ -2,19 +2,15 @@
 title: "Openscapes Champions Cohorts"
 ---
 
-*This is the page in preparation for the 2024 cohort; check back as we prepare for fall 2025!*
-
-The NMFS Openscapes Mentor Community led 3 Champions Cohorts in Fall 2024! Read on to learn what this is and [cohort pages](/cohorts) to learn stories of what the teams have accomplished. <!---and how to sign up.--->
-
-We will lead 3 more Champions Cohorts in Fall 2025.
+The NOAA Fisheries Openscapes Mentor Community will lead 3 Champions Cohorts in Fall 2025! Read on to learn what this is and [cohort pages](/cohorts) to learn stories of what the teams have accomplished. <!---and how to sign up.--->Sign ups will open late July 2025.
 
 <!-- Signups for Fall 2024 Cohorts are now closed. We will lead 3 more Champions Cohorts in Fall 2025.  [SIGN UP FOR FALL](/champions.qmd#sign-up-for-fall-2024) by Sept 23, 2024 at 10am PT. [Info session slides](https://docs.google.com/presentation/d/1vf01dZDdp60-GeshJ6GNCvX0iRtYmpgEBM4wW98Ufrk/edit#slide=id.g2f66fdc8be7_1_146) ⬢ [Sample email to share announcement](https://docs.google.com/document/d/1XlFsIJkjnk88QyOblYgt19qXHYtH_was3HZgJg2yrFM/edit?usp=sharing). --->
 
 ## What is the Champions Program?
 
-40 staff from across NMFS come together bi-weekly to work on goals related to data science workflows. Do you want an opportunity to make progress on a project you are already working on? Do you or your team have a ‘big goal’ that involves changing how you work and you want to make progress on making your data and science workflows more efficient and reproducible (however you define that)? Do you want to migrate to new data and science workflows, like cloud-based workflows, but don’t know how to get started? Do you want to connect with others across NMFS who are interested in Open Science, Open Data and Open Source? The Fall Openscapes Champions Cohorts are for you (and your team)! Make progress on those goals that seem so intangible and hard to get traction on by working in facilitated sessions with your peers and the Openscapes team. [Scroll the blogs](blog.qmd#category=champions) on what NMFS teams and individuals have accomplished in the 10 NMFS Champions Cohorts over the past 3 years.
+40 staff from across NMFS come together bi-weekly to work on goals related to data science workflows. Do you want an opportunity to make progress on a project you are already working on? Do you or your team have a ‘big goal’ that involves changing how you work and you want to make progress on making your data and science workflows more efficient and reproducible (however you define that)? Do you want to migrate to new data and science workflows, like cloud-based workflows, but don’t know how to get started? Do you want to connect with others across NMFS who are interested in Open Science, Open Data and Open Source? The Fall Openscapes Champions Cohorts are for you (and your team)! Make progress on those goals that seem so intangible and hard to get traction on by working in facilitated sessions with your peers and the Openscapes team. [Scroll the blogs](blog.qmd#category=champions) on what NMFS teams and individuals have accomplished in the 13 NMFS Champions Cohorts over the past 4 years.
 
-Openscapes Champions is a remote-by-design, cohort-based mentorship program that helps teams re-imagine data analysis and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive communities. It is focused on open science and data modernization via biweekly curriculum that Openscapes has improved over 24 Cohorts 2019-2024. The goal is strengthening a teaching and learning culture within teams and organizations. This program is not only for scientists: admin, IT staff, and beyond are welcomed. Individuals and teams do not have to have familiarity or expertise in open science, data science, or coding, to benefit from the Openscapes Champions Program.
+Openscapes Champions is a remote-by-design, cohort-based mentorship program that helps teams re-imagine data analysis and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive communities. It is focused on open science and data modernization via biweekly curriculum that Openscapes has improved over 25 Cohorts 2019-2025. The goal is strengthening a teaching and learning culture within teams and organizations. This program is not only for scientists: admin, IT staff, and beyond are welcomed. Individuals and teams do not have to have familiarity or expertise in open science, data science, or coding, to benefit from the Openscapes Champions Program.
 
 <!--- Through Openscapes cohorts, you focus on your own work with your peers or a team. As the program introduces modern concepts, tooling, and examples from your peers for collaborative open data science, groups focus on where you are and where you want to go together. **Openscapes Champions is "not your traditional training/workshop" because teams:**
 
@@ -25,12 +21,12 @@ Openscapes Champions is a remote-by-design, cohort-based mentorship program that
 
 ## Champions Program Details
 
-**Fall NMFS Openscapes Champions Cohorts ran from October-December 2024!** We met as a cohort five times over two months, on alternating weeks, with additional optional coworking times.
+**Fall NMFS Openscapes Champions Cohorts run from October-December 2025!** We will meet as a cohort five times over two months, on alternating weeks, with additional optional coworking times.
 
 -   **Date-Times**:
-    -   **Cohort-A: Oct 8, 22, Nov 5, 19, Dec 3**. Alternating Tuesdays from 11:00am - 12:30pm PT.
-    -   **Cohort-B: Oct 9, 23, Nov 6, 20, Dec 4**. Alternating Wednesdays from 10:00 - 11:30am PT.
-    -   **Cohort-C: Oct 9, 23, Nov 6, 20, Dec 4**. Alternating Wednesdays from 1:00 - 2:30pm PT.
+    -   **Cohort-A: Oct 7, 21, Nov 4, 18, Dec 2**. Alternating Tuesdays from 1:00pm - 2:30pm PT.
+    -   **Cohort-B: Oct 8, 22, Nov 5, 19, Dec 3**. Alternating Wednesdays from 10:00 - 11:30am PT.
+    -   **Cohort-C: Oct 8, 22, Nov 5, 19, Dec 3**. Alternating Wednesdays from 1:00 - 2:30pm PT.
 -   **Where:** remotely, via Zoom
 -   **What we learn:** [Champions program core lessons](https://openscapes.github.io/series), with NOAA Fisheries examples
 -   **Cost:** Free; this opportunity is supported by NOAA funding to Openscapes
