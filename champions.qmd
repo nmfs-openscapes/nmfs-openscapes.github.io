@@ -198,7 +198,7 @@ We prioritized participation by:
 -   Office that has never participated or participated little: OPR, OST, NEFSC, AKRO, GARFO
 -   New hires
 -   Teams with NOAA staff
--   Caps on count totals across Centers: High: no more than 18 participants per division; Low: if \< 5 signed up for one Center, accept all.
+-   Caps on count totals across Centers: High: no more than 18 participants per division; Low: if < 5 signed up for one Center, accept all.
 
 Criteria that did NOT affect selection:
 
