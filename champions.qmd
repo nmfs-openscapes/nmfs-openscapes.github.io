@@ -65,7 +65,7 @@ To join an info session below, find Google Meet links in this [Google Sheet](htt
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | **Date** | **Time** | **Center/Office** | **Event info name / length** | **Mentor/Point person** | **Speaker** |  |
 | 2025-09-02 | 12:00 pm PT | All NMFS | Openscapes Champions info Q&A / 50 min | Julie Lowndes | Julie Lowndes + TBD |
-| 2025-09-11 | 12:00 pm PT | All NMFS | Openscapes Champions info Q&A / 50 min | Eli Holmes | Eli Holmes, Julie Lowndes |
+| 2025-09-03 | 12:00 pm PT | All NMFS | Openscapes Champions info Q&A / 50 min | Julie Lowndes | Julie Lowndes + TBD |
 
 ```{=html}
 <!--- ## Attend an "Ask Us Anything" info session
