@@ -47,7 +47,7 @@ This image gives a visual sense of time span, cadence, and time commitments for 
 
 ## Sign up for Fall 2025
 
-Sign up with a colleague or team by Sept 8, 2025 by 10am PT via [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1fpMJpReMuAW3W_U7rGSBkM1BgzWdVySLqLec-xoZYUc/). Please indicate the Cohort date-times you are available; we will confirm participation via email by Sept 15.
+Sign up by Sept 8, 2025 by 10am PT via [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1fpMJpReMuAW3W_U7rGSBkM1BgzWdVySLqLec-xoZYUc/). Please indicate the Cohort date-times you are available; we will confirm participation via email by Sept 15. You can sign up individually or with a colleague or team (have everyone enter their name on a separate line).
 
 ## Attend an "Ask Us Anything" info session
 
@@ -62,8 +62,8 @@ Here are [slides](https://docs.google.com/presentation/d/1P9pDjtSxVy74HSMwGPvNA9
 To join an info session below, find Google Meet links in this [Google Sheet](https://docs.google.com/spreadsheets/d/1fpMJpReMuAW3W_U7rGSBkM1BgzWdVySLqLec-xoZYUc/edit?gid=1423956583#gid=1423956583) or in the NMFS Open Science Google Calendar.
 
 |  |  |  |  |  |  |
-|-----------|-----------|-----------|-----------|-----------|-----------|
-| **Date** | **Time** | **Center/Office** | **Event info name / length** | **Mentor/Point person** | **Speaker** |  |
+|------------|------------|------------|------------|------------|------------|
+| **Date** | **Time** | **Center/Office** | **Event info name / length** | **Mentor/Point person** | **Speaker** |
 | 2025-09-02 | 12:00 pm PT | All NMFS | Openscapes Champions info Q&A / 50 min | Julie Lowndes | Julie Lowndes + TBD |
 | 2025-09-03 | 12:00 pm PT | All NMFS | Openscapes Champions info Q&A / 50 min | Julie Lowndes | Julie Lowndes + TBD |
 
@@ -115,7 +115,7 @@ Teams do not need to be a formal research group; they can be collaborating in ot
 
 **A:** Yes. If Cohorts are oversubscribed, this would be discussed by a small selection committee.
 
-See [Frequently Asked Questions](https://openscapes.org/faq) for more guidance on teams.
+See [Frequently Asked Questions](https://openscapes.github.io/series/what-to-expect.html#teams-faqs) for more guidance on teams.
 
 ## Stories from past participants
 
@@ -176,6 +176,7 @@ The growing [NMFS Openscapes Mentor community](/mentors/) — staff from across 
 -   Participants (learn with your team as a Champion, focus on your work in Seaside Chats and Coworking)
 -   Teachers (teaching specific Champions lessons, pre-arranged)
 
+<!--#
 ## Selection and how to participate
 
 **We selected participants for the 3 Cohorts with transparent decision criteria co-designed with the NMFS Mentors** (see below), knowing that with 194 total signups for 120 seats (which is fantastic!), there is no one perfect way to select. Openscapes is about workflows shifts and movement building, and the Champions Program is designed with intentional structure to balance specific roles/boundaries while also being lightweight/reduced process so you all can focus on your science.
@@ -186,7 +187,7 @@ Openscapes will remain strict to the 40 participants per Cohort for the 5 synchr
 
 ### Decision criteria for 2024 Program
 
-*We will reuse and build on this criteria for the 2025 program.* 
+*We will reuse and build on this criteria for the 2025 program.*
 
 We selected the Cohorts with transparent decision criteria that were developed with the Mentors, Eli Holmes, and the Openscapes team.
 
@@ -198,7 +199,7 @@ We prioritized participation by:
 -   Office that has never participated or participated little: OPR, OST, NEFSC, AKRO, GARFO
 -   New hires
 -   Teams with NOAA staff
--   Caps on count totals across Centers: High: no more than 18 participants per division; Low: if < 5 signed up for one Center, accept all.
+-   Caps on count totals across Centers: High: no more than 18 participants per division; Low: if \< 5 signed up for one Center, accept all.
 
 Criteria that did NOT affect selection:
 
@@ -208,3 +209,5 @@ Criteria that did NOT affect selection:
 Waitlist decisions:
 
 -   If people declined, we selected people from the waitlist, prioritizing same cohort, same division, not participated before, same team, availability for Cohort date-time.
+
+-->
