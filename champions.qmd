@@ -4,13 +4,17 @@ title: "Openscapes Champions Cohorts"
 
 The NOAA Fisheries Openscapes Mentor Community will lead 3 Champions Cohorts in Fall 2025! Read on to learn what this is and see the NOAA Fisheries Science Blog, [Open Science Momentum at NOAA Fisheries](https://www.fisheries.noaa.gov/science-blog/open-science-momentum-noaa-fisheries) and past [cohort pages](/cohorts) to learn stories of what past participants have accomplished.
 
+[**Fall 2025 theme: cloud migration and data preservation**](https://docs.google.com/presentation/d/1Q6zerBOYfSr-Sw0YTz2JV8OOskjw_0oGOIM2WSMmS84/edit?slide=id.g3720335bad7_1_989#slide=id.g3720335bad7_1_989)**.** We encourage teams interested in this theme to sign up, although you do not need to be interested in this theme to apply. Please sign up if you are interested in participating, whether or not the theme resonates with you now.
+
 <!-- Signups for Fall 2024 Cohorts are now closed. We will lead 3 more Champions Cohorts in Fall 2025. --->
 
 [Sign up for Fall 2025] by Sept 8, 2025 at 10am PT.
 
-[Info session slides](https://docs.google.com/presentation/d/1DNjqgso1pWZlS3kryKNyi6pfP_U1BEga24dNuM6fdAM/edit?slide=id.g3720335bad7_1_955#slide=id.g3720335bad7_1_955) ⬢ [Sample email to share announcement](https://docs.google.com/document/d/1pYiPebka2DXzWOvD1Mqje_GyJs2ykpPRDPO2o_XVUUQ/).
+[Info session slides](https://docs.google.com/presentation/d/1Q6zerBOYfSr-Sw0YTz2JV8OOskjw_0oGOIM2WSMmS84/edit?slide=id.g3723cbac770_0_0#slide=id.g3723cbac770_0_0) ⬢ [Sample email to share announcement](https://docs.google.com/document/d/1pYiPebka2DXzWOvD1Mqje_GyJs2ykpPRDPO2o_XVUUQ/).
 
 ## What is the Champions Program?
+
+**This is a workflow transformation & leadership opportunity.**
 
 40 staff from across NOAA Fisheries come together bi-weekly to work on goals related to data science workflows. Do you want an opportunity to make progress on a project you are already working on? Do you or your team have a ‘big goal’ that involves changing how you work and you want to make progress on making your data and science workflows more efficient and reproducible (however you define that)? Do you want to migrate to new data and science workflows, like cloud-based workflows, but don’t know how to get started? Do you want to connect with others across NOAA Fisheries who are interested in Open Science, Open Data and Open Source? The Fall Openscapes Champions Cohorts are for you (and your team)! Make progress on those goals that seem so intangible and hard to get traction on by working in facilitated sessions with your peers and the Openscapes team. [Scroll the blogs](blog.qmd#category=champions) on what NOAA Fisheries teams and individuals have accomplished in the 13 NOAA Fisheries Champions Cohorts over the past 4 years.
 
@@ -41,9 +45,9 @@ Openscapes Champions is a remote-by-design, cohort-based mentorship program that
 
 ### Champions Cohort Timeline
 
-This image gives a visual sense of time span, cadence, and time commitments for an Openscapes Cohort
+This image gives a visual sense of time span, cadence, and time commitments for an Openscapes Cohort.
 
-![](images/openscapes_cohort-timeline.png)
+![](images/openscapes_cohort-timeline.png){fig-align="center" width="70%"}
 
 ## Sign up for Fall 2025
 
@@ -55,7 +59,7 @@ NOAA Fisheries Openscapes will host "Ask Us Anything" info sessions on Sept 2 & 
 
 **Consider giving a talk at your Center/Regional Office** (talk/brown-bag, 5 mins at All Hands…). Please add sessions to [Sign up sheet, 'Talks, AMA Schedule'](https://docs.google.com/spreadsheets/d/10zTz6i-ZuwnQhCTG63jRku0BtVwgc9e1tqnfGuiyM2c/edit?gid=1423956583#gid=1423956583) tab and to the NMFS Open Science Google Calendar so others can find them.
 
-Here are [slides](https://docs.google.com/presentation/d/1DNjqgso1pWZlS3kryKNyi6pfP_U1BEga24dNuM6fdAM/edit?slide=id.g3720335bad7_1_955#slide=id.g3720335bad7_1_955) introducing the Fall 2025 Champions Program with background information we can all use to present.
+Here are [slides](https://docs.google.com/presentation/d/1Q6zerBOYfSr-Sw0YTz2JV8OOskjw_0oGOIM2WSMmS84/edit?slide=id.g3723cbac770_0_0#slide=id.g3723cbac770_0_0) introducing the Fall 2025 Champions Program with background information we can all use to present.
 
 **Table.** Center / Office info sessions.
 
@@ -64,6 +68,7 @@ To join an info session below, find Google Meet links in this [Google Sheet](htt
 |  |  |  |  |  |  |
 |------------|------------|------------|------------|------------|------------|
 | **Date** | **Time** | **Center/Office** | **Event info name / length** | **Mentor/Point person** | **Speaker** |
+| 2025-08-07 | 10:00 am ET | SEFSC | All Hands / <10 min | Carissa Gervasi | Carissa Gervasi |
 | 2025-09-02 | 12:00 pm PT | All NMFS | Openscapes Champions info Q&A / 50 min | Julie Lowndes | Julie Lowndes + TBD |
 | 2025-09-03 | 12:00 pm PT | All NMFS | Openscapes Champions info Q&A / 50 min | Julie Lowndes | Julie Lowndes + TBD |
 
@@ -176,12 +181,13 @@ The growing [NMFS Openscapes Mentor community](/mentors/) — staff from across 
 -   Participants (learn with your team as a Champion, focus on your work in Seaside Chats and Coworking)
 -   Teachers (teaching specific Champions lessons, pre-arranged)
 
-<!--#
 ## Selection and how to participate
 
-**We selected participants for the 3 Cohorts with transparent decision criteria co-designed with the NMFS Mentors** (see below), knowing that with 194 total signups for 120 seats (which is fantastic!), there is no one perfect way to select. Openscapes is about workflows shifts and movement building, and the Champions Program is designed with intentional structure to balance specific roles/boundaries while also being lightweight/reduced process so you all can focus on your science.
+*This is the 2024 selection process; we will iterate in 2025*
 
-Openscapes will remain strict to the 40 participants per Cohort for the 5 synchronous Cohort Calls with no “drop ins” – this is by design for active engagement (Champions Calls are not webinars where you sit back) and to build psychological safety within the group (being safe to be vulnerable is part of learning). We balance openness with trust building; we share all lessons and slide decks via the [Champions Lesson Series](https://openscapes.github.io/series), but we do not share the call agendas with live notes outside of the Cohort.
+**In 2024, we selected participants for the 3 Cohorts with transparent decision criteria co-designed with the NMFS Mentors** (see below), knowing that with 194 total signups for 120 seats (which is fantastic!), there is no one perfect way to select. Openscapes is about workflows shifts and movement building, and the Champions Program is designed with intentional structure to balance specific roles/boundaries while also being lightweight/reduced process so you all can focus on your science.
+
+Openscapes will remain strict to the 40 participants per Cohort for the 5 synchronous Cohort Calls with no "drop ins" or "shadowing"– this is by design for active engagement (Champions Calls are not webinars where you sit back) and to build psychological safety within the group (being safe to be vulnerable is part of learning). We balance openness with trust building; we share all lessons and slide decks via the [Champions Lesson Series](https://openscapes.github.io/series), but we do not share the call agendas with live notes outside of the Cohort.
 
 **Seaside Chats are the way for people outside the Cohort to participate.** Part of the Champions program design is that participants have “Seaside Chats” in the off-weeks during the 2 months, where they focus on applying what they learned into their own work and include other colleagues or team members. In many cases, not all team members who signed up will be selected to participate in the 5 Cohort Calls. These will be organized and led by the Champions using guidance from Openscapes, and there is no “prework” to attend.
 
@@ -209,5 +215,3 @@ Criteria that did NOT affect selection:
 Waitlist decisions:
 
 -   If people declined, we selected people from the waitlist, prioritizing same cohort, same division, not participated before, same team, availability for Cohort date-time.
-
--->
