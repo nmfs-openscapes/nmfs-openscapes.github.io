@@ -6,11 +6,13 @@ The NOAA Fisheries Openscapes Mentor Community will lead 3 Champions Cohorts in 
 
 [**Fall 2025 theme: cloud migration and data preservation**](https://docs.google.com/presentation/d/1Q6zerBOYfSr-Sw0YTz2JV8OOskjw_0oGOIM2WSMmS84/edit?slide=id.g3720335bad7_1_989#slide=id.g3720335bad7_1_989)**.** We encourage teams interested in this theme to sign up, although you do not need to be interested in this theme to apply. Please sign up if you are interested in participating, whether or not the theme resonates with you now.
 
+[Info session slides](https://docs.google.com/presentation/d/1Q6zerBOYfSr-Sw0YTz2JV8OOskjw_0oGOIM2WSMmS84/edit?slide=id.g3723cbac770_0_0#slide=id.g3723cbac770_0_0) ⬢ [Sample email to share announcement](https://docs.google.com/document/d/1pYiPebka2DXzWOvD1Mqje_GyJs2ykpPRDPO2o_XVUUQ/).
+
 <!-- Signups for Fall 2024 Cohorts are now closed. We will lead 3 more Champions Cohorts in Fall 2025. --->
 
-[Sign up for Fall 2025] by Sept 8, 2025, COB (close of business) in your time zone. (updated).
+## **Sign up for Fall 2025**
 
-[Info session slides](https://docs.google.com/presentation/d/1Q6zerBOYfSr-Sw0YTz2JV8OOskjw_0oGOIM2WSMmS84/edit?slide=id.g3723cbac770_0_0#slide=id.g3723cbac770_0_0) ⬢ [Sample email to share announcement](https://docs.google.com/document/d/1pYiPebka2DXzWOvD1Mqje_GyJs2ykpPRDPO2o_XVUUQ/).
+Sign up by Sept 8, 2025, COB (close of business) in your time zone via [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1fpMJpReMuAW3W_U7rGSBkM1BgzWdVySLqLec-xoZYUc/). Please indicate the Cohort date-times you are available; we will confirm participation via email by Sept 15. You can sign up individually or with a colleague or team (have everyone enter their name on a separate line).
 
 ## What is the Champions Program?
 
@@ -43,32 +45,24 @@ Openscapes Champions is a remote-by-design, cohort-based mentorship program that
 -   **Expected time commitment:** 8hrs/month for 2 months is a minimum expected time commitment. This accounts for 3 hours/month of synchronous Cohort Calls, optional Coworking hours, and team Seaside Chats where you plan with your research group to strengthen shared workflows.
 -   **Who:** NOAA Fisheries staff, affiliates, contractors, and others who are interested in improving their data science workflows. We aim to remove barriers to outside collaboration. It is important that those who participate can do so in all or most sessions, and are energized to be interacting with like-minded individuals across NOAA Fisheries. Sign up to participate individually, with a colleague or your team.
 
-### Champions Cohort Timeline
+### Cohort Timeline
 
 This image gives a visual sense of time span, cadence, and time commitments for an Openscapes Cohort.
 
 ![](images/openscapes_cohort-timeline.png){fig-align="center" width="70%"}
 
-## Sign up for Fall 2025
+## "Ask Us Anything" info sessions
 
-Sign up by Sept 8, 2025, COB (close of business) in your time zone via [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1fpMJpReMuAW3W_U7rGSBkM1BgzWdVySLqLec-xoZYUc/). Please indicate the Cohort date-times you are available; we will confirm participation via email by Sept 15. You can sign up individually or with a colleague or team (have everyone enter their name on a separate line).
+**Are you curious about participating in the Champions Program** and want to learn more? We will host "Ask Us Anything" info sessions on Sept 2 & 3 (details in table below). Anyone is welcome to attend.
 
-## Attend an "Ask Us Anything" info session
+**Are you a NMFS Openscapes Mentor or past Champion?** Consider giving a talk at your Center/Regional Office (talk/brown-bag, 5 mins at All Hands…). Please add sessions to [Sign up sheet, 'Talks, AMA Schedule'](https://docs.google.com/spreadsheets/d/1fpMJpReMuAW3W_U7rGSBkM1BgzWdVySLqLec-xoZYUc/edit?gid=1241468325#gid=1241468325) tab and to the NMFS Open Science Google Calendar so others can find them. Here are [slides](https://docs.google.com/presentation/d/1Q6zerBOYfSr-Sw0YTz2JV8OOskjw_0oGOIM2WSMmS84/) introducing the Fall 2025 Champions Program with background information we can all use to present.
 
-NOAA Fisheries Openscapes will host "Ask Us Anything" info sessions on Sept 2 & 3 (details in table below).
-
-**Consider giving a talk at your Center/Regional Office** (talk/brown-bag, 5 mins at All Hands…). Please add sessions to [Sign up sheet, 'Talks, AMA Schedule'](https://docs.google.com/spreadsheets/d/1fpMJpReMuAW3W_U7rGSBkM1BgzWdVySLqLec-xoZYUc/edit?gid=1241468325#gid=1241468325) tab and to the NMFS Open Science Google Calendar so others can find them.
-
-Here are [slides](https://docs.google.com/presentation/d/1Q6zerBOYfSr-Sw0YTz2JV8OOskjw_0oGOIM2WSMmS84/edit?slide=id.g3723cbac770_0_0#slide=id.g3723cbac770_0_0) introducing the Fall 2025 Champions Program with background information we can all use to present.
-
-**Table.** Center / Office info sessions.
-
-To join an info session below, find Google Meet links in this [Google Sheet](https://docs.google.com/spreadsheets/d/1fpMJpReMuAW3W_U7rGSBkM1BgzWdVySLqLec-xoZYUc/edit?gid=1423956583#gid=1423956583) or in the NMFS Open Science Google Calendar.
+**Table.** Center / Office info sessions. To join an info session below, find Google Meet links in this [Google Sheet](https://docs.google.com/spreadsheets/d/1fpMJpReMuAW3W_U7rGSBkM1BgzWdVySLqLec-xoZYUc/edit?gid=1423956583#gid=1423956583) or in the NMFS Open Science Google Calendar.
 
 |  |  |  |  |  |  |
 |------------|------------|------------|------------|------------|------------|
 | **Date** | **Time** | **Center/Office** | **Event info name / length** | **Mentor/Point person** | **Speaker** |
-| 2025-08-07 | 10:00 am ET | SEFSC | All Hands / <10 min | Carissa Gervasi | Carissa Gervasi |
+| 2025-08-07 | 10:00 am ET | SEFSC | All Hands / \<10 min | Carissa Gervasi | Carissa Gervasi |
 | 2025-09-02 | 12:00 pm PT | All NMFS | Openscapes Champions info Q&A / 50 min | Julie Lowndes | Julie Lowndes + TBD |
 | 2025-09-03 | 12:00 pm PT | All NMFS | Openscapes Champions info Q&A / 50 min | Julie Lowndes | Julie Lowndes + TBD |
 
@@ -171,7 +165,7 @@ Lightning talks for the Year of Open Science Culminating Conference, March 21, 2
 
 The growing [NMFS Openscapes Mentor community](/mentors/) — staff from across NOAA Fisheries interested in supporting others with teamwork and open science — will be increasingly involved with Champions Cohorts, and point-people for questions about what is involved and how to sign up. Mentors play different roles during different phases of Champions Cohorts.
 
-**Pre-cohort engagement:** Mentors are empowered to encourage their colleagues to sign up for Openscapes Champions Cohorts. The Openscapes team will support you in preparing to present to an all-hands or brown bag session, or you can invite us to present.
+**Pre-cohort engagement:** Mentors are empowered to encourage their colleagues to sign up for Openscapes Champions Cohorts. The Openscapes team will support you in **giving a talk at your Center/Regional Office** (talk/brown-bag, 5 mins at All-Hands). When you have something scheduled, please add sessions to [Sign up sheet, 'Talks, AMA Schedule'](https://docs.google.com/spreadsheets/d/1fpMJpReMuAW3W_U7rGSBkM1BgzWdVySLqLec-xoZYUc/edit?gid=1241468325#gid=1241468325) tab and to the NMFS Open Science Google Calendar so others can find them. Here are [slides](https://docs.google.com/presentation/d/1Q6zerBOYfSr-Sw0YTz2JV8OOskjw_0oGOIM2WSMmS84/) introducing the Fall 2025 Champions Program with background information we can all use to present.
 
 **During cohort:** Mentors participate in the Champions Program (in fact, Champions cohorts are scheduled as "takeovers" of regular Mentors calls to be mindful of Mentors' time commitments). Here are several roles where Mentors can contribute:
 
