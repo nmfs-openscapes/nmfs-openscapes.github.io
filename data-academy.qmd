@@ -38,7 +38,7 @@ If you’re interested in participating, please add yourself to the [interest sh
 Selected applicants will be notified April 1. The *40 available spots will be distributed across centers and offices. Participants will be selected by the Openscapes team with input from NMFS Open Science staff and NMFS Openscapes Mentors. If people decline their offer to participate, we will select people from the waitlist, prioritizing people from the same division.
 
 ::: {.callout-note}
-*Due to high demand, we ran 2 cohorts simultaneously in Spring 2025, for a total of ~80 participants. The [second cohort](#fall-2025-cohort) in the Fall will be for those with some R experience, and will be more self-directed
+*Due to high demand, we ran the equivalent of two cohorts simultaneously in Spring 2025, for a total of ~80 participants. The [second cohort](#fall-2025-cohort) in the Fall will be for those with some R experience, and will be more self-directed.
 :::
 
 ### Curriculum
