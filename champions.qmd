@@ -98,25 +98,31 @@ Please add sessions to [Sign up sheet, 'Talks, AMA Schedule'](https://docs.googl
  --->
 ```
 
-## What is a team?
+## FAQ - Frequently Asked Questions
+
+### What does the "cloud" theme mean for the cohorts? Will the lessons change in any way?
+
+We will be teaching the Champions core lessons and some will be tailored to help people think through what this year’s theme - reimagine data and workflows in the cloud - might mean for their own work. Participants will use the Pathways sheet to take stock of their workflows, and as always we expect and will teach to a wide range of skills and levels of experience with what “cloud” means.
+
+### What is a team?
 
 > How you define 'team' is completely up to you and having one person be in the cohort and using in-between session 'seaside chats' to bring back the information to another group is 100% fine. That is common in the cohorts. In my first Openscapes cohort, I was the only person from my project. My personal goal was to use the Openscapes structure to help a team that I am on figure out how to tackle some off-boarding tasks due to a retirement. During my second cohort, there were 2 team members in the cohort and 2 not in the cohort. We focused on standardizing our data to get ready for our GitHub served data package. For the 3rd cohort I am doing, 2⁄3 of our team is in the cohort as we start to get organized for a major revamp of our report into a reproducible workflow. - **Eli Holmes (NMFS Open Science, NWFSC, NMFS Openscapes)**
 
 Teams do not need to be a formal research group; they can be collaborating in other ways. Team members do not all need to have technical or data interests, but share a curiosity and interest in improving something about how they work.
 
-**Q: What if I don’t have a team?**
+### What if I don’t have a team?
 
-**A:** That’s ok, please sign up! We’ll help you connect with participants who share some of your goals or needs.
+That’s ok, please sign up! We’ll help you connect with participants who share some of your goals or needs.
 
-**Q: If a team is participating together, how important is it for them all to be in the same cohort?**
+### **If a team is participating together, how important is it for them all to be in the same cohort?**
 
-**A:** Not too important. Sometimes people feel more 'connected' if they see people they know in the virtual room. The activities during the cohort calls are not by 'team'; they are in random breakout groups. Participants are expected to have ‘Seaside Chats’ together with their teams in the weeks between Cohort Calls. It’s more important that participants are committed to attending all sessions in the time slot they have chosen.
+Not too important. Sometimes people feel more 'connected' if they see people they know in the virtual room. The activities during the cohort calls are not by 'team'; they are in random breakout groups. Participants are expected to have ‘Seaside Chats’ together with their teams in the weeks between Cohort Calls. It’s more important that participants are committed to attending all sessions in the time slot they have chosen.
 
-**Q: Can I sign up if I have participated in a previous Openscapes Champions Cohort?**
+### **Can I sign up if I have participated in a previous Openscapes Champions Cohort?**
 
-**A:** Yes. If Cohorts are oversubscribed, this would be discussed by a small selection committee.
+Yes. If Cohorts are oversubscribed, this would be discussed by a small selection committee.
 
-See [Frequently Asked Questions](https://openscapes.github.io/series/what-to-expect.html#teams-faqs) for more guidance on teams.
+See [Frequently Asked Questions](https://openscapes.github.io/series/what-to-expect.html#teams-faqs) on the main Openscapes site for more guidance.
 
 ## Stories from past participants
 
