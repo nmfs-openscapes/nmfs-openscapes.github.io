@@ -26,7 +26,9 @@ Communication and amplifying is a big part of our work. One take-home from ‘ho
 
 ## Presentations for Leadership
 
-[Crossing the chasm: helping organizations innovate through workforce modernization](https://docs.google.com/presentation/d/1MyyMTAK9lubfucOCsHx6qBaFpwLBDUGGkKnLrUvUyBk/edit?slide=id.g34b3b339705_0_2152#slide=id.g34b3b339705_0_2152). NOAA Fisheries Data Governance Council. Holmes, Lowndes, July 9, 2025.
+[Crossing the chasm: helping organizations innovate through workforce modernization](https://docs.google.com/presentation/d/1mgp5xGqPP35KUG-MYMG0ibZzkkxdttAKodUmeanjunI/edit?slide=id.g34b3b339705_0_2152#slide=id.g34b3b339705_0_2152). Fisheries Data Governance Committee. Holmes, Lowndes, August 20, 2025.
+
+[Crossing the chasm: helping organizations innovate through workforce modernization](https://docs.google.com/presentation/d/1MyyMTAK9lubfucOCsHx6qBaFpwLBDUGGkKnLrUvUyBk/edit?slide=id.g34b3b339705_0_2152#slide=id.g34b3b339705_0_2152). NOAA Data Governance Council. Holmes, Lowndes, July 9, 2025.
 
 [Better science in less time, yes it is possible!](https://docs.google.com/presentation/d/1dLK929pz4ojRXwX6o4gsrAsF7-UBhiYF3vdWUvuRIn8/edit?slide=id.g36d17364b43_0_455#slide=id.g36d17364b43_0_455). NOAA Fisheries Integrated Marine Ecology & Nearshore Ecology. Holmes, Lowndes, July 7, 2025.
 
