@@ -975,7 +975,7 @@
     "href": "data-academy.html",
     "title": "NMFS Openscapes Data Academy",
     "section": "",
-    "text": "NMFS Openscapes is running a Data Academy Cohort in spring 2025! Read on to learn what this is and how to apply. The Data Academy is being led by Openscapes as part of the Fisheries Data Modernization Strategy. We will run this R for beginners program 3 times, annually in spring 2025 - 2027.\nDue to the high level of interest, we plan to hold 3 additional cohorts in the next 12 months for other R learners. The Data Academy cohorts 2025 doc outlines the plan for each cohort.\nApplications are now closed.",
+    "text": "The Data Academy is being led by Openscapes as part of the Fisheries Data Modernization Strategy. The goal of the Data Academy is to provide NOAA Fisheries staff with foundational data science skills in R, and to build a community of practice around data science and open & reproducible science.\nThe Spring 2025 cohort is complete, and the Fall 2025 cohort is currently underway. Due to the high level of interest, we plan to hold 2 additional cohorts in the next 12 months for other R learners. The Data Academy cohorts 2025 doc outlines the plan for each cohort.\nApplications are currently closed.",
     "crumbs": [
       "Data Academy"
     ]
@@ -985,7 +985,27 @@
     "href": "data-academy.html#what-is-the-data-academy",
     "title": "NMFS Openscapes Data Academy",
     "section": "What is the Data Academy?",
-    "text": "What is the Data Academy?\nWhat: You will learn R for data science through lessons on the dataquest.io platform. See the curriculum below. The Data Academy is asynchronous so you can complete the lessons on your own schedule, and also cohort-based so you’ll get to know your colleagues and have accountability. The Openscapes team will provide support through optional synchronous help desk hours and coworking and a dedicated Google Space for help. A training certificate will be issued for each module completed.\nExpected time commitment: Weekly for 3 months: 2-hour chunks of learning time, plus optional 1 hour of support from a “help desk” and coworking.\nWhen: April 14 - August 14, 2025.\n\nMondays: Week’s lesson reminder received via email. Complete lesson on your own schedule.\nWednesdays: Help desk and coworking with the Openscapes team alongside other participants (Optional, via Zoom).\n\nWho: FTEs and Affiliates from any Fisheries office are welcome to sign up. The 40 available spots will be distributed across centers and offices.\nCost: Free. There is no cost to staff or your center/office. This opportunity is supported by NOAA funding to Openscapes.",
+    "text": "What is the Data Academy?\nWhat: You will learn R for data science through lessons on the dataquest.io platform. See the curriculum below. The Data Academy is asynchronous so you can complete the lessons on your own schedule, and also cohort-based so you’ll get to know your colleagues and have accountability. The Openscapes team will provide support through optional synchronous help desk hours and coworking and a dedicated Google Space for help. A training certificate will be issued for each module completed.\nWho: FTEs and Affiliates from any Fisheries office were welcomed to sign up.\nCost: Free. There is no cost to staff or your center/office. This opportunity is supported by NOAA funding to Openscapes.",
+    "crumbs": [
+      "Data Academy"
+    ]
+  },
+  {
+    "objectID": "data-academy.html#fall-2025-cohort",
+    "href": "data-academy.html#fall-2025-cohort",
+    "title": "NMFS Openscapes Data Academy",
+    "section": "Fall 2025 Cohort",
+    "text": "Fall 2025 Cohort\nThe Fall Cohort is designed for those with some R experience, and is intented to be more self-directed. Participants can choose their own learning paths based on their interests and needs, and/or choose to follow the same curriculum as those in the Spring cohort. You can see the suggested curriculum schedule for the Fall cohort in the curriculum spreadsheet.\nWhen: Aug 18 - Dec 19, 2025.\n\nComplete lessons on your own schedule.\nWednesdays: Help desk with the Openscapes team alongside other participants (Optional, via Zoom).\nAsynchronous chat and Q&A in the dedicated Google Space.\n\n\nSign up and Selection\nParticpants for the Fall cohort were selected from the waitlist of the Spring cohort.",
+    "crumbs": [
+      "Data Academy"
+    ]
+  },
+  {
+    "objectID": "data-academy.html#spring-2025-cohort",
+    "href": "data-academy.html#spring-2025-cohort",
+    "title": "NMFS Openscapes Data Academy",
+    "section": "Spring 2025 Cohort",
+    "text": "Spring 2025 Cohort\nThe Spring Cohort was designed for absolute beginners to R, and covers the basics of R programming and data visualization. This was a great opportunity for those who were new to R or had limited experience with it. Paricipants followed the curriculum outlined below.\nExpected time commitment: Weekly for 3 months: 2-hour chunks of learning time, plus optional 1 hour of support from a “help desk” and coworking.\nWhen: April 14 - August 14, 2025.\n\nMondays: Week’s lesson reminder received via email. Complete lesson on your own schedule.\nWednesdays: Help desk and coworking with the Openscapes team alongside other participants (Optional, via Zoom).\nAsynchronous chat and Q&A in the dedicated Google Space.\n\n\nSign up\n\nAs this cohort is complete, applications are closed.\n\n\nSelection\nThe 40 80* available spots were distributed across centers and offices. Participants were selected by the Openscapes team with input from NMFS Open Science staff and NMFS Openscapes Mentors.\n\n\n\n\n\n\nNote\n\n\n\n*Due to high demand, we ran the equivalent of two cohorts simultaneously in Spring 2025, for a total of ~80 participants. The second cohort in the Fall is for those with some R experience, and will be more self-directed.",
     "crumbs": [
       "Data Academy"
     ]
@@ -995,7 +1015,7 @@
     "href": "data-academy.html#curriculum",
     "title": "NMFS Openscapes Data Academy",
     "section": "Curriculum",
-    "text": "Curriculum\nDataquest offers many different “Learning Paths”, including Career Paths and Skill Paths. These Paths are composed of one or more courses, each of which consist of several modules.\nParticipants in the Data Academy will complete two Skill Paths (view as weekly spreadsheet):\n\nR Basics for Data Analysis (4 courses)\n\nIntroduction to Data Analysis in R (weeks 1-3)\nData Structures in R (weeks 3-7)\nControl Flow, Iteration, and Functions in R (weeks 7-9)\nSpecialized Data Processing in R (weeks 9-11)\n\n\n\nData Visualization with R (1 course)\n\nIntroduction to Data Visualization in R (weeks 11-13)\n\nDuring the Data Academy, you will have access to the full dataquest.io library of courses in addition to the R Curriculum. Once you have completed the curriculum for your certificates, we recommend the following additional courses:\n\nIntroduction to Data Cleaning in R\nIntroduction to Git and Version Control\nQuerying Databases with SQL and R\n\nYou will receive a certificate for each of the Skills Paths that you complete, as well as for individual courses.",
+    "text": "Curriculum\nDataquest offers many different “Learning Paths”, including Career Paths and Skill Paths. These Paths are composed of one or more courses, each of which consist of several modules.\nParticipants in the Data Academy Spring Cohort completed two Skill Paths (view as weekly spreadsheet):\n\nR Basics for Data Analysis (4 courses)\n\nIntroduction to Data Analysis in R (weeks 1-3)\nData Structures in R (weeks 3-7)\nControl Flow, Iteration, and Functions in R (weeks 7-9)\nSpecialized Data Processing in R (weeks 9-11)\n\n\n\nData Visualization with R (1 course)\n\nIntroduction to Data Visualization in R (weeks 11-13)\n\nDuring the Data Academy, you will have access to the full dataquest.io library of courses in addition to the R Curriculum. Once you have completed the curriculum for your certificates, we recommend the following additional courses:\n\nIntroduction to Data Cleaning in R\nIntroduction to Git and Version Control\nQuerying Databases with SQL and R\n\nParticipants receive a certificate for each of the Skills Paths that they complete, as well as for individual courses.",
     "crumbs": [
       "Data Academy"
     ]
@@ -1006,26 +1026,6 @@
     "title": "NMFS Openscapes Data Academy",
     "section": "FAQ",
     "text": "FAQ\nWho can participate?\nFTEs & Affiliates. We aim to get representation from all NOAA Fisheries science centers, regional offices, and strategic initiatives.\nWhat’s the minimum I need to know?\nAbsolute beginners are encouraged to apply. No prerequisites. People should be comfortable working with data in other contexts (e.g., spreadsheets, databases, GIS, other languages such as Python, Matlab, etc.).\nI know a little bit of R. I’m trying to get better (self-taught), can I participate?\nYes, you’re welcome, you’ll get a deeper understanding of what you already know and learn new skills beyond.\nHow does it relate to Champions/Mentors?\nThis is a separate program, but part of the broader Openscapes work with NOAA data and workforce modernization. Participants from past Champions and Mentors are welcome to apply and will learn different skills.\nHow do I keep up with the material? What if I get stuck?\nWhile this is an asynchronous training, doing it with other people is valuable for accountability and to help each other when you’re stuck. Openscapes will host an optional weekly 1-hour help desk and coworking session where you can ask questions and we can discuss the material as a cohort.\nWill you offer the Data Academy at another time? This conflicts with my field season!\nChoosing a time is hard and we understand this timing will exclude some people; we might be able to start earlier in 2026. Openscapes Champions Cohorts are more intensive and we run those in fall when there are fewer field season conflicts.",
-    "crumbs": [
-      "Data Academy"
-    ]
-  },
-  {
-    "objectID": "data-academy.html#sign-up-for-spring-2025",
-    "href": "data-academy.html#sign-up-for-spring-2025",
-    "title": "NMFS Openscapes Data Academy",
-    "section": "Sign up for spring 2025",
-    "text": "Sign up for spring 2025\nIf you’re interested in participating, please add yourself to the interest sheet. Deadline to apply is close of business March 24.",
-    "crumbs": [
-      "Data Academy"
-    ]
-  },
-  {
-    "objectID": "data-academy.html#selection",
-    "href": "data-academy.html#selection",
-    "title": "NMFS Openscapes Data Academy",
-    "section": "Selection",
-    "text": "Selection\nSelected applicants will be notified April 1. The 40 available spots will be distributed across centers and offices. Participants will be selected by the Openscapes team with input from NMFS Open Science staff and NMFS Openscapes Mentors. If people decline their offer to participate, we will select people from the waitlist, prioritizing people from the same division.",
     "crumbs": [
       "Data Academy"
     ]
