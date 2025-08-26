@@ -21,7 +21,7 @@ These are joint-led by NOAA and NASA, and all are welcome.
 
     -   Jon Peake will be available virtually to assist with any questions or issues related to R, Quarto, GitHub, or any other Open Science/Open Data topics. We will be booking individuals in half-hour time slots; to sign up. [Grab a time slot](https://calendar.app.google/TTkn1jaAz1t98SWLA)!
 
-- **Advanced Topics in Git and GitHub** [schedule & lessons](https://nmfs-opensci.github.io/GitHub-Clinic/schedule.html). Thursdays at 12:30 PT (biweekly starting May 29th), Tuesdays at 11:00 PT (biweekly starting June 3rd).
+- **Advanced Topics in Git and GitHub** [schedule & lessons](https://nmfs-opensci.github.io/GitHub-Clinic/content/schedule.html). Thursdays at 12:30 PT (biweekly starting May 29th), Tuesdays at 11:00 PT (biweekly starting June 3rd).
   - 1-hour long standalone skills workshops for a deeper dive into several GitHub features, including advanced branch management, Git workflows, GitHub pages, and forking. Each new skill will be offered on a Thursday and repeated the following Tuesday.
  
 -   **NMFS Open Science [Trainings](https://sites.google.com/noaa.gov/nmfs-hq-st-open-science/trainings)** & Calendar (TODO link calendar).
