@@ -65,6 +65,7 @@ This image gives a visual sense of time span, cadence, and time commitments for 
 | 2025-08-07 | 10:00 am ET | SEFSC | All Hands / \<10 min | Carissa Gervasi | Carissa Gervasi |
 | 2025-08-20 | 12:30 pm PT | NMFS DGC | Fisheries Monthly Data Governance Meeting | Eli Holmes | Eli Holmes + Julie Lowndes |
 | 2025-08-27 | 1:00 pm HST | PIFSC | PIFSC webinar | Amanda Bradford and PIFSC Openscapes Mentors | Amanda Bradford and PIFSC Openscapes Mentors |
+| 2025-08-27 | 8:00 am AKDT | AKRO | Alaska Regional Office habitat conservation division | Julie Lowndes, Cathy Coons | Julie Lowndes |
 | 2025-09-02 | 12:00 pm PT | All NMFS | Openscapes Champions info Q&A / 50 min | Julie Lowndes | Julie Lowndes + Molly Stevens |
 | 2025-09-03 | 12:00 pm PT | All NMFS | Openscapes Champions info Q&A / 50 min | Julie Lowndes | Julie Lowndes + TBD |
 
