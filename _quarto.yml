@@ -48,9 +48,7 @@ website:
         text: Mentors Community
         contents: 
           - href: mentors/activities.qmd
-            text: Current Activities  
-          - href: mentors/activities.html#previous-activities
-            text: Previous activities
+            text: Activities
           - href: mentors/mentor-calls.qmd
             text: Mentor Calls Skills            
       - href: champions.qmd
