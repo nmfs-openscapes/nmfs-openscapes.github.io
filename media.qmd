@@ -81,6 +81,4 @@ Bastille, Kimberly, Sean Hardison, Lynn deWitt, Jennifer Brown, Jameal Samhouri,
 
 ## YouTube
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" height="20"/> [Quarto for collaborating on large government science reports by Eli Holmes (NOAA Fisheries)](https://youtu.be/tmyfjBmi1lk) - August 11, 2022: Holmes
-
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" height="20"/> [NMFSReports R package Overview by Em Markowitz](https://www.youtube.com/watch?v=S-w_74Pc908) - October 2021: Markowitz
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" height="20"/> [NOAA Fisheries Openscapes Videos](https://www.youtube.com/playlist?list=PLVVMU2rjWU7cRa7ypLFeqDMdanE8_d527)
