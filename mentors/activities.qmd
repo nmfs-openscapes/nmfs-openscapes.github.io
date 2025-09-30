@@ -6,17 +6,18 @@ title: "Current Activities"
 
 -   **Mentor Calls** (Wednesdays, biweekly):
     -   **January:** visioning and goal-setting.
-    -   **February - April: [Winter 2025 Group Coaching] takeover!**
+    -   **February - April:** [Winter 2025 Group Coaching] takeover!
     -   **April:** co-designed and responsive to groups’ goals and needs.
     -   **May - June:** Standup, “What are you working on now, what are you stuck on, what is a big focus over the next 2 weeks?”
     -   Summer break
+    -   **October - December:** [NMFS Openscapes Champions Cohorts](../champions.qmd)
 -   **Coworking** (Tuesdays, weekly):
     -   Work on your goals! Coworking sessions by design have no agenda, are self-organizing and work-focused. They are less about "big ideas for discussion". They work best when a few people show up with concrete things to accomplish or work on, and we get quickly into breakout rooms to cowork on these ideas. 
     -   When you show up, these are some of the specific things that you can do: 
         -   Work on your own code, writing
         -   Ask for feedback on something
         -   Review Mentor Calls, practice skills with someone
--   **In-person** [Summer 2025 Workshop], July 21 in Seattle
+-   **In-person** \[Summer 2025 Workshop\], July 21 in Seattle
 -   **ESIP Summer conference,** July 22-25 in Seattle - cross-government open data science folks
 -   **NMFS Openscapes Champions Cohorts** ([Mentor roles](https://nmfs-openscapes.github.io/champions.html#mentor-roles) in pre-cohort engagement, and mentoring during cohorts, October - December).
 
@@ -29,7 +30,7 @@ The NOAA Fisheries Openscapes Mentors Summer Workshop is July 21. A hybrid event
     -   Increased Mentors’ awareness across projects and progress on new ideas and barriers;
     -   Blog post following Summer Workshop highlighting Mentors’ work;
     -   More examples for impact and shared slides.
-- **Process:** A facilitated workshop with some plenary learning time and Mentors deciding what you want to work on and share.
+-   **Process:** A facilitated workshop with some plenary learning time and Mentors deciding what you want to work on and share.
 
 **Mentors' Social Hour:** No-host dinner will follow at 5:30-7:30pm at [Agua Verde Cafe](https://www.aguaverdecafe.com/), 1303 NE Boat Street, Seattle, Washington 98105. Friends and colleagues are welcome!
 
@@ -67,7 +68,7 @@ The FY24 mentor cohort will start with a mentors-only Openscapes Champions cohor
 **Mentor Calls** are when we convene as a group to learn and plan. Agendas are accessible to Cohort participants in our [Cohort Google Folder](https://drive.google.com/drive/folders/1eL0OnwySgTjcI_J6iI0NR8BgiqG0jB9V?usp=sharing); they are also an archive of our live notetaking. See [Mentor Calls Skills](mentor-calls.qmd) for details.
 
 | Date | Mentor Call Topics |
-|-----------------|-------------------------------------------------------|
+|------------------|------------------------------------------------------|
 | 10/17 | 1\. Openscapes mindset for mentors: What does it mean to be a mentor? What does Open Science at NMFS mean? <!-- Julie is point --> |
 | 10/31 | 2\. Developing strong Open and Collaborative Communities <!--Stef is point: Stef Butland on the rOpenSci and rLadies --> |
 | 11/14 | 3\. The art of teaching skills: running GitHub clinics <!-- Eli is point: 5 min on the Women in Data Sci GitHub clinic; triads on talk, show, do ---> |
@@ -79,7 +80,7 @@ The FY24 mentor cohort will start with a mentors-only Openscapes Champions cohor
 **Seaside Chats** are for small-group coworking in weeks alternating between Mentor Calls. Topics are to reflect with your other center mentors in-between cross-center cohort calls. Note particants from different centers or offices can have Seaside chats together. We will organize our Seaside chats after the first mentor calls.
 
 | Date | Seaside co-working sessions |
-|------------------|------------------------------------------------------|
+|-------------------|-----------------------------------------------------|
 | Week of 10/23 | Begin work on an Open Science Pathway for your center, office or program. Where are you at? Where would you like to be? Do you have the info you need to answer this? |
 | Week of 11/6 | Keep working Open Science Pathway for your center, office or program with specific discussions of needs/challenges |
 | Week of 11/20 | Cross-FMC discussions of Open Science Pathways and work on shared organizing with GitHub |
