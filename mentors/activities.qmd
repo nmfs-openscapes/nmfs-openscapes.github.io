@@ -8,7 +8,7 @@ title: "Current Activities"
     -   **January:** visioning and goal-setting.
     -   **February - April:** [Winter 2025 Group Coaching] takeover!
     -   **April:** co-designed and responsive to groups’ goals and needs.
-    -   **May - June:** Standup, “What are you working on now, what are you stuck on, what is a big focus over the next 2 weeks?”
+    -   **May - July:** Standup, “What are you working on now, what are you stuck on, what is a big focus over the next 2 weeks?”
     -   Summer break
     -   **October - December:** [NMFS Openscapes Champions Cohorts](../champions.qmd)
 -   **Coworking** (Tuesdays, weekly):
