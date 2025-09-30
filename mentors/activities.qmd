@@ -10,7 +10,9 @@ title: "Current Activities"
     -   **April:** co-designed and responsive to groups’ goals and needs.
     -   **May - July:** Standup, “What are you working on now, what are you stuck on, what is a big focus over the next 2 weeks?”
     -   Summer break
+    -   **August - September:** Engagement and signups for 3 Fall NMFS Openscapes Champions Cohorts
     -   **October - December:** [NMFS Openscapes Champions Cohorts](../champions.qmd)
+
 -   **Coworking** (Tuesdays, weekly):
     -   Work on your goals! Coworking sessions by design have no agenda, are self-organizing and work-focused. They are less about "big ideas for discussion". They work best when a few people show up with concrete things to accomplish or work on, and we get quickly into breakout rooms to cowork on these ideas. 
     -   When you show up, these are some of the specific things that you can do: 
