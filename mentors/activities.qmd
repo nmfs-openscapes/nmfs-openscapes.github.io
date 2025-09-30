@@ -20,7 +20,6 @@ title: "Current Activities"
         -   Ask for feedback on something
         -   Review Mentor Calls, practice skills with someone
 -   **In-person** Summer 2025 Workshop, July 21 in Seattle - [blog summary](../blog/2025-08-19-nmfs-mentors-workshop/)
--   **ESIP Summer conference,** July 22-25 in Seattle - cross-government open data science folks
 -   **NMFS Openscapes Champions Cohorts** ([Mentor roles](https://nmfs-openscapes.github.io/champions.html#mentor-roles) in pre-cohort engagement, and mentoring during cohorts, October - December).
 
 ### Mentors Summer Workshop 2025
