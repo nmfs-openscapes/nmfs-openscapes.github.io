@@ -10,9 +10,11 @@ The NOAA Fisheries Openscapes Mentor Community is leading 3 Champions Cohorts in
 
 Signups for Fall 2025 Cohorts are now closed. We will lead 3 more Champions Cohorts in Fall 2026.
 
+```{=html}
 <!-- ## Sign up for Fall 2025
 
 Sign up by Sept 8, 2025, COB (close of business) in your time zone via [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1fpMJpReMuAW3W_U7rGSBkM1BgzWdVySLqLec-xoZYUc/). Please indicate the Cohort date-times you are available; we will confirm participation via email by Sept 15. You can sign up individually or with a colleague or team (have everyone enter their name on a separate line).--->
+```
 
 ## What is the Champions Program?
 
@@ -33,12 +35,13 @@ Openscapes Champions is a remote-by-design, cohort-based mentorship program that
 
 ## Champions Program Details
 
-**Fall NOAA Fisheries Openscapes Champions Cohorts run from October-December 2025!** We will meet as a cohort five times over two months, on alternating weeks, with additional optional coworking times.
+**Fall NOAA Fisheries Openscapes Champions Cohorts run from November 2025-January 2026!** We will meet as a cohort five times over two months, on alternating weeks, with additional optional coworking times.
 
 -   **Date-Times**:
-    -   **Cohort-A: Oct 7, 21, Nov 4, 18, Dec 2**. Alternating Tuesdays from 1:00pm - 2:30pm PT.
-    -   **Cohort-B: Oct 8, 22, Nov 5, 19, Dec 3**. Alternating Wednesdays from 10:00 - 11:30am PT.
-    -   **Cohort-C: Oct 8, 22, Nov 5, 19, Dec 3**. Alternating Wednesdays from 1:00 - 2:30pm PT.
+    -   **Cohort-A: Nov 18, Dec 2, 16, Jan 6, 20**. Alternating Tuesdays from 1:00pm - 2:30pm PT.
+    -   **Cohort-B: Nov 19, Dec 3, 17, Jan 7, 21**. Alternating Wednesdays from 10:00 - 11:30am PT.
+    -   **Cohort-C: Nov 19, Dec 3, 17, Jan 7, 21**. Alternating Wednesdays from 1:00 - 2:30pm PT.
+    -   **Coworking** for all cohorts (optional): Nov 25, Dec 9, Jan 13, Alternating Tuesdays from 12:00pm - 1:30pm PT.
 -   **Where:** remotely, via Zoom
 -   **What we learn:** [Champions program core lessons](https://openscapes.github.io/series), with NOAA Fisheries examples
 -   **Cost:** Free; this opportunity is supported by NOAA funding to Openscapes
@@ -51,6 +54,7 @@ This image gives a visual sense of time span, cadence, and time commitments for 
 
 ![](images/openscapes_cohort-timeline.png){fig-align="center"}
 
+```{=html}
 <!--- ## "Ask Us Anything" info sessions
 
 **Are you curious about participating in the Champions Program** and want to learn more? We will host "Ask Us Anything" info sessions on Sept 2 & 3 (details in table below). Anyone is welcome to attend.
@@ -69,6 +73,7 @@ This image gives a visual sense of time span, cadence, and time commitments for 
 | 2025-09-02 | 12:00 pm PT | All NMFS | Openscapes Champions info Q&A / 50 min | Julie Lowndes | Julie Lowndes + Molly Stevens |
 | 2025-09-03 | 12:00 pm PT | All NMFS | Openscapes Champions info Q&A / 50 min | Julie Lowndes | Julie Lowndes + TBD |
 --->
+```
 
 ```{=html}
 <!--- ## Attend an "Ask Us Anything" info session
@@ -185,6 +190,7 @@ The growing [NMFS Openscapes Mentor community](/mentors/) — staff from across 
 -   Participants (learn with your team as a Champion, focus on your work in Seaside Chats and Coworking)
 -   Teachers (teaching specific Champions lessons, pre-arranged)
 
+```{=html}
 <!--- ## Selection and how to participate
 
 *This is the 2024 selection process; we will iterate in 2025*
@@ -219,3 +225,4 @@ Criteria that did NOT affect selection:
 Waitlist decisions:
 
 -   If people declined, we selected people from the waitlist, prioritizing same cohort, same division, not participated before, same team, availability for Cohort date-time. --->
+```
