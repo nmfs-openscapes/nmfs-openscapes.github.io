@@ -4,7 +4,7 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "NMFS Open Science (public)\nNMFS Open Science (NOAA internal)\n openscapes.cloud - A central location for Openscapes JupyterHub access, policies, and fledging information.\npy-rocket addresses a major barrier for collaboration between Python and R users. It was developed as a collaboration between NOAA Fisheries Openscapes, UC Berkeley, Rocker, NASA Openscapes, 2i2c: Eli Holmes, Carl Boettiger, Luis Lopez Espinosa, Yuvi Panda. Learn more through this January 2025 talk: py-rocket: A Docker image to promote cross-language (Python, R) collaboration across diverse user platforms for cloud computing in the earth sciences",
+    "text": "NMFS Open Science (public)\nNMFS Open Science (NOAA internal)\nInfrastructure and support at NOAA Fisheries (NOAA internal) - Slides with links, from Kathryn Doering, OST, with contributions from NOAA Fisheries Openscapes Champions and Mentors.\n openscapes.cloud - A central location for Openscapes JupyterHub access, policies, and fledging information.\npy-rocket addresses a major barrier for collaboration between Python and R users. It was developed as a collaboration between NOAA Fisheries Openscapes, UC Berkeley, Rocker, NASA Openscapes, 2i2c: Eli Holmes, Carl Boettiger, Luis Lopez Espinosa, Yuvi Panda. Learn more through this January 2025 talk: py-rocket: A Docker image to promote cross-language (Python, R) collaboration across diverse user platforms for cloud computing in the earth sciences",
     "crumbs": [
       "Resources"
     ]
