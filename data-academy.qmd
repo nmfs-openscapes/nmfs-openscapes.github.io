@@ -20,9 +20,9 @@ Applications are currently closed.
 
 ## Fall 2025 Cohort
 
-The Fall Cohort is designed for those with some R experience, and is intented to be more self-directed. Participants can choose their own learning paths based on their interests and needs, and/or choose to follow the same [curriculum] as those in the Spring cohort. You can see the suggested curriculum schedule for the Fall cohort in the [curriculum spreadsheet](https://docs.google.com/spreadsheets/d/1YdE_khWiEr46fgdUyAG7GUg6fGBEAgQ9RRl9ac__0hQ).
+The Fall Cohort is intended to be more self-directed and may include people who are new to R or have some R experience. Participants can choose their own learning paths based on their interests and needs, and/or choose to follow the same [curriculum] as those in the Spring cohort. You can see the suggested curriculum schedule for the Fall cohort in the [curriculum spreadsheet](https://docs.google.com/spreadsheets/d/1YdE_khWiEr46fgdUyAG7GUg6fGBEAgQ9RRl9ac__0hQ).
 
-**When:** Aug 18 - Dec 19, 2025. 
+**When:** Aug 18, 2025 - Apr 10, 2026. 
 
 -   Complete lessons on your own schedule.
 -   Wednesdays: Help desk with the Openscapes team alongside other participants (Optional, via Zoom).
@@ -30,7 +30,9 @@ The Fall Cohort is designed for those with some R experience, and is intented to
 
 ### Sign up and Selection
 
-Particpants for the Fall cohort were selected from the waitlist of the Spring cohort.
+Fall 2025 NMFS Openscapes Champions can [sign up](https://docs.google.com/spreadsheets/d/1BEwSdFN95f8Y12MhQpiM4p3l3RHQeHoHeZsBu7WREfE/) to join by Jan 30, 2026.
+
+Particpants for the Fall cohort were selected from the waitlist of the Spring cohort. 
 
 ## Spring 2025 Cohort
 
