@@ -6,27 +6,24 @@ Coworking is one of the most actionable, immediate things groups can do to suppo
 
 ## Public
 
-These are joint-led by NOAA and NASA, and all are welcome.
-
--   **Summer 2025 NMFS-Openscapes HackHours** [schedule & lessons](https://nmfs-opensci.github.io/NMFSHackDays-2025/). Fridays 11-12 PT, June 6 through July 25.
-    -   During these stand-alone informal sessions we will get introduced to a variety of tools for ocean data access and analysis in Python and R. We will be using the NOAA Fisheries Openscapes Jupyter Hub and you will not need to install anything. [Please register](https://zoom.us/meeting/register/Om99ecCMSrqepyDVDJ7bBA) (free, open to all).
+-   **HackHours 2026** [schedule & lessons](https://nmfs-opensci.github.io/NMFSHackDays-2026/). Fridays 11-12 PT / 2-3 ET.
+    -   During these stand-alone informal sessions we will get introduced to a variety of tools for ocean data access and analysis in Python and R. We will be using the NOAA Fisheries Openscapes JupyterHub and you will not need to install anything.
 
 ## NOAA specific
 
--   **HackHours 2025** [schedule & lessons](https://nmfs-opensci.github.io/NMFSHackDays-2025/). Fridays 11-12 PT.
-
-    -   During these stand-alone informal sessions we will get introduced to a variety of tools for ocean data access and analysis in Python and R. We will be using the NOAA Fisheries Openscapes JupyterHub and you will not need to install anything. After May 30, please join the public Summer 2025 Openscapes HackHours in this time slot joint-led by NOAA and NASA ([schedule](https://github.com/nmfs-openscapes/hackhours-planning/blob/main/jun-jul-2025/schedule.md)).
-
--   **NMFS Open Science Help Desk Office Hours**, Wednesdays 9:30-1:00 PT.
+-   **NMFS Open Science Help Desk Office Hours**, Wednesdays 9:30-4:00 PT.
 
     -   Jon Peake will be available virtually to assist with any questions or issues related to R, Quarto, GitHub, or any other Open Science/Open Data topics. We will be booking individuals in half-hour time slots; to sign up. [Grab a time slot](https://calendar.app.google/TTkn1jaAz1t98SWLA)!
 
-- **Advanced Topics in Git and GitHub** [schedule & lessons](https://nmfs-opensci.github.io/GitHub-Clinic/content/schedule.html). Thursdays at 12:30 PT (biweekly starting May 29th), Tuesdays at 11:00 PT (biweekly starting June 3rd).
-  - 1-hour long standalone skills workshops for a deeper dive into several GitHub features, including advanced branch management, Git workflows, GitHub pages, and forking. Each new skill will be offered on a Thursday and repeated the following Tuesday.
- 
--   **NMFS Open Science [Trainings](https://sites.google.com/noaa.gov/nmfs-hq-st-open-science/trainings)** & Calendar (TODO link calendar).
+-   **NMFS Open Science [Trainings](https://sites.google.com/noaa.gov/nmfs-hq-st-open-science/trainings)**.
 
--   **Group Coworking**, 1.5 hours weekly on Tuesdays, with NOAA Fisheries Openscapes Mentors and Champions. Contact stefanie\@openscapes.org to join.
+-   In 2025, with NMFS Openscapes Champions Cohorts we shared two slide decks with ways to connect via Google Spaces and Live Meetings:
+
+    -   Learn and connect to community at NOAA Fisheries ([slides](https://docs.google.com/presentation/d/1d74JVjc1Ndh4L__qM5AgMiRLLQdI7rJb/edit?slide=id.g3acce820eff_0_21#slide=id.g3acce820eff_0_21) from Kathryn Doering).
+
+    -   Open Communities ([slides](https://docs.google.com/presentation/d/1u6AjCCKniDsuX10M-qAU2O1HLJqupDYhWWKZYfeCpK4/edit?slide=id.g22699560795_0_77#slide=id.g22699560795_0_77) from Openscapes).
+
+-   **Group Coworking**, 1.5 hours weekly on Tuesdays, with NOAA Fisheries Openscapes Mentors. Contact stefanie\@openscapes.org to join.
 
     -   Ideas, projects, resources, and troubleshooting notes are shared in the [MentorActivities](https://github.com/orgs/nmfs-openscapes/projects/46) GitHub Project.
 
