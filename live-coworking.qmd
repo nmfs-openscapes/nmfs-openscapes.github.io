@@ -17,6 +17,12 @@ Coworking is one of the most actionable, immediate things groups can do to suppo
 
 -   **NMFS Open Science [Trainings](https://sites.google.com/noaa.gov/nmfs-hq-st-open-science/trainings)**.
 
+-   In 2025, with NMFS Openscapes Champions Cohorts we shared two slide decks with ways to connect via Google Spaces and Live Meetings:
+
+    -   Learn and connect to community at NOAA Fisheries ([slides](https://docs.google.com/presentation/d/1d74JVjc1Ndh4L__qM5AgMiRLLQdI7rJb/edit?slide=id.g3acce820eff_0_21#slide=id.g3acce820eff_0_21) from Kathryn Doering).
+
+    -   Open Communities ([slides](https://docs.google.com/presentation/d/1u6AjCCKniDsuX10M-qAU2O1HLJqupDYhWWKZYfeCpK4/edit?slide=id.g22699560795_0_77#slide=id.g22699560795_0_77) from Openscapes).
+
 -   **Group Coworking**, 1.5 hours weekly on Tuesdays, with NOAA Fisheries Openscapes Mentors. Contact stefanie\@openscapes.org to join.
 
     -   Ideas, projects, resources, and troubleshooting notes are shared in the [MentorActivities](https://github.com/orgs/nmfs-openscapes/projects/46) GitHub Project.
