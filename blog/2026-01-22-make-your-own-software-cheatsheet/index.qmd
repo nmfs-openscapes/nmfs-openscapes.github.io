@@ -66,7 +66,7 @@ At a late August [NOAA Fisheries Openscapes](https://nmfs-openscapes.github.io/)
 -   I used [this Posit cheatsheet pptx template](https://github.com/rstudio/cheatsheets/blob/main/powerpoints/0-template.pptx), then downloaded it as a PDF.
 
 ::: {style="text-align:center;"}
-![Caption, centered under centered image. Image 85 to 100% width](asar-cheatsheet.png){fig-alt="txt" fig-align="center" width="80%"}
+![Cheatsheet for the asar R package for Automated Stock Assessment Reporting](asar-cheatsheet.png){fig-alt="txt" fig-align="center" width="80%"}
 :::
 
 ## Samantha Schiano: Cheatsheet for the `stockplotr` R package
