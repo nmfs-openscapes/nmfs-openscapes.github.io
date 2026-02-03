@@ -2,7 +2,7 @@
 title: "Openscapes Champions Cohorts"
 ---
 
-The NOAA Fisheries Openscapes Mentor Community is leading 3 Champions Cohorts in Fall 2025! Read on to learn what this is and see the NOAA Fisheries Science Blog, [Open Science Momentum at NOAA Fisheries](https://www.fisheries.noaa.gov/science-blog/open-science-momentum-noaa-fisheries) and past [cohort pages](/cohorts) to learn stories of what past participants have accomplished.
+The NOAA Fisheries Openscapes Mentor Community led 3 Champions Cohorts in Fall 2025! Read on to learn what this is and see the NOAA Fisheries Science Blog, [Open Science Momentum at NOAA Fisheries](https://www.fisheries.noaa.gov/science-blog/open-science-momentum-noaa-fisheries) and past [cohort pages](/cohorts) to learn stories of what past participants have accomplished.
 
 [**Fall 2025 theme: cloud migration and data preservation**](https://docs.google.com/presentation/d/1Q6zerBOYfSr-Sw0YTz2JV8OOskjw_0oGOIM2WSMmS84/edit?slide=id.g3720335bad7_1_989#slide=id.g3720335bad7_1_989). <!-- We encourage teams interested in this theme to sign up, although you do not need to be interested in this theme to apply. Please sign up if you are interested in participating, whether or not the theme resonates with you now.
 
