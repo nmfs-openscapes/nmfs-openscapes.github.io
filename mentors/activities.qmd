@@ -4,6 +4,8 @@ title: "Activities"
 
 ### 2026 Mentors Community
 
+- **January:** Wrap up 3x NMFS Openscapes Champions Cohorts with 100 NMFS staff from across the agency!
+
 -   **February:** Mentors Call Kickoff and Celebrate our accomplishments!
 
 -   **February-December**: Coworking. (Experts from our extended network have been coming to share their knowledge and cowork with Mentors, with many mutual benefits, including Carlos Scheidegger of Posit supporting workflows and Nick Tierney, R community hero, supporting software review.)
