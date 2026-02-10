@@ -2,9 +2,13 @@
 title: "NMFS Openscapes Mentor Community"
 ---
 
-The NMFS Openscapes Mentor program supports local Open Science leaders with the NOAA Fisheries offices (science centers, regional offices and headquarters). The mentor program provides leadership and coaching training to help the mentors become better local leaders and to support their Open Science goals for the coming year. In addition, the program helps mentors network across NOAA Fisheries with others with similar goals and with the Openscapes at other federal agencies. The program helps mentors carve out time to make steady progress on their goals and to support their learning journey.  Openscapes organizes bi-weekly co-working sessions for the mentor group, so that they have decicated times each month set aside to work on their goals together. The mentors are also local representatives for NOAA Fisheries Open Science, including Open Data, Open Source and Open Collaboration. The mentors help design and promote the Openscapes fall Champions cohorts, spearhead communication with with their local leadership, act as a point-person for interested local staff, help identify local needs, and help communicate, or potentially organize, teaching resources for their local staff. The mentor group is modeled after the [NASA Openscapes Framework approach](https://openscapes.github.io/approach-guide/mentors-framework).
+The NMFS Openscapes Mentor program supports local Open Science leaders within the NOAA Fisheries offices (science centers, regional offices and headquarters). The program provides leadership, coaching, and skill-building training to help mentors become better local leaders and to support their Open Science goals for the coming year. In addition, the program helps mentors network across NOAA Fisheries with others with similar goals and with the Openscapes community at other federal agencies.
 
-Participation is year-long and includes a cycle of Openscapes activities. Jan-May is focused on the mentors: they define their yearly goals and activites, working on coaching skills, and engage in active work on actualizing their goals. During this time, they will have opportunities to engage with the wider Open Science and Openscapes community in a variety of ways depending on their interests. During spring, they will have joint activities with the [Pathways to Open Science program](https://openscapes.org/initiatives#pathways-to-open-science-program) for marine scientists at historically black colleges and universities. During July 2025, they will have an in-person and hybrid retreat in conjuction with the [ESIPfeds](https://www.esipfed.org/) meeting, an organization for earth science data professionals targeting especially the federal agencies. Moving into early fall, the mentors will help plan the fall Champions cohorts (120 staff across the agency) which are Oct-Dec. During late fall, the mentors do not meet as a group. Those who want to participate in the Champions cohorts will do so while others will work on their goals independently.
+**The program helps mentors carve out time to make steady progress on their goals** and to support their learning journeys. Mentors meet each week to move their work forward together through Mentor Calls and Coworking sessions. What’s your big goal or project that can get off the ground or make happen together? What are you trying to make a success? Do you see a roadblock that shouldn’t be? Working together, mentors have been able to realize organization change goals—such as delivering workshops, getting new training, developing NMFS-wide resources like GitHub Enterprise, documenting Google Cloud Workstations, and building healthy team cultures.
+
+**The mentors are also local representatives for NOAA Fisheries Open Science**, including Open Data, Open Source and Open Collaboration. According to their interest and capacity, they help design and promote in the Openscapes fall Champions cohorts, spearhead communication with with their local leadership, act as a point-person for interested local staff, help identify local needs, and help communicate, or potentially organize, teaching resources for their local staff. The mentor group is modeled after the [NASA Openscapes Framework approach](#0).
+
+**Participation is year-long and includes [a cycle of activities](https://nmfs-openscapes.github.io/mentors/activities.html#mentors-community).** Jan-May is focused on the mentors: they define their goals and activities, participate in skill-building training alongside mentors from across Openscapes communities, and [engage in active work](https://github.com/orgs/nmfs-openscapes/projects/46) on actualizing their goals. In late summer, mentors help plan the fall Champions cohorts (120 staff across the agency) which run Oct-Dec. Mentors do not meet as a group Oct-Dec. Those who want to participate in the Champions cohorts will do so while others will work on their goals independently.
 
 ## Activities
 
@@ -21,57 +25,57 @@ See our current and previous [activities](activities.qmd)!
 
 #### AFSC
 
-Brian Fadely  
-Josh London  
-Em Markowitz  
-Megsie Siple  
+Brian Fadely\
+Josh London\
+Em Markowitz\
+Megsie Siple
 
 #### NEFSC
 
-Dan	Pendleton  
+Dan Pendleton
 
 #### NWFSC
 
-Eli Holmes  
-Jonathan Peake  
-Brooke Hawkins  
-Hem Nalini Mozaria-Luna  
-Erin Steiner  
-Loren Stearman  
-Dawn URycki  
+Eli Holmes\
+Jonathan Peake\
+Brooke Hawkins\
+Hem Nalini Mozaria-Luna\
+Erin Steiner\
+Loren Stearman\
+Dawn URycki
 
 #### OST
 
-Elizabeth Perl  
-Kathryn Doering  
-Sophie Breitbart  
+Elizabeth Perl\
+Kathryn Doering\
+Sophie Breitbart
 
 #### PIFSC
 
-Yvonne Barkley  
-Amanda Bradford  
-Jon Brodziak  
-Devin Johnson  
-Jennifer McCullough  
-Eva Schemmel  
-Marylou Staman  
-Phoebe Woodworth-Jefcoats  
+Yvonne Barkley\
+Amanda Bradford\
+Jon Brodziak\
+Devin Johnson\
+Jennifer McCullough\
+Eva Schemmel\
+Marylou Staman\
+Phoebe Woodworth-Jefcoats
 
 #### SEFSC
 
-Carissa Gervasi  
-Matt Grossi  
-Adyan Rios  
-Molly Stevens  
-Ana Vaz  
+Carissa Gervasi\
+Matt Grossi\
+Adyan Rios\
+Molly Stevens\
+Ana Vaz
 
 #### SWFSC
 
-Alice Beittel  
-Kourtney Burger  
-Lynn deWitt  
-Shannon Rankin  
-Kevin Stierhoff  
+Alice Beittel\
+Kourtney Burger\
+Lynn deWitt\
+Shannon Rankin\
+Kevin Stierhoff
 
 ### FY24 Mentors
 
