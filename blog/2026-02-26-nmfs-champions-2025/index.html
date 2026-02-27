@@ -1,0 +1,1116 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.27">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Julie Lowndes">
+<meta name="author" content="Stefanie Butland">
+<meta name="author" content="Andy Teucher">
+<meta name="author" content="Eli Holmes">
+<meta name="author" content="Jon Peake">
+<meta name="author" content="Rachael Blake">
+<meta name="author" content="Kate Wing">
+<meta name="author" content="NOAA Fisheries Openscapes Mentors">
+<meta name="author" content="100 NOAA Fisheries Champions!">
+<meta name="dcterms.date" content="2026-02-26">
+<meta name="description" content="How the Openscapes Champions Program is advancing open science at NOAA Fisheries">
+
+<title>Cloud migration and data preservation progress across NOAA Fisheries - Fall 2025 Champions Recap – NMFS Openscapes</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/openscapes_hex.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-4d9afe2b8d18ee9fa5d0d57b5ed4214d.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-90bc2bbde0fc5d71ecf23bad97f3782c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-59b8908feddb308c6b7b0184b3bccb83.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-90bc2bbde0fc5d71ecf23bad97f3782c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar docked quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Cloud migration and data preservation progress across NOAA Fisheries - Fall 2025 Champions Recap</li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-center sidebar-header">
+      <a href="../../index.html" class="sidebar-logo-link">
+      <img src="../../images/logo-transparent-crop.png" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none">
+      <img src="../../images/logo-transparent-crop.png" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
+      </a>
+      <div class="sidebar-tools-main tools-wide">
+    <a href="https://openscapes.org" title="Openscapes.org" class="quarto-navigation-tool px-1" aria-label="Openscapes.org"><i class="bi bi-globe"></i></a>
+    <a href="https://github.com/nmfs-openscapes" title="NMFS Openscapes" class="quarto-navigation-tool px-1" aria-label="NMFS Openscapes"><i class="bi bi-github"></i></a>
+    <a href="https://fosstodon.org/@openscapes" title="Openscapes Mastodon" class="quarto-navigation-tool px-1" aria-label="Openscapes Mastodon"><i class="bi bi-mastodon"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Home</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../about-openscapes.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">About Openscapes</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../about-nmfs-openscapes.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">About NMFS Openscapes</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../../mentors/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Mentors Community</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../mentors/activities.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Activities</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../mentors/mentor-calls.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Mentor Calls Skills</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../champions.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Champions Program</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../../cohorts/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Champions Cohorts</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../cohorts/NMFS-fall2024.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">2024 Fall NMFS</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../cohorts/NMFS-fall2022.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">2022 Fall NMFS</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../cohorts/SEFSC-sum2022.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">2022 Summer SEFSC</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../cohorts/AFSC-win2021.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">2022 Winter AFSC</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../cohorts/FDD-fall2021.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">2021 Fall FDD</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../cohorts/NMFS-fall2021.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">2021 Fall NMFS</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../cohorts/NEFSC-spr2020.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">2020 Spring NEFSC</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../data-academy.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Data Academy</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../media.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Presentations and Media</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../resources.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Resources</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../blog.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Blog</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../contact.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Contact</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../live-coworking.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Live Coworking</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#cloud-migration-and-data-preservation-progress-happens-with-collaboration" id="toc-cloud-migration-and-data-preservation-progress-happens-with-collaboration" class="nav-link active" data-scroll-target="#cloud-migration-and-data-preservation-progress-happens-with-collaboration">Cloud Migration and Data Preservation progress happens with collaboration</a></li>
+  <li><a href="#fall-2025-cohorts---what-was-new" id="toc-fall-2025-cohorts---what-was-new" class="nav-link" data-scroll-target="#fall-2025-cohorts---what-was-new">Fall 2025 Cohorts - what was new</a></li>
+  <li><a href="#what-noaa-fisheries-staff-accomplished-learning-and-shifting-workflows" id="toc-what-noaa-fisheries-staff-accomplished-learning-and-shifting-workflows" class="nav-link" data-scroll-target="#what-noaa-fisheries-staff-accomplished-learning-and-shifting-workflows">What NOAA Fisheries staff accomplished: learning and shifting workflows</a>
+  <ul class="collapse">
+  <li><a href="#cloud-examples" id="toc-cloud-examples" class="nav-link" data-scroll-target="#cloud-examples">Cloud examples</a>
+  <ul class="collapse">
+  <li><a href="#management-strategy-evaluations-mse-cloud-workflow" id="toc-management-strategy-evaluations-mse-cloud-workflow" class="nav-link" data-scroll-target="#management-strategy-evaluations-mse-cloud-workflow">Management Strategy Evaluations (MSE) Cloud Workflow</a></li>
+  <li><a href="#exploring-cloud-workflows-for-species-distribution-modeling" id="toc-exploring-cloud-workflows-for-species-distribution-modeling" class="nav-link" data-scroll-target="#exploring-cloud-workflows-for-species-distribution-modeling">Exploring cloud workflows for species distribution modeling</a></li>
+  <li><a href="#workflow-transformation-for-procurement-field-camp-preparation-and-gear-purchasing" id="toc-workflow-transformation-for-procurement-field-camp-preparation-and-gear-purchasing" class="nav-link" data-scroll-target="#workflow-transformation-for-procurement-field-camp-preparation-and-gear-purchasing">Workflow transformation for procurement: field camp preparation and gear purchasing</a></li>
+  </ul></li>
+  <li><a href="#data-preservation" id="toc-data-preservation" class="nav-link" data-scroll-target="#data-preservation">Data preservation</a></li>
+  <li><a href="#project-management" id="toc-project-management" class="nav-link" data-scroll-target="#project-management">Project management</a></li>
+  <li><a href="#other-topics" id="toc-other-topics" class="nav-link" data-scroll-target="#other-topics">Other topics</a></li>
+  </ul></li>
+  <li><a href="#mentors-impact-building-from-over-5-years-of-collaboration" id="toc-mentors-impact-building-from-over-5-years-of-collaboration" class="nav-link" data-scroll-target="#mentors-impact-building-from-over-5-years-of-collaboration">Mentors impact – building from over 5 years of collaboration</a></li>
+  <li><a href="#reflections-crossing-the-chasm-with-innovators-and-early-majority" id="toc-reflections-crossing-the-chasm-with-innovators-and-early-majority" class="nav-link" data-scroll-target="#reflections-crossing-the-chasm-with-innovators-and-early-majority">Reflections: Crossing the Chasm with Innovators and Early Majority</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/nmfs-openscapes/nmfs-openscapes.github.io/edit/main/blog/2026-02-26-nmfs-champions-2025/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/nmfs-openscapes/nmfs-openscapes.github.io/blob/main/blog/2026-02-26-nmfs-champions-2025/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/nmfs-openscapes/nmfs-openscapes.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Cloud migration and data preservation progress across NOAA Fisheries - Fall 2025 Champions Recap</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">blog</div>
+    <div class="quarto-category">noaa-fisheries</div>
+    <div class="quarto-category">champions</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    How the Openscapes Champions Program is advancing open science at NOAA Fisheries
+  </div>
+</div>
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Authors</div>
+    <div class="quarto-title-meta-contents">
+             <p>Julie Lowndes <a href="https://orcid.org/0000-0003-1682-3872" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+             <p>Stefanie Butland <a href="https://orcid.org/0000-0002-5427-8951" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+             <p>Andy Teucher <a href="https://orcid.org/0000-0002-7840-692X" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+             <p>Eli Holmes <a href="https://orcid.org/0000-0001-9128-8393" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+             <p>Jon Peake <a href="https://orcid.org/0000-0001-5288-4184" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+             <p>Rachael Blake <a href="https://orcid.org/0000-0003-0847-9100" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+             <p>Kate Wing <a href="https://orcid.org/0009-0001-0904-2886" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+             <p>NOAA Fisheries Openscapes Mentors </p>
+             <p>100 NOAA Fisheries Champions! </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">February 26, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p><em>We led 3 concurrent <a href="https://nmfs-openscapes.github.io/champions.html">Openscapes Champions</a> Cohorts for NOAA Fisheries this fall. These were cohorts 14 to 16 for NOAA Fisheries, involving over 600 staff and affiliates in total! Participants included teams and individuals from all 6 NOAA Fisheries Centers - <a href="https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center">Pacific Islands</a>, <a href="https://www.fisheries.noaa.gov/about/southwest-fisheries-science-center">Southwest</a>, <a href="https://www.fisheries.noaa.gov/about/southeast-fisheries-science-center">Southeast</a>, <a href="https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center">Northwest</a>, <a href="https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center">Northeast</a>, <a href="https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center">Alaska</a> - along with the Office of the Chief Information Officer (<a href="https://www.noaa.gov/organization/information-technology/about-ocio">OCIO</a>), Office of Science and Technology (<a href="https://www.fisheries.noaa.gov/about/office-science-and-technology">OST</a>), National Ocean Service (<a href="https://oceanservice.noaa.gov/">NOS</a>), Integrated Ocean Observing System (<a href="https://ioos.noaa.gov/">IOOS</a>), Southeast Regional Office (<a href="https://www.fisheries.noaa.gov/about/southeast-regional-office">SERO</a>), West Coast Region (<a href="https://www.fisheries.noaa.gov/about/west-coast-region">WCR</a>), Pacific Islands Regional Office (<a href="https://www.fisheries.noaa.gov/about/pacific-islands-regional-office">PIRO</a>), and Office of Protected Resources (<a href="https://www.fisheries.noaa.gov/about/office-protected-resources">OPR</a>). This post is a summary and celebration of some of their work.</em></p>
+<p><em>Quicklinks:</em></p>
+<ul>
+<li><a href="https://nmfs-openscapes.github.io/2025-nmfs-champions/"><em>Cohort webpage</em></a></li>
+<li><a href="https://openscapes.org/blog#category=noaa-fisheries"><em>Browse stories</em></a> <em>about the NOAA Fisheries Openscapes framework</em></li>
+</ul>
+<p><em>Cross-posted at <a href="https://openscapes.org/blog">openscapes.org/blog</a>, <a href="https://nmfs-openscapes.github.io/blog">nmfs-openscapes.github.io/blog</a>.</em></p>
+<hr>
+<section id="cloud-migration-and-data-preservation-progress-happens-with-collaboration" class="level1">
+<h1>Cloud Migration and Data Preservation progress happens with collaboration</h1>
+<p>As NOAA is migrating data to the cloud, this means many people are needing to change their workflows. What Openscapes has learned over the years is that a big part of changing workflows is helping people make connections so they can help each other. Champions Cohorts connect people within and across their home centers as they learn new skills for data workflows that are immediately relevant for their work. And this enables change that wasn’t possible before.</p>
+<p>One exciting example of something that wasn’t possible before is the <a href="https://github.com/nmfs-opensci/CloudComputingSetup/">NOAA Fisheries Cloud Computing Setup</a> documentation that NOAA Fisheries Openscapes Mentor Molly Stevens (SEFSC) started in preparation for the Champions Cohort (following six months of <a href="https://github.com/orgs/nmfs-openscapes/projects/46/views/6?filterQuery=workstation&amp;pane=issue&amp;itemId=102920703&amp;issue=nmfs-openscapes%7Chow-we-work%7C33">collaborative testing</a> with other Mentors). When Alex Norelli learned about it while participating in the Champions Cohort, she found this setup resource valuable for her own work. She began collaborating with Molly to test it, achieving something she could not do before the Cohort started:</p>
+<div class="blockquote-blue">
+<blockquote class="blockquote">
+<p>“I benchmarked different cloud environments and explored data management solutions like Google Cloud Buckets, which sparked so many seaside chats about best practices in migrating current workflows to the cloud.” - <strong>Alex Norelli, SEFSC</strong></p>
+</blockquote>
+</div>
+<p>Ultimately, Alex co-led a Google Workstations Clinic during the last weeks of the Cohort with Molly and Jon Peake (NMFS Open Science), which benefitted additional participants and helped further develop the documentation. This example embodies how change happens within organizations: people are able to do more together than they can alone. And it starts with the practice of creating something useful for others, sharing it early, and iterating together.</p>
+<p>Over two months in fall 2025, 100 NOAA Fisheries staff tackled projects to improve or restructure data workflows through the Openscapes Program. They made substantial progress on complex workflow goals, such as:</p>
+<ul>
+<li><p>Benchmarking cloud data storage solutions;</p></li>
+<li><p>Getting feedback on data modernization policy and needs;</p></li>
+<li><p>Developing workflows exclusively in the cloud to align with NOAA Fisheries modernization goals;</p></li>
+<li><p>Creating dashboards to communicate data-heavy reports with programmatic code and version control;</p></li>
+<li><p>Contributing to coordinated science program onboarding and operating procedures that are harmonized across NOAA Fisheries;</p></li>
+<li><p>Exploring how AI can enhance their workflows.</p></li>
+</ul>
+<p>The Openscapes team worked with <a href="https://nmfs-openscapes.github.io/mentors/">NOAA Fisheries Openscapes Mentors</a> – staff and affiliates from across centers and offices – to invite colleagues to participate, organize and teach lessons and skill-building workshops, lead small group reflection time, and facilitate coworking sessions. During coworking sessions, participants could brainstorm and make progress on what mattered to them with others working on similar tasks.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="zoomies-2025-nmfs-champions.png" class="img-fluid figure-img" alt="3 screenshots of zoom participants each in a 5 by 5 or 4 by 4 grid. People are smiling and waving."></p>
+<figcaption><em>Zoomies of participants in the Fall 2025 NOAA Fisheries Champions Cohorts.</em></figcaption>
+</figure>
+</div>
+</div>
+</section>
+<section id="fall-2025-cohorts---what-was-new" class="level1">
+<h1>Fall 2025 Cohorts - what was new</h1>
+<p>Adapting our standard Champions Cohorts, we made more space for NOAA Fisheries Openscapes Mentors and NOAA leadership to share new tools and policies for cloud migration.</p>
+<ul>
+<li><p>Michael Liddel (OST - Assistant Chief Data Officer) and Heather Nicholas (Office of the CIO) hosted <a href="https://openscapes.github.io/series/what-to-expect.html#seaside-chats-coworking">Seaside Chats</a> on Cloud migration and Data Optimization while participating as Champions and learning about science staff needs.</p></li>
+<li><p>Eli Holmes (NMFS Open Science) developed and taught a new lesson on Cloud Strategies for Future Us (<a href="https://youtu.be/MLWMzMDjif8">recording</a>).</p></li>
+<li><p>Molly Stevens (SEFSC), Alex Norelli (SEFSC new Champion), and Jon Peake (NMFS Open Science) documented the <a href="https://github.com/nmfs-opensci/CloudComputingSetup/">NOAA Fisheries Cloud Computing Setup</a> and developed and hosted a Google Workstations Clinic.</p></li>
+<li><p>Kathryn Doering (OST) presented on <a href="https://docs.google.com/presentation/d/1d74JVjc1Ndh4L__qM5AgMiRLLQdI7rJb/edit?slide=id.p1#slide=id.p1">Infrastructure and support at NOAA Fisheries</a>.</p></li>
+<li><p>Erin Steiner (NWFSC/OST) launched and <a href="https://docs.google.com/presentation/d/1g72oUWLu3pi3SO5rkUk6ANULGsvf0jhWfQ9xgoQKUVk/edit?slide=id.p#slide=id.p">presented on</a> the new <a href="https://github.nmfs.local/">GitHub server for confidential information</a> now available across NOAA Fisheries.</p></li>
+</ul>
+<p>We also partnered with <a href="https://www.intertidalagency.org/">Intertidal Agency</a>’s Kate Wing and Rachael Blake to teach new lessons to address the theme of data preservation: <a href="https://docs.google.com/presentation/d/1fvAGMc1FsoEoog3OVU2xBjfP6_pNmhaQlNs7OjSidNc/">Metadata - Documenting your Data</a> and a <a href="https://openscapes.github.io/series/additional-lessons/zenodo-clinic.html">Zenodo Clinic</a>. These were built from an <a href="https://openscapes.org/blog/2025-11-16-esip-july-2025/">ESIP summer conference</a> session “Archive your first or second dataset”. This is a powerful partnership; Intertidal is leading a Data Stewardship Cohort shortly (<a href="https://www.intertidalagency.org/stewardship-training">registration open</a>!) and will reuse the Openscapes Champions structure and some of these lessons. The Zenodo Clinic replaced our regular <a href="https://openscapes.github.io/series/core-lessons/github/">GitHub Clinic</a>. However, the GitHub Clinic is something people asked for, as it has been recognized by many as a friendly on-ramp to GitHub concepts and collaboration. We taught aspects of the GitHub Clinic in three coworking sessions with small groups that included both beginners and more experienced users.</p>
+</section>
+<section id="what-noaa-fisheries-staff-accomplished-learning-and-shifting-workflows" class="level1">
+<h1>What NOAA Fisheries staff accomplished: learning and shifting workflows</h1>
+<p>In the final cohort call, people are invited to share their work-in-progress using our <a href="https://openscapes.github.io/series/pathways.html#pathways-concept">Pathways tool</a> for identifying how they work now along with their goals and progress.</p>
+<p><strong>We saw several themes</strong> popping up:</p>
+<ul>
+<li><p>asking for help;</p></li>
+<li><p>“slowing down to speed up”;</p></li>
+<li><p>seeing what’s possible;</p></li>
+<li><p>testing things together - like cloud infrastructure - checking in with each other during seaside chats, trying to make things work, comparing workflows;</p></li>
+<li><p>sharing templates for workflows, like project management approaches for cyclical stock assessment reports.</p></li>
+</ul>
+<p>We also saw that many more people participated as individuals rather than in teams this time including some who are collaborating with IT colleagues at several centers. This is why the experience of “learning all of the faces; these are people doing the same work I’m doing” and knowing who to ask for help is so valuable, while often underappreciated as an impact of cohort-based learning.</p>
+<div class="blockquote-blue">
+<blockquote class="blockquote">
+<p>“The biggest benefit in this regard was meeting others across the organization faced with similar problems and using similar tools.”- <strong>Greg Ellis, NEFSC</strong></p>
+</blockquote>
+</div>
+<div class="blockquote-blue">
+<blockquote class="blockquote">
+<p>“It already helps to realize that we are a much larger group with an ample common space to share and contribute ideas and different ways to tackle challenges and improve our workflows.”- <strong>Raul Ramirez, AFSC</strong></p>
+</blockquote>
+</div>
+<p>Here are some examples from those presentations during our final call together.</p>
+<section id="cloud-examples" class="level2">
+<h2 class="anchored" data-anchor-id="cloud-examples">Cloud examples</h2>
+<section id="management-strategy-evaluations-mse-cloud-workflow" class="level3">
+<h3 class="anchored" data-anchor-id="management-strategy-evaluations-mse-cloud-workflow">Management Strategy Evaluations (MSE) Cloud Workflow</h3>
+<p>Desiree Tommasi (SWFSC), Liz Brooks (NEFSC), and Alex Norelli (SEFSC) are stock assessment scientists from three different science centers who all work on Management Strategy Evaluations and were able to connect through Openscapes. MSE simulations deal with a LOT of data, and a single stock assessment run can take from 5 to 45 minutes, so cloud computing is critical to make this faster. Learning “the cloud” can be intimidating but having a space and peers to “interrogate the heck out of things” is a huge contribution to learning. Their <a href="https://openscapes.github.io/series/what-to-expect.html#seaside-chats-coworking">Seaside Chats</a> began with Alex sharing her process and together they learned from there.</p>
+<p>Questions, philosophical discussions, and compiled notes led to an MSE Cloud Workflow with recommendations for prep, setup, and run and archive phases, and helped Alex contribute to the Google Cloud Workstation workshop (<a href="https://github.com/nmfs-opensci/CloudComputingSetup/">documentation</a>; with Molly Stevens and Jon Peake. The team shared main issues and their current solutions in their pathway presentation (image below). For example, they learned that Google Cloud Workstations don’t have enough storage or power (cores) for their outputs. They had to divide their pipeline across multiple Workstations in order to do the work. They are having ongoing talks with their local IT staff and the Pilot Workstation team and are hopeful for a future “dream workstation” – that will be valuable for many people at NOAA Fisheries, not just them.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="MSE-cloud-pathway-milestones-tommasi-brooks-norelli.png" class="img-fluid figure-img" style="width:80.0%" alt="Major milestones. Issue: Learning &quot;the cloud&quot; is intimidating and we're busy people, how do you even start using workstations? Solution: Alex walked us through her MSE process and the Openscapes program hosted a hands-on clinic to get people started. Issue: Google Cloud Workstations don't have enough storage for MSE simulation output. Solution: Mounting a Google Cloud Bucket makes the workstation space nearly infinite. Issue: Google Cloud Workstations don't have enough power/cores to increase the speed of a project. Clone workstations and divide the work across many workstations is a current workaround. Issue: Our ideal workstation would be larger than those provided in the pilot program. Solution: Ongoing discussions with IT about the workstation sizes and Google Cloud Buckets."></p>
+<figcaption>Major milestones in testing Google Cloud Workstations for MSE, listed as Issues (left) they identified and their current solutions (right).</figcaption>
+</figure>
+</div>
+</div>
+</section>
+<section id="exploring-cloud-workflows-for-species-distribution-modeling" class="level3">
+<h3 class="anchored" data-anchor-id="exploring-cloud-workflows-for-species-distribution-modeling">Exploring cloud workflows for species distribution modeling</h3>
+<p>Josh Cullen and Heather Welch work in the SWFSC species distribution modeling (SDM) group. While they each work on different projects, they had the mutual goal of exploring the cloud with their workflows, identifying improvements and snags, and helping others in their group with migrating their workflows to the cloud.</p>
+<p>Josh works on daily forecasts of fishing conditions for target species and bycatch. He recognized that people can improve workflows for both ecological modeling and operational tools by “shifting to a cloud-based approach using the ’cloud native’ Zarr format to stream large datasets from any computer or Virtual Machines (VMs)”. Meanwhile, Heather compared the performance of VMs. VMs have machine types that vary by compute power and memory as a trade off with cost. Heather presented her work benchmarking the performance of VMs with CPUs vs GPUs.</p>
+</section>
+<section id="workflow-transformation-for-procurement-field-camp-preparation-and-gear-purchasing" class="level3">
+<h3 class="anchored" data-anchor-id="workflow-transformation-for-procurement-field-camp-preparation-and-gear-purchasing">Workflow transformation for procurement: field camp preparation and gear purchasing</h3>
+<p>Christy Kozama (PIFSC) focused her time during Openscapes Champions exploring how her procurement pipeline could be improved. Procurement (also known as how purchasing and buying stuff, say, computers or fishing gear, works within an organization) may not be what comes to mind when we think about data at NOAA Fisheries. But procurement data is indeed a part of the whole picture, and there is a process and many decisions and documentation that go into it. For example, “market research” (image: top, second to the left) comparing prices and vendors – as well as tracking and process and documentation – has the money been sent, has the item been received, does the scientist or original requester now have it? As part of NOAA Cloud migration, NOAA staff are also encouraged to be using AI more. With that in mind, Christy explored what her procurement pipeline could look like using AI-driven tooling (lower half of image below).</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="prep-and-gear-purchasing-workflows-kozama.png" class="img-fluid figure-img" style="width:80.0%" alt="An AI-generated workflow diagram with current workflow on top and future workflow on bottom"></p>
+<figcaption>Procurement for field camp prep and gear purchasing workflows, from a manual and siloed process to a future integrated and automated system.</figcaption>
+</figure>
+</div>
+</div>
+</section>
+</section>
+<section id="data-preservation" class="level2">
+<h2 class="anchored" data-anchor-id="data-preservation">Data preservation</h2>
+<p>Making sure data is usable is part of data preservation. Brett Cooper’s (PIFSC) Shiny dashboard is an eye towards making data more accessible to a whole team, while preserving confidentiality. He transformed a manual, opaque catch reporting workflow into a reproducible, transparent dashboard that protects confidentiality while enabling real-time fishery monitoring for the Pacific Islands long-line fishery.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="Cumulative-Catch-Dashboard-brett-cooper.png" class="img-fluid figure-img" style="width:80.0%" alt="screenshot of a dashboard titled Cumulative Catch Dashboard showing 4 plots each for a different type of tuna"></p>
+<figcaption>Interactive Cumulative Catch Dashboard developed using Shiny.</figcaption>
+</figure>
+</div>
+</div>
+</section>
+<section id="project-management" class="level2">
+<h2 class="anchored" data-anchor-id="project-management">Project management</h2>
+<p>Several teams and individuals chose to focus on adopting open source tools like <a href="https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects">GitHub for project management</a>. GitHub is a cloud tool that is integral to reproducible workflows and collaborative planning. It is highly used at NOAA Fisheries, being normalized in part through the past 13 Openscapes Champions cohorts and with equitable access across the agency due to the GitHub Governance Team and the NOAA Openscapes Mentors. Although in Fall 2025 we taught the Zenodo Clinic in place of our normal <a href="https://openscapes.github.io/series/core-lessons/github/">GitHub Clinic</a>, we taught GitHub lessons during three different Coworking sessions. Here are two examples of how Champions learned and made progress using GitHub.</p>
+<p>Alex Curtis and Jeff Moore (SWFSC) learned from and built on what past Champions and Mentors had learned and created. They are developing a GitHub project (with associated repos) for managing tasks related to the annual cycle of updating marine mammal stock assessment information and reports. Key goals are to adapt to the loss of critical institutional knowledge and capacity from 2025 retirements, to organize for near-term projects, and to continue to build out workflows for automated reporting. For example, annual compilation of human-caused mortality and serious injury requires obtaining information from many sources in different formats, as well as collaborating with other centers, so tracking, processing, and coordination are a challenge. Ultimately, they are interested in centralizing the communication and tracking of project progress, as opposed to using email to connect to people throughout the agency.</p>
+<p>This work is a leapfrog story of Champions who become Mentors, openly sharing their work-in-progress GitHub Projects so that others can avoid starting from scratch. Alex’s first example to follow was from Shannon Rankin and Kourtney Burger (SWFSC, <a href="https://openscapes.org/blog/2023-01-24-noaa-nmfs-fall/#southwest-fisheries-science-center-swfsc">2022 Champions</a>) who had built a lab manual and a way to document knowledge. Following some small-group coworking to talk through skills, needs, and examples, Marylou Staman (PIFSC, <a href="https://openscapes.org/blog/2025-07-14-nmfs-champions-2024/">2024 Champion</a>) and Megsie Siple (AFSC, <a href="https://openscapes.org/blog/2021-11-12-noaa-nmfs-champions/">2021Champion</a>) led a coworking session on <a href="https://docs.google.com/document/d/136-tE6zSMjA5SMAu0JR5iDOYAWWIByqmw2I0V476eWg/edit?pli=1&amp;tab=t.0">open science tools for project management</a> that 20 people participated in!</p>
+<p>Another open project management pathway was presented by the Fisheries Monitoring and Analysis (FMA) Process Improvement Team (AFSC) including Gwynne Schnaittacher, Graeme Lee Son, Marlon Concepcion, and Raul Ramirez. Their work involves evaluating the components of an observer’s “life cycle” with the program to improve Fisheries Monitoring and Analysis (FMA) data collections and processes that would lead to better data quality and ultimately a better product for stakeholders. They come from an administrative perspective, keen to learn about open tools for project management. GitHub was intriguing to them. The majority had not used it but the team committed to learning and using GitHub to get comfortable. They made great progress through biweekly meetings to touch base and keep momentum, working with Mentor Josh London (AFSC) on this exploration.</p>
+</section>
+<section id="other-topics" class="level2">
+<h2 class="anchored" data-anchor-id="other-topics">Other topics</h2>
+<p>Cameron Speir’s Openscapes participation is part of a larger project in the NMFS Social science community: the Community Social Vulnerability Indicators (CSVI) reproducibility project. CSVI does two things: 1) Classifies communities by engagement and reliance on commercial and recreational fishing and 2) Characterizes social, demographic, and economic well-being of those communities. Cameron shared three progress reports on his Openscapes goals: reproducibility, communications, and data storage. He aims to build awareness so that even people who didn’t need to know about the code can still know about the decisions going into the CSVI indicators.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="Community-Social-Indicators-Pathways-cameron-speir.png" class="img-fluid figure-img" style="width:80.0%"></p>
+<figcaption>Progress report on communication for Community Social Vulnerability Indicators</figcaption>
+</figure>
+</div>
+</div>
+<p>Megan Wood and Kait Palmer (PIFSC) collaborated on Makara database transition with an Openscapes mindset. They used GitHub Issues to leave breadcrumbs in a single thread instead of sending an email that would lead to 17 followups buried in emails.</p>
+<p>The Hatchery Compliance team (WCR) of Alan Olson, Chante Davis, Krista Finlay, John Brady, James Archibald, Kellen Parrish produces “biological opinions” with a compliance letter as the endpoint of their workflow. Determining if a scientist is in compliance is based on a long complex set of terms and conditions. They built a Gemini Gem (AI) to save scientists time by drastically narrowing down the areas the scientist likely needs to address further to be in compliance.</p>
+<p>Jenny Stahl (PIFSC) documented where to find things when creating a SAFE document (Stock Assessments and Fishery Evaluation). She did this in a google doc noting where to find repositories, Quarto files, R code, and what the output is - html or pdf - and she recommended improvements like identifying where they have overlapping code.</p>
+<p>Sidebar Seaside Chats led to Nikolai Klibansky spinning up a GitHub 101 to better implement GitHub use across all of the SEFSC.</p>
+</section>
+</section>
+<section id="mentors-impact-building-from-over-5-years-of-collaboration" class="level1">
+<h1>Mentors impact – building from over 5 years of collaboration</h1>
+<p>After five years of working with NOAA Fisheries, we’re seeing Openscapes practices really become a movement. People are learning from each other (“now we see that our team leads were ‘Openscapesing’ us all along with their open process!”). Champions are becoming Mentors and turning around to share with new Champions (like the project management examples above) and inside their divisions as they see needs, and mentoring through seaside chats, building, and sharing to address those needs. We’re seeing the Openscapes approach reach beyond the early adopter innovators to the early majority (more on this under Reflections, below).</p>
+<p>The impacts we see now build on work that develops over years. The Google Workstations Clinic that Molly Stevens, Alex Norelli, and Jon Peake delivered stemmed from a <a href="https://github.com/orgs/nmfs-openscapes/projects/46/views/6?pane=issue&amp;itemId=102920703&amp;issue=nmfs-openscapes%7Chow-we-work%7C33">MentorActivities Issue</a> on the topic from early 2025, and Molly ran with it. That first issue has turned into a huge and ongoing impact across NOAA Fisheries.</p>
+<p>It shows up in other ways too. Loren Stearman (NWFSC) is focusing on psychological safety with the teams he works most closely with. He is working on how to help bring Openscapes principles beyond data workflow contexts. The human side and safe environments for communication is so critical to the longevity of the projects he works on and he is helping other Mentors across NOAA Fisheries prioritize and have language for these conversations.</p>
+<p>Perseverance and envisioning what’s possible is another characteristic of NOAA Mentors. Erin Steiner (NWFSC) saw the need for a GitHub server for confidential data - losing a system her local team had relied on meant she could rebuild it for everyone! Erin developed a plan and proposal, and did not give up, spending time in an 8-month journey convincing people that there was both a need and a solution. She shared this as a Pathway for the 2025 fall Champions cohort. Erin says the hardest part was not quitting, even when she was told she was using GitHub wrong (she was not!). It is hard to know what was different between the 58th version of a pitch email and 59th, but it was that 59th email that gained traction to make it happen. Erin gave a shoutout to some IT infrastructure folks. And ultimately, she was successful (the beta version launched Feb 2nd!) because she was not doing this alone: she was able to reuse (“fork”) the approach Kathryn Doering (OST) took for GitHub Governance (seeing what’s possible), and had the encouragement of Kathryn and others along the way.</p>
+</section>
+<section id="reflections-crossing-the-chasm-with-innovators-and-early-majority" class="level1">
+<h1>Reflections: Crossing the Chasm with Innovators and Early Majority</h1>
+<p>This year’s NOAA Fisheries Openscapes Champions program was different in two big ways that were happening simultaneously. We are reaching new audiences, having worked with NOAA Fisheries for so many years, and led 16 Champions Cohorts with them. Thinking about the <a href="https://openscapes.org/blog/2025-05-13-cng-conf/">diffusion of innovation</a> theory; for the past years we have been investing in the “early adopter” community by supporting the NOAA Fisheries Mentors and Champions cohorts. In 2025, we focused on sharing the story of how we had “crossed the chasm” and would now be working more with the “early majority”. The Fall 2025 Champions Cohort was the next part of the story: we had early majority folks as well as innovators who are developing new infrastructure and workflows for cloud computing.</p>
+<p>What does this mean for how we engage and teach NOAA Fisheries Champions going forward? Will the spectrum of NOAA staff’s goals have broadened in a way that the support we give people will look different in the future? We’ve always designed Champions Cohorts to not assume prior knowledge of coding or GitHub or any specific dataset or type, and we’ve designed so that people with different expertise and deliverables, like supervisors and analysts and IT staff, can all learn together and take what they need back to their work. However, we need to think more about what Openscapes Champions looks like when the spirit of “data workflows” is not a unifier for all participants. While we will need to listen and innovate to meet these new needs, we will also remember to pause and reuse what has worked in the past: the value of welcome, art, show-not-tell, empathy, and community. And a constant reminder that <strong>we’re not alone, it’s not too late</strong>.</p>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{lowndes2026,
+  author = {Lowndes, Julie and Butland, Stefanie and Teucher, Andy and
+    Holmes, Eli and Peake, Jon and Blake, Rachael and Wing, Kate and
+    Fisheries Openscapes Mentors, NOAA and NOAA Fisheries Champions!,
+    100},
+  title = {Cloud Migration and Data Preservation Progress Across {NOAA}
+    {Fisheries} - {Fall} 2025 {Champions} {Recap}},
+  date = {2026-02-26},
+  url = {https://openscapes.org/blog/2026-02-26-nmfs-champions-2025/},
+  langid = {en}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-lowndes2026" class="csl-entry quarto-appendix-citeas" role="listitem">
+Lowndes, Julie, Stefanie Butland, Andy Teucher, Eli Holmes, Jon Peake,
+Rachael Blake, Kate Wing, NOAA Fisheries Openscapes Mentors, and 100
+NOAA Fisheries Champions! 2026. <span>“Cloud Migration and Data
+Preservation Progress Across NOAA Fisheries - Fall 2025 Champions
+Recap.”</span> February 26, 2026. <a href="https://openscapes.org/blog/2026-02-26-nmfs-champions-2025/">https://openscapes.org/blog/2026-02-26-nmfs-champions-2025/</a>.
+</div></div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/nmfs-openscapes\.github\.io");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© CC-By Openscapes, 2024</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/nmfs-openscapes/nmfs-openscapes.github.io/edit/main/blog/2026-02-26-nmfs-champions-2025/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/nmfs-openscapes/nmfs-openscapes.github.io/blob/main/blog/2026-02-26-nmfs-champions-2025/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/nmfs-openscapes/nmfs-openscapes.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="nav-footer-right">
+<p>This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
