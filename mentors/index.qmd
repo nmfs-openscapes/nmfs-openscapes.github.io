@@ -27,7 +27,7 @@ See our current and previous [activities](activities.qmd)!
 
 Brian Fadely  
 Josh London  
-Em Markowitz
+Em Markowitz  
 Gwynne Schnaittacher  
 Megsie Siple
 
@@ -39,7 +39,7 @@ Dan Pendleton
 
 Eli Holmes  
 Jonathan Peake  
-Brooke Hawkins
+Brooke Hawkins  
 Raymond Hunter  
 Hem Nalini Mozaria-Luna  
 Erin Steiner  
