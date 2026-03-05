@@ -10,7 +10,7 @@ If you’re interested in participating, please add yourself to the [interest sh
 
 **What:** You will learn R for data science through lessons on the [dataquest.io](http://dataquest.io) platform. See the [curriculum](#curriculum) below. The Data Academy is **asynchronous** so you can complete the lessons on your own schedule, and also **cohort-based** so you’ll get to know your colleagues and have accountability. The Openscapes team will provide support through optional **synchronous help desk hours and coworking** and a **dedicated Google Space** for help. A training certificate will be issued for each module completed.
 
-**Who**: FTEs and Affiliates from any Fisheries office are welcome to sign up.
+**Who**: FTEs and Affiliates from any Fisheries office or center are welcome to sign up.
 
 **Expected time commitment**: Weekly for 3 months: 2-3-hour chunks of learning time per week, plus optional 1 hour of support from a "help desk" and coworking.
 
@@ -31,14 +31,14 @@ Participants in the Data Academy Spring Cohort will complete two Skill Paths (vi
 #### [R Basics for Data Analysis](https://www.dataquest.io/path/r-basics-for-data-analysis/) (4 courses)
 
 -   [Introduction to Data Analysis in R](https://www.dataquest.io/course/intro-to-r-rewrite/) (weeks 1-3)
--   [Data Structures in R](https://www.dataquest.io/course/datastructure-in-r-rewrite/) (weeks 3-7)
--   [Control Flow, Iteration, and Functions in R](https://www.dataquest.io/course/intermediate-r/) (weeks 8-9)
--   BREAK WEEK - no new material, catch up on previous weeks, and/or explore other courses in the dataquest.io catalogue (week 10)
--   [Specialized Data Processing in R](https://www.dataquest.io/course/intermediate-r-part-two/) (weeks 11-12)
+-   [Data Structures in R](https://www.dataquest.io/course/datastructure-in-r-rewrite/) (weeks 3-8)
+-   [Control Flow, Iteration, and Functions in R](https://www.dataquest.io/course/intermediate-r/) (weeks 9-10)
+-   BREAK WEEK - no new material, catch up on previous weeks, and/or explore other courses in the dataquest.io catalogue (week 11)
+-   [Specialized Data Processing in R](https://www.dataquest.io/course/intermediate-r-part-two/) (weeks 12-13)
 
 #### [Data Visualization with R](https://www.dataquest.io/path/data-visualization-with-r/) (1 course)
 
--   [Introduction to Data Visualization in R](https://www.dataquest.io/course/r-data-viz/) (weeks 13-15)
+-   [Introduction to Data Visualization in R](https://www.dataquest.io/course/r-data-viz/) (weeks 14-16)
 
 During the Data Academy, you will have access to the [full dataquest.io catalogue of courses](https://www.dataquest.io/catalog/) in addition to the R Curriculum. If you have time after completing the curriculum for your certificates, we recommend the following additional courses:
 
