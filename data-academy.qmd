@@ -10,7 +10,7 @@ If you’re interested in participating, please add yourself to the [interest sh
 
 **What:** You will learn R for data science through lessons on the [dataquest.io](http://dataquest.io) platform. See the [curriculum](#curriculum) below. The Data Academy is **asynchronous** so you can complete the lessons on your own schedule, and also **cohort-based** so you’ll get to know your colleagues and have accountability. The Openscapes team will provide support through optional **synchronous help desk hours and coworking** and a **dedicated Google Space** for help. A training certificate will be issued for each module completed.
 
-**Who**: FTEs and Affiliates from any Fisheries office were welcomed to sign up.
+**Who**: FTEs and Affiliates from any Fisheries office are welcome to sign up.
 
 **Expected time commitment**: Weekly for 3 months: 2-3-hour chunks of learning time per week, plus optional 1 hour of support from a "help desk" and coworking.
 
