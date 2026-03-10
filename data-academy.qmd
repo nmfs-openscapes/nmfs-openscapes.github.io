@@ -24,7 +24,7 @@ If you’re interested in participating, please add yourself to the [interest sh
 
 ## Curriculum
 
-Dataquest offers many different "Learning Paths", including [Career Paths](https://www.dataquest.io/data-science-courses/career-paths/) and [Skill Paths](https://www.dataquest.io/data-science-courses/career-paths/). These Paths are composed of one or more courses, each of which consist of several modules.
+Dataquest offers many different "Learning Paths", including [Career Paths](https://www.dataquest.io/data-science-courses/career-paths/) and [Skill Paths](https://www.dataquest.io/catalog/skill-paths/). These Paths are composed of one or more courses, each of which consist of several modules.
 
 Participants in the Data Academy Spring Cohort will complete two Skill Paths (view as [weekly spreadsheet](https://docs.google.com/spreadsheets/d/16v4ebouRSNrLmTvqOrgVsvr2DorelZqLvOT4qVYO128/edit?gid=0#gid=0)):
 
