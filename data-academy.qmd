@@ -4,7 +4,7 @@ title: "NMFS Openscapes Data Academy"
 
 The Data Academy is being led by Openscapes as part of the Fisheries Data Modernization Strategy. The goal of the Data Academy is to provide NOAA Fisheries staff with foundational data science skills in R, and to build a community of practice around data science and open & reproducible science.
 
-If you’re interested in participating, please add yourself to the [interest sheet](https://docs.google.com/spreadsheets/d/1Ot92fLTxiP8e3zZfdbF4lnfO8JtR9mhghQ049LoyL4w/edit?gid=0#gid=0). **Deadline to apply is close of business April 3, 2026**.
+**Signups have now closed**.
 
 ## What is the Data Academy?
 
@@ -14,10 +14,10 @@ If you’re interested in participating, please add yourself to the [interest sh
 
 **Expected time commitment**: Weekly for 3 months: 2-3-hour chunks of learning time per week, plus optional 1 hour of support from a "help desk" and coworking.
 
-**When**: April 20 - August 28, 2026.
+**When**: April 20 - August 20, 2026.
 
 -   Mondays: Week’s lesson reminder received via email. Complete lesson on your own schedule.
--   Wednesdays: Help desk, live demos of the material, and coworking with the Openscapes team alongside other participants (Optional, via Zoom).
+-   Wednesdays and Fridays: Help desk, live demos of the material, and coworking with the Openscapes team alongside other participants (Optional, via Zoom).
 -   Asynchronous chat and Q&A in the dedicated Google Space.
 
 **Cost:** Free. There is no cost to staff or your center/office. This opportunity is supported by NOAA funding to Openscapes.
