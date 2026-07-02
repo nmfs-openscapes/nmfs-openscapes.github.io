@@ -14,7 +14,7 @@ Example workflow analysis by one of the Fall 2022 NMFS Openscapes teams: left) c
 
 ## Upcoming Cohorts
 
-We will lead 3 more [Champions Cohorts in Fall 2025](../champions.qmd).
+We will lead 3 more [Champions Cohorts in Fall 2026](../champions.qmd).
 
 <img src="../images/fall2022openscapes.png" alt="hands together" style="float:right;width:30%;"/>
 
@@ -25,10 +25,13 @@ We will lead 3 more [Champions Cohorts in Fall 2025](../champions.qmd).
 
 ## Past Cohorts
 
+### 2025
+
+**Fall:** 3 Fall NMFS Openscapes Champions Cohorts were held concurrently during Oct 2025-Jan 2026 with with participation of 120 staff and affiliates. ([Cohorts website](https://nmfs-openscapes.github.io/2025-nmfs-champions/)). Their work is featured in a [blog post](https://openscapes.org/blog/2026-02-26-nmfs-champions-2025/): "Cloud migration and data preservation progress across NOAA Fisheries - Fall 2025 Champions Recap. How the Openscapes Champions Program is advancing open science at NOAA Fisheries". Participants included teams and individuals from all 6 NOAA Fisheries Centers - [Pacific Islands](https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center), [Southwest](https://www.fisheries.noaa.gov/about/southwest-fisheries-science-center), [Southeast](https://www.fisheries.noaa.gov/about/southeast-fisheries-science-center), [Northwest](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center), [Northeast](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center), [Alaska](https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center) - along with the Office of the Chief Information Officer ([OCIO](https://www.noaa.gov/organization/information-technology/about-ocio)), Office of Science and Technology ([OST](https://www.fisheries.noaa.gov/about/office-science-and-technology)), National Ocean Service ([NOS](https://oceanservice.noaa.gov/)), Integrated Ocean Observing System ([IOOS](https://ioos.noaa.gov/)), Southeast Regional Office ([SERO](https://www.fisheries.noaa.gov/about/southeast-regional-office)), West Coast Region ([WCR](https://www.fisheries.noaa.gov/about/west-coast-region)), Pacific Islands Regional Office ([PIRO](https://www.fisheries.noaa.gov/about/pacific-islands-regional-office)), and Office of Protected Resources ([OPR](https://www.fisheries.noaa.gov/about/office-protected-resources)).
+
 ### 2024
 
 **Fall:** 3 Fall NMFS Openscapes Champions Cohorts were held concurrently during Oct-Dec 2024, with participation of 120 staff and affiliates from a dozen centers, offices, and strategic initiatives ([Cohorts website](https://nmfs-openscapes.github.io/2024-nmfs-champions/)). Their work is featured by NOAA Fisheries: [Open Science Momentum at NOAA Fisheries](https://www.fisheries.noaa.gov/science-blog/open-science-momentum-noaa-fisheries).
-
 
 ### 2023
 
