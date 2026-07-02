@@ -55,7 +55,8 @@ website:
         text: Champions Program      
       - section: cohorts/index.qmd
         text: Champions Cohorts
-        contents: 
+        contents:
+          - cohorts/NMFS-fall2025.qmd
           - cohorts/NMFS-fall2024.qmd  
           - cohorts/NMFS-fall2022.md 
           - cohorts/SEFSC-sum2022.md 
