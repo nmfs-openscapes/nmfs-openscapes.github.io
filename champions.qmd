@@ -6,9 +6,7 @@ The NOAA Fisheries Openscapes Mentor Community will lead 3 Champions Cohorts in 
 
 [**Fall 2026 theme: Making your work and processes understandable, transferable, and open**](https://docs.google.com/presentation/d/1SW_EBcxcD8ZHDXANucBcF-K5f-E1IR5OpVnWJmIAvHE/edit?slide=id.g3723cbac770_1_6#slide=id.g3723cbac770_1_6). We encourage teams interested in this theme to sign up, although you do not need to be interested in this theme to apply. Please sign up if you are interested in participating, whether or not the theme resonates with you now.
 
-[Info session slides](https://docs.google.com/presentation/d/1SW_EBcxcD8ZHDXANucBcF-K5f-E1IR5OpVnWJmIAvHE/edit?slide=id.g3720335bad7_1_989#slide=id.g3720335bad7_1_989) ⬢ [Sample email to share announcement] (TODO).
- 
-
+[Info session slides](https://docs.google.com/presentation/d/1SW_EBcxcD8ZHDXANucBcF-K5f-E1IR5OpVnWJmIAvHE/edit?slide=id.g3720335bad7_1_989#slide=id.g3720335bad7_1_989) ⬢ \[Sample email to share announcement\] (TODO).
 
 ```{=html}
 <!-- ## Sign up for Fall 2025
@@ -35,18 +33,21 @@ Openscapes Champions is a remote-by-design, cohort-based mentorship program that
 
 ## Champions Program Details
 
-**Fall NOAA Fisheries Openscapes Champions Cohorts run from November 2025-January 2026!** We will meet as a cohort five times over two months, on alternating weeks, with additional optional coworking times.
+**Fall NOAA Fisheries Openscapes Champions Cohorts run from September-November 2026!** We will meet as a cohort five times over two months, on alternating weeks, with additional optional coworking times.
 
--   **Date-Times**:
-    -   **Cohort-A: Nov 18, Dec 2, 16, Jan 6, 20**. Alternating Tuesdays from 1:00pm - 2:30pm PT.
-    -   **Cohort-B: Nov 19, Dec 3, 17, Jan 7, 21**. Alternating Wednesdays from 10:00 - 11:30am PT.
-    -   **Cohort-C: Nov 19, Dec 3, 17, Jan 7, 21**. Alternating Wednesdays from 1:00 - 2:30pm PT.
-    -   **Coworking** for all cohorts (optional): Nov 25, Dec 9, Jan 13, Alternating Tuesdays from 12:00pm - 1:30pm PT.
--   **Where:** remotely, via Zoom
--   **What we learn:** [Champions program core lessons](https://openscapes.github.io/series), with NOAA Fisheries examples
--   **Cost:** Free; this opportunity is supported by NOAA funding to Openscapes
--   **Expected time commitment:** 8hrs/month for 2 months is a minimum expected time commitment. This accounts for 3 hours/month of synchronous Cohort Calls, optional Coworking hours, and team Seaside Chats where you plan with your research group to strengthen shared workflows.
--   **Who:** NOAA Fisheries staff, affiliates, contractors, and others who are interested in improving their data science workflows. We aim to remove barriers to outside collaboration. It is important that those who participate can do so in all or most sessions, and are energized to be interacting with like-minded individuals across NOAA Fisheries. Sign up to participate individually, with a colleague or your team.
+- **Date-Times**:
+  - **Cohort-A: Sep 22, Oct 6, 20, Nov 3, 17.** Tuesdays 1:00 - 2:30pm PT.
+
+    **Cohort-B: Sep 23, Oct 7, 21, Nov 4, 18.** Wednesdays 10:00 - 11:30am PT.
+
+    **Cohort-C: Sep 23, Oct 7, 21, Nov 4, 18.** Wednesdays 1:00 - 2:30pm PT.
+
+  - **Coworking** for all cohorts (optional): Sep 29, Oct 13, 27, Nov 10. Tuesdays 12:00 - 1:30pm PT.
+- **Where:** remotely, via Zoom
+- **What we learn:** [Champions program core lessons](https://openscapes.github.io/series), with NOAA Fisheries examples.
+- **Cost:** Free; this opportunity is supported by NOAA funding to Openscapes.
+- **Expected time commitment:** 8hrs/month for 2 months is a minimum expected time commitment. This accounts for 3 hours/month of synchronous Cohort Calls, optional Coworking hours, and team Seaside Chats where you plan with your research group to strengthen shared workflows.
+- **Who:** NOAA Fisheries staff, affiliates, contractors, and others who are interested in improving their data science workflows. We aim to remove barriers to outside collaboration. It is important that those who participate can do so in all or most sessions, and are energized to be interacting with like-minded individuals across NOAA Fisheries. Sign up to participate individually, with a colleague, or your team.
 
 ## "Ask Us Anything" info sessions
 
@@ -54,13 +55,12 @@ Openscapes Champions is a remote-by-design, cohort-based mentorship program that
 
 **Are you a NMFS Openscapes Mentor or past Champion?** Consider giving a talk at your Center/Regional Office (talk/brown-bag, 5 mins at All Hands…). Please add sessions to [Sign up sheet, 'Talks, AMA Schedule'](https://docs.google.com/spreadsheets/d/1hLmrrvajZb9yR8Vt8ngUPp4wdCeBeYjFBxb02OvX4nU/edit?gid=1423956583#gid=1423956583) tab and to the NMFS Open Science Google Calendar so others can find them. Here are [slides](https://docs.google.com/presentation/d/1SW_EBcxcD8ZHDXANucBcF-K5f-E1IR5OpVnWJmIAvHE/edit?slide=id.g3723cbac770_1_6#slide=id.g3723cbac770_1_6) introducing the Fall 2026 Champions Program with background information we can all use to present.
 
-**Table.** Center / Office info sessions. To join an info session below, find Google Meet links in this [Google Sheet] (TODO / revisit a link from the table directly?) or in the NMFS Open Science Google Calendar.
+**Table.** Center / Office info sessions. To join an info session below, find Google Meet links in this \[Google Sheet\] (TODO / revisit a link from the table directly?) or in the NMFS Open Science Google Calendar.
 
 |  |  |  |  |  |  |
 |------------|------------|------------|------------|------------|------------|
 | **Date** | **Time** | **Center/Office** | **Event info name / length** | **Mentor/Point person** | **Speaker** |
 | 2025-08-07 | 10:00 am ET | SEFSC | All Hands / \<10 min | Carissa Gervasi | Carissa Gervasi |
-
 
 ```{=html}
 <!--- ## Attend an "Ask Us Anything" info session
@@ -138,26 +138,26 @@ Rod Towell, Nancy Young, Tony Orr, Erin Richmond, and Brian Fadely participated 
 
 Impetus - SAR process is overwhelming and inefficient.
 
--   Annual process with overlap between years 
--   Large project: \>400 pages
--   Multiple authors, collaborators, and internal/external reviewers 
--   Version control issues
--   No easy way to track discussions, decisions, ideas for future years
--   No cohesive or formalized on/off-boarding, protocols
+- Annual process with overlap between years 
+- Large project: \>400 pages
+- Multiple authors, collaborators, and internal/external reviewers 
+- Version control issues
+- No easy way to track discussions, decisions, ideas for future years
+- No cohesive or formalized on/off-boarding, protocols
 
 MML SAR Team goals
 
--   Reframe SAR development as a collaborative effort
--   Incorporate new tools but meet staff where they are
--   Maintain consistency with NOAA Fisheries SAR approach
+- Reframe SAR development as a collaborative effort
+- Incorporate new tools but meet staff where they are
+- Maintain consistency with NOAA Fisheries SAR approach
 
 Reflections
 
--   Motivated team, commitment, endurance, good communication and collaboration 
--   This is a fluid, adaptive and dynamic process
--   Used skills and problem-solving processes learned from Openscapes; the status quo was not acceptable so change was necessary
--   Change is incremental - it doesn't have to happen all at once!
--   Time, energy, commitment -\> Reward!
+- Motivated team, commitment, endurance, good communication and collaboration 
+- This is a fluid, adaptive and dynamic process
+- Used skills and problem-solving processes learned from Openscapes; the status quo was not acceptable so change was necessary
+- Change is incremental - it doesn't have to happen all at once!
+- Time, energy, commitment -\> Reward!
 
 ### A Year of Open Science Community Building at NOAA Fisheries
 
@@ -171,11 +171,11 @@ The growing [NMFS Openscapes Mentor community](/mentors/) — staff from across 
 
 **During cohort:** Mentors participate in the Champions Program (in fact, Champions cohorts are scheduled as "takeovers" of regular Mentors calls to be mindful of Mentors' time commitments). Here are several roles where Mentors can contribute:
 
--   Meta-listeners (role model psychological safety, live notetaking; review [2023 Mentor skills](/mentors/mentor-calls.html) we developed; contribute to 20-min post-cohort debriefs as you can to help surface ideas and set direction (stay in Zoom after the Cohort calls)
--   Content experts (responsive during Cohorts Calls, Seaside Chats, Coworking to help Champions with their goals)
--   Helpers (during Coworking / Seaside Chats, screensharing to fix merge conflicts, add documentation)
--   Participants (learn with your team as a Champion, focus on your work in Seaside Chats and Coworking)
--   Teachers (teaching specific Champions lessons, pre-arranged)
+- Meta-listeners (role model psychological safety, live notetaking; review [2023 Mentor skills](/mentors/mentor-calls.html) we developed; contribute to 20-min post-cohort debriefs as you can to help surface ideas and set direction (stay in Zoom after the Cohort calls)
+- Content experts (responsive during Cohorts Calls, Seaside Chats, Coworking to help Champions with their goals)
+- Helpers (during Coworking / Seaside Chats, screensharing to fix merge conflicts, add documentation)
+- Participants (learn with your team as a Champion, focus on your work in Seaside Chats and Coworking)
+- Teachers (teaching specific Champions lessons, pre-arranged)
 
 ```{=html}
 <!--- ## Selection and how to participate
