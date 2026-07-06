@@ -4,7 +4,7 @@ title: "Openscapes Champions Cohorts"
 
 The NOAA Fisheries Openscapes Mentor Community will lead 3 Champions Cohorts in Fall 2026! Read on to learn what this is and read past [cohort pages](/cohorts) to learn stories of what past participants have accomplished.
 
-[**Fall 2026 theme: Making your work and processes understandable, transferable, and open**](). We encourage teams interested in this theme to sign up, although you do not need to be interested in this theme to apply. Please sign up if you are interested in participating, whether or not the theme resonates with you now.
+[**Fall 2026 theme: Making your work and processes understandable, transferable, and open**](https://docs.google.com/presentation/d/1SW_EBcxcD8ZHDXANucBcF-K5f-E1IR5OpVnWJmIAvHE/edit?slide=id.g3723cbac770_1_6#slide=id.g3723cbac770_1_6). We encourage teams interested in this theme to sign up, although you do not need to be interested in this theme to apply. Please sign up if you are interested in participating, whether or not the theme resonates with you now.
 
 [Info session slides](https://docs.google.com/presentation/d/1SW_EBcxcD8ZHDXANucBcF-K5f-E1IR5OpVnWJmIAvHE/edit?slide=id.g3720335bad7_1_989#slide=id.g3720335bad7_1_989) ⬢ [Sample email to share announcement] (TODO).
  
@@ -54,26 +54,19 @@ This image gives a visual sense of time span, cadence, and time commitments for 
 
 ![](images/openscapes_cohort-timeline.png){fig-align="center"}
 
-```{=html}
-<!--- ## "Ask Us Anything" info sessions
+## "Ask Us Anything" info sessions
 
-**Are you curious about participating in the Champions Program** and want to learn more? We will host "Ask Us Anything" info sessions on Sept 2 & 3 (details in table below). Anyone is welcome to attend.
+**Are you curious about participating in the Champions Program** and want to learn more? We give talks to many audiences and standing meetings (details in table below). Anyone is welcome to attend.
 
-**Are you a NMFS Openscapes Mentor or past Champion?** Consider giving a talk at your Center/Regional Office (talk/brown-bag, 5 mins at All Hands…). Please add sessions to [Sign up sheet, 'Talks, AMA Schedule'](https://docs.google.com/spreadsheets/d/1fpMJpReMuAW3W_U7rGSBkM1BgzWdVySLqLec-xoZYUc/edit?gid=1241468325#gid=1241468325) tab and to the NMFS Open Science Google Calendar so others can find them. Here are [slides](https://docs.google.com/presentation/d/1Q6zerBOYfSr-Sw0YTz2JV8OOskjw_0oGOIM2WSMmS84/) introducing the Fall 2025 Champions Program with background information we can all use to present.
+**Are you a NMFS Openscapes Mentor or past Champion?** Consider giving a talk at your Center/Regional Office (talk/brown-bag, 5 mins at All Hands…). Please add sessions to [Sign up sheet, 'Talks, AMA Schedule'] (TODO) tab and to the NMFS Open Science Google Calendar so others can find them. Here are [slides](https://docs.google.com/presentation/d/1SW_EBcxcD8ZHDXANucBcF-K5f-E1IR5OpVnWJmIAvHE/edit?slide=id.g3723cbac770_1_6#slide=id.g3723cbac770_1_6) introducing the Fall 2026 Champions Program with background information we can all use to present.
 
-**Table.** Center / Office info sessions. To join an info session below, find Google Meet links in this [Google Sheet](https://docs.google.com/spreadsheets/d/1fpMJpReMuAW3W_U7rGSBkM1BgzWdVySLqLec-xoZYUc/edit?gid=1423956583#gid=1423956583) or in the NMFS Open Science Google Calendar.
+**Table.** Center / Office info sessions. To join an info session below, find Google Meet links in this [Google Sheet] (TODO / revisit a link from the table directly?) or in the NMFS Open Science Google Calendar.
 
 |  |  |  |  |  |  |
 |------------|------------|------------|------------|------------|------------|
 | **Date** | **Time** | **Center/Office** | **Event info name / length** | **Mentor/Point person** | **Speaker** |
 | 2025-08-07 | 10:00 am ET | SEFSC | All Hands / \<10 min | Carissa Gervasi | Carissa Gervasi |
-| 2025-08-20 | 12:30 pm PT | NMFS DGC | Fisheries Monthly Data Governance Meeting | Eli Holmes | Eli Holmes + Julie Lowndes |
-| 2025-08-27 | 1:00 pm HST | PIFSC | PIFSC webinar | Amanda Bradford and PIFSC Openscapes Mentors | Amanda Bradford and PIFSC Openscapes Mentors |
-| 2025-08-27 | 8:00 am AKDT | AKRO | Alaska Regional Office habitat conservation division | Julie Lowndes, Cathy Coons | Julie Lowndes |
-| 2025-09-02 | 12:00 pm PT | All NMFS | Openscapes Champions info Q&A / 50 min | Julie Lowndes | Julie Lowndes + Molly Stevens |
-| 2025-09-03 | 12:00 pm PT | All NMFS | Openscapes Champions info Q&A / 50 min | Julie Lowndes | Julie Lowndes + TBD |
---->
-```
+
 
 ```{=html}
 <!--- ## Attend an "Ask Us Anything" info session
