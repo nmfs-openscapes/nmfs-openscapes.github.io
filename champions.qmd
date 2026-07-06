@@ -94,9 +94,23 @@ Please add sessions to [Sign up sheet, 'Talks, AMA Schedule'](https://docs.googl
 
 ## FAQ - Frequently Asked Questions
 
-### What does the "cloud" theme mean for the cohorts? Will the lessons change in any way?
+### What is the theme for 2026 Cohorts?
 
-We will be teaching the Champions core lessons and some will be tailored to help people think through what this year’s theme - reimagine data and workflows in the cloud - might mean for their own work. Participants will use the Pathways sheet to take stock of their workflows, and as always we expect and will teach to a wide range of skills and levels of experience with what “cloud” means.
+The NOAA Fisheries Openscapes Champions Cohorts’ theme for 2026 is **“Making your work and processes understandable, transferable, and open”**. These Cohorts are about creating workflows that are more accessible to your entire team, and giving you dedicated time to invest in habits to make this easier. We welcome anyone to participate, whether or not you are interested in this theme, and whether you join as an individual or with others. This opportunity is open to all staff and affiliates, across all job titles, at no cost to your staff. There are no prerequisites. As a participant, you may be someone:
+
+- **Onboarding to a new role or position** and interested in developing an open science mindset and connecting to people in similar situations at NOAA Fisheries.
+
+- **Offboarding from your projects** and wanting to honor that work and legacy by documenting and sharing your processes for others to take on.
+
+- **Documenting your IT or procurement workflows** since these underpin all projects and can be a way to connect and streamline processes.
+
+- **Transitioning to cloud workflows** and wanting to learn how others approach data and workflow optimization, project management, and refactoring.
+
+- **Supporting your staff or team** as they transition their processes and wanting to better understand how they work and their needs.
+
+### What does each year's theme mean for the cohorts? Will the lessons change in any way?
+
+We will be teaching the Champions core lessons and some will be tailored to help people think through what this year’s theme might mean for their own work. Participants will use the [Pathways sheet](https://openscapes.github.io/series/pathways.html#pathways-concept) to take stock of their workflows, and as always we expect and will teach to a wide range of skills and levels of experience.
 
 ### What is a team?
 
