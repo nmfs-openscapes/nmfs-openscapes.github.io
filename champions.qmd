@@ -59,7 +59,7 @@ Openscapes Champions is a remote-by-design, cohort-based mentorship program that
 **Table.** Center / Office info sessions. To join an info session below, find Google Meet links in this [Sign up sheet, 'Talks, AMA Schedule'](https://docs.google.com/spreadsheets/d/1hLmrrvajZb9yR8Vt8ngUPp4wdCeBeYjFBxb02OvX4nU/edit?gid=1423956583#gid=1423956583) tab \[TODO / revisit a link from the table directly?\] or in the NMFS Open Science Google Calendar.
 
 |  |  |  |  |  |  |
-|----|----|----|----|----|----|
+|------------|------------|------------|------------|------------|------------|
 | **Date** | **Time** | **Center/Office** | **Event info name / length** | **Mentor/Point person** | **Speaker** |
 | 2026-08-17 | 11:00 am PT |  | AMA / 1 hr | Julie Lowndes, Eli Holmes | Julie Lowndes, Eli Holmes |
 
