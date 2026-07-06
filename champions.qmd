@@ -53,14 +53,14 @@ Openscapes Champions is a remote-by-design, cohort-based mentorship program that
 
 **Are you curious about participating in the Champions Program** and want to learn more? We give talks to many audiences and standing meetings (details in table below). Anyone is welcome to attend.
 
-**Are you a NMFS Openscapes Mentor or past Champion?** Consider giving a talk at your Center/Regional Office (talk/brown-bag, 5 mins at All Hands…). Please add sessions to [Sign up sheet, 'Talks, AMA Schedule'](https://docs.google.com/spreadsheets/d/1hLmrrvajZb9yR8Vt8ngUPp4wdCeBeYjFBxb02OvX4nU/edit?gid=1423956583#gid=1423956583) tab and to the NMFS Open Science Google Calendar so others can find them. Here are [slides](https://docs.google.com/presentation/d/1SW_EBcxcD8ZHDXANucBcF-K5f-E1IR5OpVnWJmIAvHE/edit?slide=id.g3723cbac770_1_6#slide=id.g3723cbac770_1_6) introducing the Fall 2026 Champions Program with background information we can all use to present.
+**Are you a NMFS Openscapes Mentor or past Champion?** Consider giving a talk at your Center/Regional Office (talk/brown-bag, 5 mins at All Hands). Please add sessions to [Sign up sheet, 'Talks, AMA Schedule'](https://docs.google.com/spreadsheets/d/1hLmrrvajZb9yR8Vt8ngUPp4wdCeBeYjFBxb02OvX4nU/edit?gid=1423956583#gid=1423956583) tab and to the NMFS Open Science Google Calendar so others can find them. Here are [slides](https://docs.google.com/presentation/d/1SW_EBcxcD8ZHDXANucBcF-K5f-E1IR5OpVnWJmIAvHE/edit?slide=id.g3723cbac770_1_6#slide=id.g3723cbac770_1_6) introducing the Fall 2026 Champions Program with background information we can all use to present.
 
-**Table.** Center / Office info sessions. To join an info session below, find Google Meet links in this \[Google Sheet\] (TODO / revisit a link from the table directly?) or in the NMFS Open Science Google Calendar.
+**Table.** Center / Office info sessions. To join an info session below, find Google Meet links in this [Sign up sheet, 'Talks, AMA Schedule'](https://docs.google.com/spreadsheets/d/1hLmrrvajZb9yR8Vt8ngUPp4wdCeBeYjFBxb02OvX4nU/edit?gid=1423956583#gid=1423956583) tab \[TODO / revisit a link from the table directly?\] or in the NMFS Open Science Google Calendar.
 
 |  |  |  |  |  |  |
 |------------|------------|------------|------------|------------|------------|
 | **Date** | **Time** | **Center/Office** | **Event info name / length** | **Mentor/Point person** | **Speaker** |
-| 2025-08-07 | 10:00 am ET | SEFSC | All Hands / \<10 min | Carissa Gervasi | Carissa Gervasi |
+| 2026-08-17 | 11:00 am PT |  | AMA / 1 hr | Julie Lowndes, Eli Holmes | Julie Lowndes, Eli Holmes |
 
 ```{=html}
 <!--- ## Attend an "Ask Us Anything" info session
