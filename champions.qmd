@@ -18,9 +18,9 @@ Please indicate the Cohort date-times you are available; we will confirm partici
 
 **This is a workflow transformation & leadership opportunity.**
 
-40 staff from across NOAA Fisheries come together bi-weekly to work on goals related to data science workflows. Do you want an opportunity to make progress on a project you are already working on? Do you or your team have a ‘big goal’ that involves changing how you work and you want to make progress on making your data and science workflows more efficient and reproducible (however you define that)? Do you want to migrate to new data and science workflows, like cloud-based workflows, but don’t know how to get started? Do you want to connect with others across NOAA Fisheries who are interested in Open Science, Open Data and Open Source? The Fall Openscapes Champions Cohorts are for you (and your team)! Make progress on those goals that seem so intangible and hard to get traction on by working in facilitated sessions with your peers and the Openscapes team. [Scroll the blogs](blog.qmd#category=champions) on what NOAA Fisheries teams and individuals have accomplished in the 13 NOAA Fisheries Champions Cohorts over the past 4 years.
+40 staff from across NOAA Fisheries come together biweekly to work on goals related to data science workflows. Do you want an opportunity to make progress on a project you are already working on? Do you or your team have a ‘big goal’ that involves changing how you work and you want to make progress on making your data and science workflows more efficient and reproducible (however you define that)? Do you want to migrate to new data and science workflows, like cloud-based workflows, but don’t know how to get started? Do you want to connect with others across NOAA Fisheries who are interested in Open Science, Open Data and Open Source? The Fall Openscapes Champions Cohorts are for you (and your team)! Make progress on those goals that seem so intangible and hard to get traction on by working in facilitated sessions with your peers and the Openscapes team. [Scroll the blogs](blog.qmd#category=champions) on what NOAA Fisheries teams and individuals have accomplished in the 16 NOAA Fisheries Champions Cohorts over the past 5 years.
 
-Openscapes Champions is a remote-by-design, cohort-based mentorship program that helps teams re-imagine data analysis and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive communities. It is focused on open science and data modernization via biweekly curriculum that Openscapes has improved over 25 Cohorts 2019-2025. The goal is strengthening a teaching and learning culture within teams and organizations. This program is not only for scientists: admin, IT staff, and beyond are welcomed. Individuals and teams do not have to have familiarity or expertise in open science, data science, or coding, to benefit from the Openscapes Champions Program.
+Openscapes Champions is a remote-by-design, cohort-based mentorship program that helps teams re-imagine data analysis and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive communities. It is focused on open science and data modernization via biweekly curriculum that Openscapes has improved over 30 Cohorts 2019-2026. The goal is strengthening a teaching and learning culture within teams and organizations. This program is not only for scientists: admin, IT staff, and beyond are welcomed. Individuals and teams need not have familiarity or expertise in open science, data science, or coding, to benefit from the Openscapes Champions Program.
 
 ```{=html}
 <!--- Through Openscapes cohorts, you focus on your own work with your peers or a team. As the program introduces modern concepts, tooling, and examples from your peers for collaborative open data science, groups focus on where you are and where you want to go together. **Openscapes Champions is "not your traditional training/workshop" because teams:**
@@ -46,8 +46,9 @@ Openscapes Champions is a remote-by-design, cohort-based mentorship program that
 - **Where:** remotely, via Zoom
 - **What we learn:** [Champions program core lessons](https://openscapes.github.io/series), with NOAA Fisheries examples.
 - **Cost:** Free; this opportunity is supported by NOAA funding to Openscapes.
-- **Expected time commitment:** 8hrs/month for 2 months is a minimum expected time commitment. This accounts for 3 hours/month of synchronous Cohort Calls, optional Coworking hours, and team Seaside Chats where you plan with your research group to strengthen shared workflows.
+- **Expected time commitment:** 8hrs/month for 2 months is a minimum expected time commitment. This accounts for 3 hours/month of synchronous Cohort Calls, optional Coworking hours, and group Seaside Chats where you plan with your colleagues to strengthen shared workflows.
 - **Who:** NOAA Fisheries staff, affiliates, contractors, and others who are interested in improving their data science workflows. We aim to remove barriers to outside collaboration. It is important that those who participate can do so in all or most sessions, and are energized to be interacting with like-minded individuals across NOAA Fisheries. Sign up to participate individually, with a colleague, or your team.
+  - TODO: paraphrase from above "This program is not only for scientists: admin, IT staff, and beyond are welcomed."
 
 ## "Ask Us Anything" info sessions
 
@@ -58,7 +59,7 @@ Openscapes Champions is a remote-by-design, cohort-based mentorship program that
 **Table.** Center / Office info sessions. To join an info session below, find Google Meet links in this [Sign up sheet, 'Talks, AMA Schedule'](https://docs.google.com/spreadsheets/d/1hLmrrvajZb9yR8Vt8ngUPp4wdCeBeYjFBxb02OvX4nU/edit?gid=1423956583#gid=1423956583) tab \[TODO / revisit a link from the table directly?\] or in the NMFS Open Science Google Calendar.
 
 |  |  |  |  |  |  |
-|------------|------------|------------|------------|------------|------------|
+|----|----|----|----|----|----|
 | **Date** | **Time** | **Center/Office** | **Event info name / length** | **Mentor/Point person** | **Speaker** |
 | 2026-08-17 | 11:00 am PT |  | AMA / 1 hr | Julie Lowndes, Eli Holmes | Julie Lowndes, Eli Holmes |
 
@@ -134,7 +135,17 @@ See [Frequently Asked Questions](https://openscapes.github.io/series/what-to-exp
 
 ## Stories from past participants
 
-[Open Science Momentum at NOAA Fisheries](https://www.fisheries.noaa.gov/science-blog/open-science-momentum-noaa-fisheries), 2025, by the NMFS Openscapes Mentors.
+### Cloud migration and data preservation progress happens with collaboration.
+
+As NOAA is migrating data to the cloud, this means many people are needing to change their workflows. One exciting example of something that wasn’t possible before is the [NOAA Fisheries Cloud Computing Setup](https://github.com/nmfs-opensci/CloudComputingSetup/) documentation that NOAA Fisheries Openscapes Mentor Molly Stevens (SEFSC) started in preparation for the Champions Cohort (following six months of [collaborative testing](https://github.com/orgs/nmfs-openscapes/projects/46/views/6?filterQuery=workstation&pane=issue&itemId=102920703&issue=nmfs-openscapes%7Chow-we-work%7C33) with other Mentors). When Alex Norelli learned about it while participating in the Champions Cohort, she found this setup resource valuable for her own work. She began collaborating with Molly to test it, achieving something she could not do before the Cohort started:
+
+> “I benchmarked different cloud environments and explored data management solutions like Google Cloud Buckets, which sparked so many seaside chats about best practices in migrating current workflows to the cloud.” - **Alex Norelli, SEFSC**
+
+Ultimately, Alex co-led a Google Workstations Clinic during the last weeks of the Cohort with Molly and Jon Peake (NMFS Open Science), which benefitted additional participants and helped further develop the documentation. This example embodies how change happens within organizations: people are able to do more together than they can alone. And it starts with the practice of creating something useful for others, sharing it early, and iterating together.
+
+Read more in the [Fall 2025 Champions Recap](https://openscapes.org/blog/2026-02-26-nmfs-champions-2025/).
+
+### [Open Science Momentum at NOAA Fisheries](https://www.fisheries.noaa.gov/science-blog/open-science-momentum-noaa-fisheries), 2025, by the NMFS Openscapes Mentors.
 
 > "I've already seen Openscapes change how NOAA Fisheries is doing things. There's a national peer network for learning, getting help, sharing tools, fixing things, and innovating. I see this continuing to grow as the community grows and people see what's possible. The emphasis on open, reproducible science will make it easier for partners and the public to engage in our work. Openscapes is contributing momentum to implementing tools that we need to do our jobs better." – **Phoebe Woodworth-Jefcoats, PIFSC**
 
