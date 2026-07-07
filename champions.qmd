@@ -69,6 +69,7 @@ Come join us and make progress on new tasks or big goals that can be hard to get
 |------------|------------|------------|------------|------------|------------|
 | **Date** | **Time** | **Center/Office** | **Event info name / length** | **Mentor/Point person** | **Speaker** |
 | 2026-08-17 | 11:00 am PT |  | AMA / 1 hr | Julie Lowndes, Eli Holmes | Julie Lowndes, Eli Holmes |
+| 2026-07-09 | 1pm ET / 10am PT |  | 5 min in RITC weekly meeting | Evan Nightingale | Eli Holmes |
 
 ```{=html}
 <!--- ## Attend an "Ask Us Anything" info session
