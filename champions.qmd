@@ -2,7 +2,7 @@
 title: "Openscapes Champions Program"
 ---
 
-The NOAA Fisheries Openscapes Mentor Community will lead 3 Champions Cohorts in Fall 2026! Read on to learn what this is and read past [cohort pages](/cohorts) to learn stories of what past participants have accomplished.
+The NOAA Fisheries Openscapes Mentor Community will lead 3 Champions Cohorts in Fall 2026! Read on to learn what this is and read past [cohort pages](/cohorts) to learn stories of what participants have accomplished.
 
 **Fall 2026 theme: Making your work and processes understandable, transferable, and open** ([theme details in FAQ below](#sec-2026-theme) <!---; [info session slides](https://docs.google.com/presentation/d/1SW_EBcxcD8ZHDXANucBcF-K5f-E1IR5OpVnWJmIAvHE/edit?slide=id.g3720335bad7_1_989#slide=id.g3720335bad7_1_989)--->). We encourage teams or individuals interested in this theme to sign up. You do not need to be interested in the theme to apply. Please sign up whether or not the theme resonates with you now.
 
@@ -12,13 +12,13 @@ The NOAA Fisheries Openscapes Mentor Community will lead 3 Champions Cohorts in 
 
 Deadline: Sept 8, 2026, COB (close of business) in your time zone via [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1hLmrrvajZb9yR8Vt8ngUPp4wdCeBeYjFBxb02OvX4nU/). We will confirm participation via email by Sept 10.
 
-Please indicate the Cohort date-times you are available; we will confirm participation via email by Sept 10. You can sign up individually or with a colleague or team (enter everyone's name on a separate line).
+Please indicate the Cohort date-times you are available. You can sign up individually or with a colleague or team (enter everyone's name on a separate line).
 
 ## What is the Champions Program?
 
 **This is an opportunity to make your work and processes understandable, transferable, and open — and strengthen connections with colleagues**
 
-Since 2020, the Openscapes Champions Program has helped over 600 NOAA Fisheries staff make substantial progress on difficult workflow transformation goals and strengthen connections across NOAA Fisheries. Goals from previous teams and individuals include transitioning to new cloud computing or data storage workflows, improving team awareness and collaboration, fostering and teaching team learning techniques, documenting standard operating procedures to onboard and offboard staff, and automating (scripting) large data-heavy reports. 
+Since 2020, the Openscapes Champions Program has helped over 600 NOAA Fisheries staff make substantial progress on difficult workflow transformation goals and strengthen connections across NOAA Fisheries. Goals from previous teams and individuals include transitioning to new cloud computing or data storage workflows, improving team awareness and collaboration, fostering and teaching team learning techniques, documenting standard operating procedures to onboard and offboard staff, and automating (scripting) large data-heavy reports.
 
 Openscapes Champions is a remote-by-design, cohort-based mentorship program that helps teams re-imagine data analysis and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive communities. It is focused on open science and data modernization via biweekly curriculum that Openscapes has improved over 30 Cohorts 2019-2026. The goal is strengthening a teaching and learning culture within teams and organizations. This program is not only for scientists: admin, IT staff, and beyond are welcomed. Individuals and teams need not have familiarity or expertise in open science, data science, or coding, to benefit from the Openscapes Champions Program.
 
@@ -38,19 +38,24 @@ Come join us and make progress on new tasks or big goals that can be hard to get
 **Fall NOAA Fisheries Openscapes Champions Cohorts run from September-November 2026!** We will meet as a cohort five times over two months, on alternating weeks, with additional optional coworking times.
 
 - **Date-Times**:
+
   - **Cohort-A: Sep 22, Oct 6, 20, Nov 3, 17.** Tuesdays 1:00 - 2:30pm PT.
 
-    **Cohort-B: Sep 23, Oct 7, 21, Nov 4, 18.** Wednesdays 10:00 - 11:30am PT.
+  - **Cohort-B: Sep 23, Oct 7, 21, Nov 4, 18.** Wednesdays 10:00 - 11:30am PT.
 
-    **Cohort-C: Sep 23, Oct 7, 21, Nov 4, 18.** Wednesdays 1:00 - 2:30pm PT.
+  - **Cohort-C: Sep 23, Oct 7, 21, Nov 4, 18.** Wednesdays 1:00 - 2:30pm PT.
 
   - **Coworking** for all cohorts (optional): Sep 29, Oct 13, 27, Nov 10. Tuesdays 12:00 - 1:30pm PT.
+
 - **Where:** remotely, via Zoom (from your browser, no install needed)
+
 - **What we learn:** [Champions program core lessons](https://openscapes.github.io/series), with NOAA Fisheries examples.
+
 - **Cost:** Free; this opportunity is supported by NOAA funding to Openscapes.
+
 - **Expected time commitment:** 8hrs/month for 2 months is a minimum expected time commitment. This accounts for 3 hours/month of synchronous Cohort Calls, optional Coworking hours, and group Seaside Chats where you plan and implement changes to how you work.
-- **Who:** NOAA Fisheries staff, affiliates, contractors, and others who are interested in improving their data science workflows. We aim to remove barriers to outside collaboration. It is important that those who participate can do so in all or most sessions, and are energized to be interacting with like-minded individuals across NOAA Fisheries. Sign up to participate individually, with a colleague, or your team.
-  - TODO: paraphrase from above "This program is not only for scientists: admin, IT staff, and beyond are welcomed."
+
+- **Who:** Anyone interested in improving their data science workflows. FTEs and Affiliates from any Fisheries Science Center, Regional Office, or HQ Office are welcome to participate. This program is not only for scientists: admin, IT staff, and beyond are welcomed. We aim to remove barriers to outside collaboration. It is important that those who participate can do so in all or most sessions, and are energized to be interacting with like-minded individuals across NOAA Fisheries. Sign up to participate individually, with a colleague, or your team.
 
 ## "Ask Us Anything" info sessions
 
