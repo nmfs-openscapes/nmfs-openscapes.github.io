@@ -16,7 +16,7 @@ Please indicate the Cohort date-times you are available; we will confirm partici
 
 ## What is the Champions Program?
 
-**This is a workflow transformation & leadership opportunity.**
+**This is an opportunity to make your work and processes understandable, transferable, and open — and strengthen connections with colleagues**
 
 Since 2020, the Openscapes Champions Program has helped over 600 NOAA Fisheries staff make substantial progress on difficult workflow transformation goals and strengthen connections across NOAA Fisheries. Goals from previous teams and individuals include transitioning to new cloud computing or data storage workflows, improving team awareness and collaboration, fostering and teaching team learning techniques, documenting standard operating procedures to onboard and offboard staff, and automating (scripting) large data-heavy reports. 
 
