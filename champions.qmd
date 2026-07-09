@@ -67,9 +67,12 @@ Come join us and make progress on new tasks or big goals that can be hard to get
 
 |  |  |  |  |  |  |
 |------------|------------|------------|------------|------------|------------|
-| **Date** | **Time** | **Center/Office** | **Event info name / length** | **Mentor/Point person** | **Speaker** |
-| 2026-08-17 | 11:00 am PT |  | AMA / 1 hr | Julie Lowndes, Eli Holmes | Julie Lowndes, Eli Holmes |
-| 2026-07-09 | 1pm ET / 10am PT |  | 5 min in RITC weekly meeting | Evan Nightingale | Eli Holmes |
+| **Date** | **Time** | **Center/Office** | **Event info name / length** | **Point person** | **Speaker** |
+| 2026-07-09 | 1:00pm ET/10:00am PT |  | 5 min in RITC weekly meeting | Evan Nightingale | Eli Holmes |
+| 2026-07-15 | 3:30pm ET/12:30pm PT |  | 5 min in Fisheries Data Governance committee meeting | Lisa Peterson | Lisa Peterson |
+| 2026-07-16 | 3:30pm ET/12:30pm PT |  | 5 min in FIS Program Management Team meeting | Lisa Peterson | Loren Stearman |
+| 2026-07-29 | 3:00pm ET/Noon PT |  | 5 min in Coder PSG meeting | Lisa Peterson | Lisa Peterson |
+| 2026-08-17 | 2:00pm ET/11:00am PT |  | AMA / 1 hr | Julie Lowndes, Eli Holmes | Julie Lowndes, Eli Holmes |
 
 ```{=html}
 <!--- ## Attend an "Ask Us Anything" info session
