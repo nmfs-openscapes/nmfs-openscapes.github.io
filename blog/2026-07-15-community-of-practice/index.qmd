@@ -15,6 +15,8 @@ bibliography: references.bib
 
 *This post comes from my notes introducing the concept of a community of practice to NOAA Fisheries Openscapes Mentors – and it applies to all Openscapes Mentors and work we do. I’m a scientist-turned-enabler. The knowledge I shared leverages my training in scientific community engagement from the [CSCCE](https://www.cscce.org/) (Center for Scientific Collaboration and Community Engagement), resources published by Etienne & Beverly Wenger-Traynor (from which I liberally quote), and my work as [rOpenSci’](https://ropensci.org/)s first-ever Community Manager. My goals were to lay a foundation of concepts and have NOAA Fisheries Mentors recognize they already are a community of practice and how they belong. Unless cited otherwise, all quoted text is from* [@wenger-trayner2015].
 
+*cross-posted at [openscapes.org/blog](https://openscapes.org/blog), [nasa-openscapes.github.io/news](https://nasa-openscapes.github.io/news), [nmfs-openscapes.github.io/blog](nmfs-openscapes.github.io/blog)*.
+
 ------------------------------------------------------------------------
 
 ::: blockquote-blue
