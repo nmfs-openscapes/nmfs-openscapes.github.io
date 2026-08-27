@@ -80,7 +80,8 @@ Come join us and make progress on new tasks or big goals that can be hard to get
 | 2026-08-24 | 2:00pm ET/11:00am PT |  | 5 min in IT Community Bi-Monthly Virtual All Hands | Evan Nightingale | Heather Nicholas |
 | 2026-08-26 | 4:00pm ET/1:00pm PT | WCR | 5 min in Ops call | Alex Curtis, Diana Dishman | Alex Curtis |
 | 2026-08-27 | 10:00am ET/7:00am PT | SEFSC | 5 min in SEFSC All Hands | Alex Moller | Alex Moller, Molly Stevens |
-| 2026-08-31 | 2:00pm ET/11:00am PT |  | AMA / 1 hr | Julie Lowndes, Jon Peake | Julie Lowndes, Jon Peake |
+| 2026-08-31 | 1:00pm HT/4:00 PT | PIFSC | 3 min in PIFSC All Hands | Amanda Bradford | Amanda Bradford or Marylou Staman |
+| 2026-08-31 | 2:00pm ET/11:00am PT | Anyone | AMA / 1 hr | Julie Lowndes, Jon Peake | Julie Lowndes, Jon Peake |
 
 ```{=html}
 <!--- ## Attend an "Ask Us Anything" info session
