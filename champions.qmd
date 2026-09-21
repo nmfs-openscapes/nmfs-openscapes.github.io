@@ -2,17 +2,17 @@
 title: "Openscapes Champions Program"
 ---
 
-The NOAA Fisheries Openscapes Mentor Community will lead 3 Champions Cohorts in Fall 2026! Read on to learn what this is and read past [cohort pages](/cohorts) to learn stories of what participants have accomplished.
+The NOAA Fisheries Openscapes Mentor Community is leading 3 Champions Cohorts in Fall 2026! Read on to learn what this is and read past [cohort pages](/cohorts) to learn stories of what participants have accomplished.
 
-**Fall 2026 theme: Making your work and processes understandable, transferable, and open** ([theme details in FAQ below](#sec-2026-theme) <!---; [info session slides](https://docs.google.com/presentation/d/1SW_EBcxcD8ZHDXANucBcF-K5f-E1IR5OpVnWJmIAvHE/edit?slide=id.g3720335bad7_1_989#slide=id.g3720335bad7_1_989)--->). We encourage teams or individuals interested in this theme to sign up. You do not need to be interested in the theme to apply. Please sign up whether or not the theme resonates with you now.
+**Fall 2026 theme: Making your work and processes understandable, transferable, and open** ([theme details in FAQ below](#sec-2026-theme)) <!---; [info session slides](https://docs.google.com/presentation/d/1SW_EBcxcD8ZHDXANucBcF-K5f-E1IR5OpVnWJmIAvHE/edit?slide=id.g3720335bad7_1_989#slide=id.g3720335bad7_1_989)). We encourage teams or individuals interested in this theme to sign up. You do not need to be interested in the theme to apply. Please sign up whether or not the theme resonates with you now.--->
 
 <!--- \[Sample email to share announcement\] (TODO). --->
 
-## Sign up for Fall 2026
+<!---## Sign up for Fall 2026
 
 **Sign up by Sept 8, 2026, COB (close of business) in your time zone via [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1hLmrrvajZb9yR8Vt8ngUPp4wdCeBeYjFBxb02OvX4nU/)**. We will confirm participation via email by Sept 10.
 
-Please indicate the Cohort date-times you are available. You can sign up individually or with a colleague or team (enter everyone's name on a separate line).
+Please indicate the Cohort date-times you are available. You can sign up individually or with a colleague or team (enter everyone's name on a separate line). --->
 
 ## What is the Champions Program?
 
@@ -57,11 +57,11 @@ Come join us and make progress on new tasks or big goals that can be hard to get
 
 - **Who:** Anyone interested in improving their data science workflows. FTEs and Affiliates from any Fisheries Science Center, Regional Office, or HQ Office are welcome to participate. This program is not only for scientists: admin, IT staff, and beyond are welcomed. We aim to remove barriers to outside collaboration. It is important that those who participate can do so in all or most sessions, and are energized to be interacting with like-minded individuals across NOAA Fisheries. Sign up to participate individually, with a colleague, or your team. *Note, FTEs please contact your supervisor for approval and Affiliates contact your COR and NMFS POC for approval. This program is designed to directly support your work and tasks by creating structure and support to help you achieve goals and tasks related to data modernization and workflow improvement.*
 
-## "Ask Us Anything" info sessions
+<!--- ## "Ask Us Anything" info sessions
 
 **Are you curious about participating in the Champions Program** and want to learn more? We give talks to many audiences and standing meetings (details in table below). Anyone is welcome to attend.
 
-**Are you a NMFS Openscapes Mentor or past Champion?** Consider giving a talk at your Center/Regional Office (talk/brown-bag, 5 mins at All Hands). Please add sessions to [Sign up sheet, 'Talks, AMA Schedule'](https://docs.google.com/spreadsheets/d/1hLmrrvajZb9yR8Vt8ngUPp4wdCeBeYjFBxb02OvX4nU/edit?gid=1423956583#gid=1423956583) tab and to the NMFS Open Science Google Calendar so others can find them. <!--- Here are [slides](https://docs.google.com/presentation/d/1SW_EBcxcD8ZHDXANucBcF-K5f-E1IR5OpVnWJmIAvHE/edit?slide=id.g3723cbac770_1_6#slide=id.g3723cbac770_1_6) introducing the Fall 2026 Champions Program with background information we can all use to present. --->
+**Are you a NMFS Openscapes Mentor or past Champion?** Consider giving a talk at your Center/Regional Office (talk/brown-bag, 5 mins at All Hands). Please add sessions to [Sign up sheet, 'Talks, AMA Schedule'](https://docs.google.com/spreadsheets/d/1hLmrrvajZb9yR8Vt8ngUPp4wdCeBeYjFBxb02OvX4nU/edit?gid=1423956583#gid=1423956583) tab and to the NMFS Open Science Google Calendar so others can find them. <!--- Here are [slides](https://docs.google.com/presentation/d/1SW_EBcxcD8ZHDXANucBcF-K5f-E1IR5OpVnWJmIAvHE/edit?slide=id.g3723cbac770_1_6#slide=id.g3723cbac770_1_6) introducing the Fall 2026 Champions Program with background information we can all use to present. 
 
 **Table.** Center / Office info sessions. To join an info session below, find Google Meet links in this [Sign up sheet, 'Talks, AMA Schedule'](https://docs.google.com/spreadsheets/d/1hLmrrvajZb9yR8Vt8ngUPp4wdCeBeYjFBxb02OvX4nU/edit?gid=1423956583#gid=1423956583) tab or in the NMFS Open Science Google Calendar.
 
@@ -82,6 +82,7 @@ Come join us and make progress on new tasks or big goals that can be hard to get
 | 2026-08-27 | 10:00am ET/7:00am PT | SEFSC | 5 min in SEFSC All Hands | Alex Moller | Alex Moller, Molly Stevens |
 | 2026-08-31 | 1:00pm HT/4:00 PT | PIFSC | 3 min in PIFSC All Hands | Amanda Bradford | Amanda Bradford or Marylou Staman |
 | 2026-08-31 | 2:00pm ET/11:00am PT | Anyone | AMA / 1 hr | Julie Lowndes, Jon Peake | Julie Lowndes, Jon Peake |
+--->
 
 ```{=html}
 <!--- ## Attend an "Ask Us Anything" info session
