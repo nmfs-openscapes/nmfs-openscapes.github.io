@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Gavin Fay, Andy Jones, Anna Holder, Julie Lowndes">
-<meta name="dcterms.date" content="2021-11-12">
+<meta name="author" content="Jordan S Read">
+<meta name="dcterms.date" content="2026-09-28">
 
-<title>Identifying common approaches and needs for fisheries dependent data – NMFS Openscapes</title>
+<title>Federal data science management – NMFS Openscapes</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -254,7 +254,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Identifying common approaches and needs for fisheries dependent data</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Federal data science management</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -438,11 +438,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#fdd-cohort-setup-and-structure" id="toc-fdd-cohort-setup-and-structure" class="nav-link active" data-scroll-target="#fdd-cohort-setup-and-structure">FDD cohort setup and structure</a></li>
-  <li><a href="#what-did-the-participants-achieve" id="toc-what-did-the-participants-achieve" class="nav-link" data-scroll-target="#what-did-the-participants-achieve">What did the participants achieve?</a></li>
-  <li><a href="#fdd-cohort-teams" id="toc-fdd-cohort-teams" class="nav-link" data-scroll-target="#fdd-cohort-teams">FDD Cohort teams</a></li>
+  <li><a href="#new-leaf" id="toc-new-leaf" class="nav-link active" data-scroll-target="#new-leaf">Turning over a new leaf</a></li>
+  <li><a href="#bloom" id="toc-bloom" class="nav-link" data-scroll-target="#bloom">Bloom where you’re planted</a></li>
+  <li><a href="#gardener" id="toc-gardener" class="nav-link" data-scroll-target="#gardener">Gardener’s wisdom</a></li>
+  <li><a href="#goodbye" id="toc-goodbye" class="nav-link" data-scroll-target="#goodbye">Farewell</a></li>
+  <li><a href="#note" id="toc-note" class="nav-link" data-scroll-target="#note">Note</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/nmfs-openscapes/nmfs-openscapes.github.io/edit/main/blog/2021-11-12-fdd-champions/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/nmfs-openscapes/nmfs-openscapes.github.io/blob/main/blog/2021-11-12-fdd-champions/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/nmfs-openscapes/nmfs-openscapes.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/nmfs-openscapes/nmfs-openscapes.github.io/edit/main/blog/2026-09-16-federal_data_science_management/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/nmfs-openscapes/nmfs-openscapes.github.io/blob/main/blog/2026-09-16-federal_data_science_management/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/nmfs-openscapes/nmfs-openscapes.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -450,11 +452,10 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Identifying common approaches and needs for fisheries dependent data</h1>
+<h1 class="title">Federal data science management</h1>
   <div class="quarto-categories">
     <div class="quarto-category">blog</div>
-    <div class="quarto-category">champions</div>
-    <div class="quarto-category">noaa-fisheries</div>
+    <div class="quarto-category">how-we-work</div>
   </div>
   </div>
 
@@ -465,14 +466,14 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>Gavin Fay, Andy Jones, Anna Holder, Julie Lowndes </p>
+             <p>Jordan S Read <a href="https://orcid.org/0000-0002-3888-6631" class="quarto-title-author-orcid" aria-label="ORCID profile for Jordan S Read"> <img alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
           </div>
   </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">November 12, 2021</p>
+      <p class="date">September 28, 2026</p>
     </div>
   </div>
   
@@ -484,57 +485,185 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><em>In September-October, Openscapes led a 2-month Champions Cohort with Fisheries Dependent Data (FDD) Users, with over 30 fisheries scientists across academia and NOAA. These scientists were interested in exploring new approaches to working with FDD, which represents a complex mix of data and information collected to facilitate managing the region’s living marine resources. In the US Northeast, data flow from individual businesses and/or scientific samplers to the region’s scientific and management organizations. This web of data and information can be difficult to access as much of the content is confidential in its raw form. Further, many of the codes and systems used to store these data can be poorly documented, and even routine analyses are not commonly shared among data users. The FDD Openscapes Cohort was interested in learning ways to explore the potential to leverage FDD in new and innovative ways. It was part of ongoing efforts to provide access, documentation, and cultivate a community of practice that focuses on using these data and associated resources to their full potential.</em></p>
-<p><em>This post focuses on what the cohort setup and participants achieved. It is co-authored with Gavin Fay (UMass Dartmouth) and Andy Jones (NEFSC), who coordinated the cohort, and Anna Holder from California Waterboards, who assisted. This opportunity is funded through NOAA Fisheries Northeast Fisheries Science Center (<a href="https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center">NEFSC</a>) and a grant from the<a href="https://www.fisheries.noaa.gov/national/commercial-fishing/fisheries-information-system-program">Fisheries Information System Program</a> through an award to<a href="https://www.umassd.edu/smast/">UMass Dartmouth-SMAST</a> through<a href="http://www.cinar.org/">CINAR</a>. See <a href="https://openscapes.org/champions">openscapes.org/champions</a> for more background on the Champions program.</em></p>
-<p><em>Quick links:</em></p>
-<ul>
-<li><em><a href="https://openscapes.github.io/2021-fdd/">https://openscapes.github.io/2021-fdd</a> - Cohort webpage</em></li>
-</ul>
+<p><em>I wrote this in December 2022, in my last weeks at the U.S. Geological Survey after ten years there, most of them spent building the water data science capability that became a branch in the Water Mission Area. It was written for whoever took the job next, and for anyone else trying to grow a technical team inside a large federal organization.</em></p>
+<p><em>I’m now CEO of CUAHSI, a university consortium that supports water science with shared data infrastructure, training, and convening. Different setting, but I’m still focused on creating the conditions for other people to do great water science work together.</em></p>
+<p><em>A few notes for 2026: The post describes the branch as existed in 2022, and a lot has changed at USGS since, so read it as a record rather than a current description. Some of the links point to pages that have moved or been retired, and I’ve noted those where they appear. The shared values in Box 1 were written by the whole group back in 2022 and are still useful to look back on.</em></p>
+<p><em>Cross-posted at <a href="https://nasa-openscapes.github.io/news.html">nasa-openscapes.github.io/news</a>, <a href="https://nmfs-openscapes.github.io/blog.html">nmfs-openscapes.github.io/blog</a> and <a href="https://openscapes.org/blog">openscapes.org/blog</a>.</em></p>
 <hr>
-<section id="fdd-cohort-setup-and-structure" class="level2">
-<h2 class="anchored" data-anchor-id="fdd-cohort-setup-and-structure">FDD cohort setup and structure</h2>
-<p>We worked with Gavin Fay in 2020 when his team were Champions in the NOAA Northeast Fisheries Science Center (<a href="https://openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/">NEFSC</a>) Cohort, and the Fay Lab has since <a href="https://openscapes.org/blog/2020-03-31-fay-lab-experience">shared their experience</a>, created the inspirational (and oft borrowed and remixed) <a href="https://thefaylab.github.io/lab-manual/">FayLab Manual</a> while <a href="https://twitter.com/gavin_fay/status/1349816037366243342">practicing and teaching open data science</a>. Gavin and Andy brought together research teams from academia and the National Oceanic and Atmospheric Administration (NOAA) National Marine Fisheries Service (NMFS) in the US Northeast to participate in the FDD Cohort. We iterated the Champions program based on what we learned from leading three cohorts in the spring, as we described in a separate post about <a href="https://www.openscapes.org/blog/2021/11/03/champions-fall-cohorts-2021/">Fall Cohorts</a>. This was an exciting opportunity to host a cohort that were all focused on similar data and research questions.</p>
-<p>During our four cohort calls, the entire cohort discussed what worked and didn’t work for their FDD workflows. Each cohort call included a welcome and code of conduct reminder, two teaching sessions with time for reflection in small groups or silent journaling and group discussion before closing with suggestions for team meeting topics before next time (“Seaside Chats”), Efficiency Tips.</p>
-<p>Two guest teachers shared about their open data science efforts relevant for FDD audiences. <a href="https://www.fisheries.noaa.gov/contact/kimberly-bastille">Kim Bastille</a> (NOAA NEFSC) shared about the <a href="https://noaa-edab.github.io/presentations/20211015_Openscapes_Bastille.html#1">State of the Ecosystem Product Development Workflow</a>, and described an R package called <code>ecodata</code> that her team created that automates data processing, data sharing, data visualization. <a href="https://twitter.com/_ileanaf">Ileana Fenwick</a> (University of North Carolina) taught <a href="https://docs.google.com/presentation/d/1rv-JfJeuYhogxV6Dpn_hNDm09nfKnOMtmZpgcciI_98/edit?usp=sharing">Data strategies for Future Us</a>, describing data organization in spreadsheets, good enough practices for data management, and tidy data. Both Kim and Ileana are Champions from previous Champions Cohorts (Kim from 2020 <a href="https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/">NEFSC Cohort</a> and Ileana from the 2021 <a href="https://www.openscapes.org/blog/2021/07/13/css-cohort/">CS&amp;S Cohort</a>), and it was exciting for them to share not only their expertise through their lessons, but also their experiences learning these tools and workflows with their teams, and what they had done since their Openscapes Cohorts.</p>
-<br>
-<center>
-<img src="bastille-soe-apple-tree.jpg" width="500px">
-<figcaption>
-The <a href="https://noaa-edab.github.io/presentations/20211015_Openscapes_Bastille.html#1">State of the Ecosystem workflow tree</a>, by Kim Bastille. Kim shared the metaphor of an apple tree when describing their workflow (roots are contributor data, the tree trunk is their <code>ecodata</code> R package, and the branches, leaves, and apples are the final products. Although final products (apples) may be varied, the workflows stay the same.
-</figcaption>
-</center>
-<p><br></p>
+<section id="new-leaf" class="level2">
+<h2 class="anchored" data-anchor-id="new-leaf">Turning over a new leaf</h2>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./banner.png" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="An image of an imaginary dandelion-like plant spreading it's seeds of knowledge out with a lone oak seedling growing determinately up from the ground."></p>
+</figure>
+</div>
+</div>
+<p><em>Every oak tree started out as a couple of nuts who stood their ground.</em> <em>– Henry David Thoreau</em></p>
+<p>Thanks to <a href="https://www.usgs.gov/staff-profiles/althea-a-archer">Althea</a> for helping put together this post! Credit to her for coming up with framework for the post and providing editorial guidance, and for her and <a href="https://www.usgs.gov/staff-profiles/cee-nell">Cee</a> for designing all of the images that appear here.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./Jordan_Read.png" class="img-fluid figure-img" style="width:40.0%" alt="An image of Jordan S Read smiling at the camera."></p>
+<figcaption>Hi, I’m Jordan Read (he/him). After ten years with USGS, I’m moving on to a position outside of government. I remain passionate about community building in the water sciences.</figcaption>
+</figure>
+</div>
+</div>
+<hr>
+<p>I can’t imagine a more satisfying end to my decade of federal service, most of which I spent growing data science capabilities. I’ve been a major part of bringing dozens of incredibly talented people into the federal workforce. I worked hard to established a water data science capability that is in high demand and has inspired the career choices of many. This progress was realized over many years. In 2012~2013, our first few data scientists joined what at the time was a software development and analytics team, and we won proposals and data-intensive project work to grow and hire staff that each brought new ideas and contributions to our collective vision for data science. We created a proposal to formalize our ad hoc group as a data science team in 2015 and our goals were to: 1) provide leadership for the emerging water data science community, 2) enhance the relevance and usability of water data and water analysis/modeling software, and 3) expand the community of practicing water data scientists. As I was organizing files to get ready for my departure, I ran across the proposal that contained these elements and it was neat to see our foresight at the time and our follow through in the years after. As of last year, we’d brought our water data science practice to a level that met these goals (read more about that <a href="https://waterdata.usgs.gov/blog/water-data-science-2022/">here</a>; see Figure 1).</p>
+<p>I was the supervisory data science team lead that helped us take root in 2015 and then I became the data science branch chief in March of 2017 when the team was elevated into a formal branch in the USGS water mission area. The job of federal data science manager has been rewarding and exhausting. There were never enough hours in the day to keep up with the endless excitement as the data science discipline expanded and inadequate structures to handle our team’s growth. I had a strong allegiance to staff and our shared mission, while working hard to lead change in a place that is notoriously high inertia (the federal government). I was at my best when I focused on cultivating the ideal conditions for others to flourish. Looking back now, I am deeply proud of where we are and the role I played in our accomplishments.</p>
+<p>I learned a lot in my management roles and hope that others will benefit from hearing about the journey. Data science management is common enough now that you can read about it in various places, but the federal data science perspective is harder to find and I hope to contribute by filling in some information gaps that may be of use to my replacement or others considering similar roles.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./sprinkler_DS.png" class="img-fluid figure-img" style="width:60.0%" alt="Image with a large tub collecting data rain that then travels down tubes until it is released on to plants as an irrigating mist. The rain falls on a colletion of flowers and fruit. Intermixed are some pollinating butterflies."></p>
+<figcaption><strong>Figure 1</strong>: The Data Science branch approach to data assembly, analysis, and dissemination. Data pipelines combine wizardry and utility. Models bear fruit for decisions. Visualizations attract new audiences who learn, then become pollinators. (credit for original image to C Nell, updated version A Archer)</figcaption>
+</figure>
+</div>
+</div>
 </section>
-<section id="what-did-the-participants-achieve" class="level2">
-<h2 class="anchored" data-anchor-id="what-did-the-participants-achieve">What did the participants achieve?</h2>
-<p>This was an exciting cohort because participants were focused on a common topic: research using FDD data. We had both data users (largely academic) and data providers (NOAA Northeast Fisheries Science Center) in the Cohort, and they were able to share common issues and approaches that could benefit others in the group. Many topics/themes that resonated with the 2021 FDD Cohort overlapped and reinforced each other. Here are a few examples.</p>
-<p><strong>Sharing data isn’t the only way to practice open science.</strong> Many aspects of FDD can be confidential, meaning that it cannot be shared publicly or has special considerations for sharing. We discussed how there are ways to be open and collaborative even if you can’t share the data itself. For example, sharing documentation and metadata is a way to be open and collaborative, even if you cannot share the data. Making knitted (RMarkdown) documents that show data summaries even when raw data can’t be accessed is another strategy. Another approach is to provide a “toy” or simulated dataset with all the right fields so that code can be developed, then shared with a partner who has access to the confidential data and can run the code on their own. Further, location data can be jittered, vessel IDs can be anonymized, and data can be collapsed or summarized in a way to protect the confidential aspects of the dataset before sharing it broadly. We also discussed different definitions and examples of confidential data, and how folks treat it differently within an agency, and outwardly for users. Do we all agree on what confidential data actually is? Does everyone know how to handle confidential data properly?</p>
-<p><strong>Psychological safety.</strong> When we discussed the importance of psychological safety, participants had great ideas for how to help foster more trust and safety in teams. For example, instead of “do you have any questions?” asking “what questions do you have?”, and creating spaces where individuals can be vulnerable to role model and encourage group vulnerability and trust. The cohort emphasized and reiterated that building trust and vulnerability takes time; it is built/earned through little moments and actions, not given outright - and it’s important for those that hold power (PIs, supervisors, managers, etc.) to lead by example and make space for those little moments within their teams. Others noted how important psychological safety was in this area where often data sets are not well documented and communication is essential to the proper use of the data.</p>
-<p><strong>Tooling helped teams collaborate - but Github and Slack are not the only options!</strong> Utilizing tools like Slack and GitHub can help some teams streamline and advance their communication and collaboration workflows, but that doesn’t mean those specific tools will work for everyone. Some individuals and teams in the FDD Cohort were already avid R/GitHub users, others were interested in using those tools more (GitHub Projects, and Issues, anyone?), and some individuals were not as keen on embedding a whole new software like GitHub or Slack into their workflows. Regardless of any individual’s interest or current abilities with a certain tool, everyone was able to use the Openscapes mindset to think about tools and workflows they currently use, explore how they are serving their teams (or not), and brainstorm ways to improve their data and communication workflows independent of any specific tool. Some teams in the FDD cohort regularly work with partners that may not have access to such tools, or even have access to the Internet. Teams began to discuss what to do in those situations and used their Seaside Chats to brainstorm and find solutions that work for them.</p>
-<p><strong>Code of Conduct for Data?</strong> In our final session one group shared that with their Pathway they had thought a lot about codes of conduct, and how they could be used to be more clear about how to work with data, data access, and acknowledging contributors across multiple institutions. Other groups agreed, thinking that this could be another form of metadata that would be very helpful to refer to before, during, and after the project. It could also help streamline onboarding of team members as they enter projects, and offboarding team members before they move on. The question of “Who owns the data?”, from principles of anti-colonial science, was an important framing, and folks recommended viewing the recording of <a href="https://www.youtube.com/watch?v=2bJIWWbdhLk">Dr.&nbsp;Max Liboiron’s recent keynote</a> about research, communication, and land relations.</p>
-<p>Codes of conduct and other types of transparent documentation are important for external partners or the public - just as they are for future us as individuals, as teams, and as organizations. Developing codes of conduct resonated with the FDD cohort because they could be used as a way to be explicit about team or organization’s values (like psychological safety) and standardize a way to document the metadata associated with how we work (where to find data, how to organize and use it, what can be shared, what should remain confidential, etc.)</p>
-<p>We loved working and learning with this cohort of fisheries scientists and exploring the challenges they face. The following is a bit more about each team; look out for further blogs about what the Openscapes team learned and what’s coming next.</p>
+<section id="bloom" class="level2">
+<h2 class="anchored" data-anchor-id="bloom">Bloom where you’re planted</h2>
+<p>I’d imagine some significant differences exist between growing data science at a start-up vs in the largest bureaucracy on earth, the US federal government. The federal identity shapes so much of what we have authority and responsibility to do that it might help to consider it as a climate zone – you wouldn’t expect drought-adapted plants to flourish in a rain forest and you shouldn’t be surprised when an otherwise amazing idea dies on the vine because it was outside of scope of your federal agency.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./fence_DS.png" class="img-fluid figure-img" style="width:50.0%" alt="An image that shows a watermelon-like fruit vine climbing a chainlink fence."></p>
+<figcaption><strong>Figure 2</strong>: Contraints, much like a chainlink fence, can be leveraged into strengths and support.</figcaption>
+</figure>
+</div>
+</div>
+<p>Constraints can be flipped into identity-defining values that staff embrace and embody. Align the work and the people with the climate zone you are operating in, add a few of the right seed projects, align appropriate staff, and soon you can cultivate something that can be sustained. The federal constraints can be messaged as restrictive or burdensome, or alternatively, can help form a niche that makes it easier for all of you to define what you do, why you do it, and where you’ll take it next. As illustrated above (Figure 2), a fence could isolate (negative) or provide a critical substrate for growth (positive).</p>
+<p><em>Aside: The positive spin is also critical because negative messaging from leadership builds up over time and can lead to negative group-think that skewers each new interesting idea with all of the ways it could fail.</em></p>
+<p>I’ve got a few of these positive constraint examples below based on my experience in the U.S. Geological Survey, but I’m sure there are many parallels elsewhere:</p>
+<section id="public-service-motivates-leadership-in-open-science" class="level4">
+<h4 class="anchored" data-anchor-id="public-service-motivates-leadership-in-open-science">Public service motivates leadership in open science</h4>
+<p>In federal service, we aim to provide value to the nation. This is an exciting and motivating concept at the USGS because when we share data or code, in most cases we need to share it with all. In the data science branch, we’ve taken this on as a charge to provide more leadership in open science. USGS researchers already need to provide the data behind federally funded science, but many of our staff are motivated to take that much further, providing data, code, preprint publications, data visualizations, and how-to tutorials as part of releasing new content. Instead of protecting the intellectual property (IP) of our ideas or methods, our aim is to share IP publicly and support others to learn or build on it.</p>
 </section>
-<section id="fdd-cohort-teams" class="level2">
-<h2 class="anchored" data-anchor-id="fdd-cohort-teams">FDD Cohort teams</h2>
-<p><strong><a href="https://www.umassd.edu/directory/scadrin/">The Cadrin team</a></strong> at University of Massachusetts Dartmouth is a collaboration among academic, federal and state scientists as well as people in the groundfish fishing industry to develop standardized indices of groundfish stock abundance by managing and analyzing fishery monitoring data. There are several data streams and alternative modeling approaches that would benefit from the Openscapes program for efficiency, transparency and reproducibility to produce the best scientific information available to assess and manage fisheries.</p>
-<p><strong><a href="http://ahumphrieslab.com">The Humphries team</a></strong> at the University of Rhode Island uses a combination of field experiments, underwater surveys, and interviews to study fish and fisheries. Their goal is to link ecological interactions with social dynamics in order to evaluate and prioritize management solutions.</p>
-<p><strong><a href="https://github.com/khyde">The Hyde team</a></strong> has multiple members from NEFSC, GARFO, academia and industry. Currently all work is being done by individuals, but they are hoping Openscapes will help them improve collaboration and make their work more transparent for the public.</p>
-<p><strong><a href="https://www.gmri.org/our-approach/staff/kathy-mills/">The Mills team</a></strong> is leading novel research projects that strive to develop models to meet the complex challenges facing marine ecosystems, fisheries, and coastal communities. They are continually working to improve our quantitative capabilities by including more spatial and temporal data at finer resolutions, combining quantitative and qualitative information to make the best use of available data, and developing more sophisticated modeling frameworks that can accommodate complex data, such as fisheries dependent data. We hope that the skills we learn will advance our abilities such that our questions, and in turn the impact of our findings, are not constrained by technological limitations.</p>
-<p><strong><a href="http://rebeccaselden.weebly.com/">The Selden team</a></strong> is composed of members from diverse backgrounds, including graduate students, professors, and individuals who work at non-profits. They have research backgrounds in geography, ecology, and oceanography and have mastered how to talk across these disciplines, and are now analyzing how fishing communities have responded to past, and present distribution shifts of target species and creating an index of vulnerability to future climate change.</p>
-<p><strong><a href="https://joshua-stoll.com/">The Stoll team</a></strong> is interested in the human dimensions of fisheries and ocean systems and how policies and practices shape people’s interactions with the marine environment. This focus means that they tend to engage with FDD in unconventional ways that both present challenges and also create opportunities to further our knowledge about fisheries and the people who depend on them for food and livelihood. The goal of participating in the Champions cohort is to both improve our research skills and (long-term) to help institutionalize open data science.</p>
-<p><strong><a href="http://www.smast.umassd.edu/lab_fay/">The Fay team</a></strong> focuses on developing interdisciplinary modelling approaches to extend the scope of applications for fisheries and ecosystem assessment methods, and testing the performance of decision support tools for living marine resource management. They apply a range of statistical and modelling approaches for the assessment and management of fish, marine mammal, and marine reptile populations, and actively collaborate with academic and agency scientists in the Northeast US, US West Coast, Australia, and Europe.</p>
-<p><strong><a href="https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center">The Jones/NEFSC team</a></strong> in part collects FDD in collaboration with the fishing industry, which can be underutilized, in part due to the complex nature and challenges creating reproducible research products. They are interested in strengthening open science approaches to increase the value of these data by opening the door to new users who have previously been unable to use the data sets due to their complex nature.</p>
-<br> <img src="bastille-soe-apple-tree-square.jpg" width="500px">
-<figcaption>
-The SOE apple tree presented by Kim Bastille.
-</figcaption>
-<p><br></p>
+<section id="employee-retention-leads-us-to-remote-first-work-culture" class="level4">
+<h4 class="anchored" data-anchor-id="employee-retention-leads-us-to-remote-first-work-culture">Employee retention leads us to remote-first work culture</h4>
+<p>Our original data science team was formed in Madison, WI and all employees worked together in the same building. In 2016-2017, three employees relocated, and I retained them by modifying their work agreements (in fed-speak, this was done by changing the employee’s “duty station”). After these moves, we had shifted into the dreaded hybrid remote/in-person work zone. In hindsight, I was embarrassingly behind at managing this transition effectively, relying on extra effort from the remote staff to stay connected and retaining most of our practices. At about the same time, the negative impact of my Madison-only hiring practices on reaching more diverse applicants became clear. The in-person model wasn’t cutting it and I shifted my thinking around to down-weight in-person work and socialization in favor of better recruiting potential. Cue COVID-19 and suddenly we were 100% remote (or in truth, many of us 100% teleworking from home) and my hiring approach became remote-first with a negotiable location anywhere within the US. Like many others, we had to embrace being fully remote. But we all wanted to make this experience great and worked together to make major positive changes. I’m really proud that we embraced this work posture early; we’ve now had a lot of time to refine and build new processes. Our constraints for how colleagues would work together evolved into a vibrant distributed workforce that maintains long distance friendships and carries out highly effective collaborations.</p>
+</section>
+<section id="hiring-challenges-become-recruiting-strengths" class="level4">
+<h4 class="anchored" data-anchor-id="hiring-challenges-become-recruiting-strengths">Hiring challenges become recruiting strengths</h4>
+<p>The intersection of many different policies and requirements contributes to the impression that federal hiring is very hard. Federal employees also have protections from being removed without clear and documented cause. Together, these two things mean federal employees may have higher inertia when compared with other employment pathways - harder to get in the door and harder to be shown the door back out. Since the success of our efforts depends on our ability to attract and hire people to do data science work, getting hiring right had to be a priority. We completely reimagined hiring and what we came up with blossomed into a bit of a model for other parts of the organization (see blog on <em>data sci/ML hiring</em> and <em>viz hiring</em>) (<em>These blog posts are no longer available</em>) efforts are covered in other blogs, I won’t say much more about it. But it is neat to reflect that we took something that many federal managers view as the low point of their work (navigating the hiring processes) and turned it into something we excel at, provide leadership for, and have wide ownership of across existing staff.</p>
+<p><em>Aside: Federal jobs are great and the benefits are super competitive. But in fast growing data/tech positions, we’re often recruiting candidates that have the potential to earn more elsewhere. To stay competitive, I have found that sharing our branch’s values (see Box 1 below) and workplace culture loudly and proudly have helped our hiring process become more inclusive and more compelling.</em></p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./values.png" class="img-fluid figure-img" style="width:60.0%" alt="A list of our 8 shared values. They include: 1. We respect and welcome each of us bringing ourselves to the job, 2. We value medium/long-term kindness over being short-term nice, 3. We are creative and we take risks, 4. We continue learning, 5. We rest and recharge; being exhausted is not a badge of honor, 6. We work to build and maintain trust, 7. We test assumptions; we ask questions, 8. We focus deeply on a smaller number of capabilities."></p>
+<figcaption><strong>Box 1</strong>: Our shared values within the Data Science Branch.</figcaption>
+</figure>
+</div>
+</div>
+</section>
+</section>
+<section id="gardener" class="level2">
+<h2 class="anchored" data-anchor-id="gardener">Gardener’s wisdom</h2>
+<p>My approach to managing data scientists evolved a lot over the ten-year period (2012-2022) that included generating the vision, formalizing the team, and later formalizing the data science branch. I have boiled key parts of this approach down to a list that could be useful for others, perhaps as idea seeds for current or future data science managers in government (Figure 3). Each of these concepts proved fruitful for our data science group and I think they are generally useful for others entering into this line of work.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./thumbnail.png" class="img-fluid figure-img" style="width:60.0%" alt="An illustration of dandelion seeds blowing in the wind from left to right. Bottom of image is wild green grass."></p>
+<figcaption><strong>Figure 3</strong>: My hope with this blog is that my perspective and approach can be helpful seeds for the federal data science managers or others in similar supervisory roles.</figcaption>
+</figure>
+</div>
+</div>
+<section id="authentic" class="level4">
+<h4 class="anchored" data-anchor-id="authentic">Build authentic relationships with the staff that you represent</h4>
+<ul>
+<li><strong><em>Justification:</em></strong> Developing empathy for staff you represent is a critical component to effective supervision. The benefits of putting in the work to build these connections are staggering and some are obvious, including staff feeling welcome to be themselves or having more honest conversations about skill-building needs.</li>
+<li><strong><em>Considerations:</em></strong> Supervisors often focus on the business aspects of staff relationships and avoid making social connections during one-on-one meetings. But building relationships and working to create a real empathetic connection to each employee can lead to more inclusive and effective decisions because the impacts of the outcome on each employee is implicitly considered. Doing this work requires bandwidth and can be emotionally taxing, but avoidance may negatively affect performance, morale, and retention of the team.</li>
+<li><strong><em>Example:</em></strong> I worked on building authentic relationships with staff more purposefully beginning in 2019 and I’m glad I had a head start prior to COVID-19 because of how critical it was to have empathy for each employee and what they were going through. By the time our 2021 cluster hire effort began, I had upskilled this managerial capability and approached hiring decisions by incorporating team complementarity, which means I took into account collaborative competencies and likelihood of effective team contributions as opposed to assessing candidate technical strengths in isolation. I’m deeply proud of those hiring selections and how effectively the staff work together and support each other today.</li>
+</ul>
+</section>
+<section id="experiment" class="level4">
+<h4 class="anchored" data-anchor-id="experiment">Support experimentation outside of the primary work</h4>
+<ul>
+<li><strong><em>Justification:</em></strong> Small investments can be used to test the viability of new areas of work, including assessing staff alignment/excitement and potential complement to other work. Some level of experimentation is necessary to avoid stagnation.</li>
+<li><strong><em>Considerations:</em></strong> Managers will need to make clear business arguments for why funding for this type of experimental work is necessary. It is important to place practical constraints on experimentation and continue delivering value in the core competencies. Too much exploration will likely lead to a poor reputation from failing to deliver on time. Too little exploration (too much oversight on each employee’s time investments) could lead to less confidence in making smaller research leaps within the normal levels of uncertainty found in data science work.</li>
+<li><strong><em>Example:</em></strong> Our highly successful <em>Vizlab capability</em> (<em>This blogpost is no longer available</em>) was created after we led a two-day hackathon for staff in 2014 and produced a <a href="https://labs.waterdata.usgs.gov/visualizations/ca_drought/index.html">drought visualization</a> that was retweeted by John Podesta, who was a Senior Advisor to the White House at the time. This initial experimentation and success allowed us to expand formally into this area, including by leading a larger <a href="https://labs.waterdata.usgs.gov/visualizations/OWDI-drought/en/index.html">cross-agency data viz</a> the following year.</li>
+</ul>
+</section>
+<section id="subtraction" class="level4">
+<h4 class="anchored" data-anchor-id="subtraction">Think <em>subtraction</em> first when managing workload volume and variety</h4>
+<ul>
+<li><strong><em>Justification:</em></strong> Simple workload management math means that absent a coincident increase in capacity (e.g., through hiring), new work requires decreased effort elsewhere.</li>
+<li><strong><em>Considerations:</em></strong> Many things contribute to workload, such as timesheets, meeting attendance, travel forms, and other elements of the job. Improving the efficiency of processes for tasks outside of the core job can unlock capacity via subtraction and create space for higher quality work. It can be hard to say no to new interesting work or reducing expectations of senior leaders above the group for a reasonable volume and type of work. A data science manager who fails to take this seriously may inadvertently leave the team with little time left for experimentation.</li>
+<li><strong><em>Example:</em></strong> Our division has created “do not schedule” calendar blocks for deep work focus time every Wednesday afternoon and Friday morning. Additionally, we devote a full week every two months to focus topics, usually deep work requiring high levels of concentration or close collaboration. We subtract the obligation for standing meetings during these times.</li>
+</ul>
+</section>
+<section id="career-paths" class="level4">
+<h4 class="anchored" data-anchor-id="career-paths">Keep pace with staff and shifts in work by constantly refreshing career paths</h4>
+<ul>
+<li><strong><em>Justification:</em></strong> Retaining high-performing employees can be challenging if there is not a pathway to leadership and/or promotion. Excellent staff can be underutilized if their capacity for work or roles with great responsibility or complexity is unmet.</li>
+<li><strong><em>Considerations:</em></strong> Creating new pathways for promotion is challenging to do within the constraints of the federal government. It is advisable to begin efforts for position creation years before they are necessary. Aligning the appropriate salary (or “grade” in our USGS federal position) with the influence, complexity, responsibility, and uncertainty of current or future technical work needs to be addressed within the official process of position classification.</li>
+<li><strong><em>Example:</em></strong> We were able to create “senior data scientist” positions that are higher graded and have a general position description, allowing their use for multiple employees doing different types of specialty work. We also created new team lead supervisors that are higher graded (read more about those positions <em>here</em> (<em>This blogpost is no longer available</em>). Each of these required a 2+ year effort to establish.</li>
+</ul>
+</section>
+<section id="scope" class="level4">
+<h4 class="anchored" data-anchor-id="scope">Craft an identity and scope that is narrow enough for excellence but wide enough to sustain work and funding</h4>
+<ul>
+<li><strong><em>Justification:</em></strong> For any tech-aligned group, defining and communicating strategically scoped capabilities is critical for: securing organizational support to operate, managing expectations of collaborators/clients, efficient communication, staff mission alignment, and staff morale.</li>
+<li><strong><em>Considerations:</em></strong> Data science is too broad for comprehensive expertise, so managers need to focus the group on a subset of the discipline that matches the business/research needs of the organization and is tractable with the current group’s size. The data science manager needs to hold the line to keep work outside of this scope from landing with the team while also normalizing the revaluation of what’s in/out at an appropriate cadence.</li>
+<li><strong><em>Example:</em></strong> The landscape of machine learning was too wide for us to establish real expertise without a focus area. Our team built new collaborations to integrate existing water knowledge into machine learning approaches beginning in 2017. <a href="https://waterdata.usgs.gov/blog/water-data-science-2021/#pgdl">Knowledge-Guided Machine Learning</a> became an area that our branch excelled at and this success attracted numerous people into environmental data science careers.</li>
+</ul>
+</section>
+<section id="change-ID" class="level4">
+<h4 class="anchored" data-anchor-id="change-ID">Changes in identity should be approached with extreme care</h4>
+<ul>
+<li><strong><em>Justification:</em></strong> Rapid changes to the offerings of your group can trigger staff loss (when scope shrinks) or reputation hits when you fail to deliver value with new capabilities (when scope increases).</li>
+<li><strong><em>Considerations:</em></strong> If operating in a complex government org you may alienate potential customers/collaborators by changing too quickly – by the time other parts of the organization really get a handle on what your offerings are, those things have changed. A group that changes too slowly is irrelevant.</li>
+<li><strong><em>Example:</em></strong> In 2017 we de-scoped our general capability in R package development but were able to line up <a href="https://www.usgs.gov/staff-profiles/laura-decicco">Laura</a> (our main R package developer) with another place in the organization where the work could continue to flourish. In 2019, we took something we’d been doing for years – building reproducible data pipelines – and named it as a specialization within the group (e.g., Data Assembly in Figure 4), allowing staff to align and take pride in an important component of data science work (see Figure 4 for the other moderate changes we embraced between 2015 and 2022).</li>
+</ul>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./changingCapabilities.png" class="img-fluid figure-img" style="width:60.0%" alt="A Sankey diagram that shows changes of state from 2015 to 2022. On the left are four boxes labeled research, tools, training, and visualizations. On the right (2022) are four boxes labeled data assembly, modeling, visualizations, and analytics. In the middle are boxes labeled Elsewhere at USGS and New capabilities. Flows connect the various boxes, representing the ways in which the Data Science Branch has changed through time."></p>
+<figcaption><strong>Figure 4</strong>: Between 2015 to 2022, the combination of data-driven research and tools became <em>data assembly</em> (aligned with data/code/model/visualization pipelining) and modeling, data visualizations stayed put, the major aspects of training were integrated into data assembly, and we created new space for analytics. Read more about these four capabilities <a href="https://waterdata.usgs.gov/blog/water-data-science-2022/">here</a>.</figcaption>
+</figure>
+</div>
+</div>
+</section>
+<section id="distribute-ownership-of-culture-and-vision-to-the-team" class="level4">
+<h4 class="anchored" data-anchor-id="distribute-ownership-of-culture-and-vision-to-the-team">Distribute ownership of culture and vision to the team</h4>
+<ul>
+<li><strong><em>Justification:</em></strong> Upholding and practicing cultural values is more sustainable when its upkeep and refinement is distributed among those most impacted. The same applies to the scope and vision of the team.</li>
+<li><strong><em>Considerations:</em></strong> Change in culture or capabilities in the federal government can be short lived if a single person is responsible for moving things forward. Creating lasting change requires redundancy in leadership and collective efforts by many that are motivated by shared goals. Also, because change in the federal government is often slow, managers pushing for change can experience significant self doubt over the years as progress can fail to materialize in the short-term. I’d recommend you go there as a team.</li>
+<li><strong><em>Example:</em></strong> New hiring efforts have distributed leadership within our data science branch and the larger division we operate in. Several staff have led these efforts (<a href="https://www.usgs.gov/staff-profiles/cee-nell">Cee</a> and <em>Julie P</em> for example) (<em>This webpage is no longer available</em>). and we co-developed the original approaches with other data-intensive managers (<a href="https://www.usgs.gov/staff-profiles/emily-k-read">Emily</a> and <a href="https://www.usgs.gov/staff-profiles/julie-e-kiang">Julie K</a>) and data science staff. As a result, these practices are now considered a new norm for general UGSS Water Mission Area hiring, giving an effort with widely shared ownership an influence and impact well beyond our immediate teams.</li>
+</ul>
+</section>
+<section id="own-change" class="level4">
+<h4 class="anchored" data-anchor-id="own-change">Take responsibility for project changes publicly and/or in writing</h4>
+<ul>
+<li><strong><em>Justification:</em></strong> The vast majority of data science work is complex with many unknowns, resulting in error-prone estimates of timelines for key project milestones. Staff can internalize the stress from an implied pressure to deliver on “all the things” regardless of whether timelines are realistic.</li>
+<li><strong><em>Considerations:</em></strong> Management failures happen when the project work changes (usually by expanding) but the change isn’t acknowledged. Repeating this pattern will lead to burn-out or resentment as a result of unrealistic workloads. Consider writing to the team, a la “We discovered our planned approach isn’t going to scale with the needs of this project, so we’re going to dial back on the other deliverables to make room for solving this problem” and be explicit by saying exactly which deliverables are getting tabled and what the budget and timeline changes will be.</li>
+<li><strong><em>Example:</em></strong> <a href="https://www.usgs.gov/staff-profiles/alison-appling">Alison</a> and <a href="https://www.usgs.gov/staff-profiles/lindsay-rc-platt">Lindsay</a> were quick studies on <a href="https://d3js.org/">D3.js</a> when we were working on a <a href="https://labs.waterdata.usgs.gov/visualizations/water-use-15/index.html">county-specific visualization of water use in the US</a>. They proposed a much more intuitive zoom functionality that drastically improved the usability of the viz.&nbsp;We needed to make space for the implementation and shifted our project deadline accordingly.</li>
+</ul>
+</section>
+</section>
+<section id="goodbye" class="level2">
+<h2 class="anchored" data-anchor-id="goodbye">Farewell</h2>
+<p>It has been extremely satisfying to see the joy and pride our group has had in our work. Thank you to everyone who took a leap and joined our group over the years and to the countless others that we’ve learned from. Remember to have fun along the way.</p>
+</section>
+<section id="note" class="level2">
+<h2 class="anchored" data-anchor-id="note">Note</h2>
+<p><em>Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.</em></p>
 
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{s_read2026,
+  author = {S Read, Jordan},
+  title = {Federal Data Science Management},
+  date = {2026-09-28},
+  url = {https://openscapes.org/blog/2026-09-16-federal_data_science_management},
+  langid = {en}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-s_read2026" class="csl-entry quarto-appendix-citeas" role="listitem">
+S Read, Jordan. 2026. <span>“Federal Data Science Management.”</span>
+September 28. <a href="https://openscapes.org/blog/2026-09-16-federal_data_science_management">https://openscapes.org/blog/2026-09-16-federal_data_science_management</a>.
+</div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
@@ -956,7 +1085,7 @@ The SOE apple tree presented by Kim Bastille.
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/nmfs-openscapes/nmfs-openscapes.github.io/edit/main/blog/2021-11-12-fdd-champions/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/nmfs-openscapes/nmfs-openscapes.github.io/blob/main/blog/2021-11-12-fdd-champions/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/nmfs-openscapes/nmfs-openscapes.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/nmfs-openscapes/nmfs-openscapes.github.io/edit/main/blog/2026-09-16-federal_data_science_management/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/nmfs-openscapes/nmfs-openscapes.github.io/blob/main/blog/2026-09-16-federal_data_science_management/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/nmfs-openscapes/nmfs-openscapes.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
