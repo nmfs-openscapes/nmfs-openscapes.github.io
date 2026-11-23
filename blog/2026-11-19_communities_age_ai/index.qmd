@@ -135,3 +135,4 @@ The discussion that followed is well worth watching, and I encourage you to do s
 [^7]: Padgham, Mark. 2026\. “Coding Alone.” mpadge, October 12\. [https\://mpadge.eu/blog/coding-alone.html](https://mpadge.eu/blog/coding-alone.html).
 
 [^8]:  Padgham, Mark. 2026\. askfirst: Connect AI with Your Coding Communities. [https\://github.com/mpadge/askfirst](https://github.com/mpadge/askfirst).
+
